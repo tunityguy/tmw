@@ -1,0 +1,63 @@
+@soi_icon_x_pos = 360
+@soi_icon_y_pos = -25
+@soi_text_x_pos = 60
+@soi_text_y_pos = -25
+
+guiTypes = {
+	containerWindowType = {
+		name = "KR_state_of_interest"
+		size = { width = 372 height = 60 }
+
+		iconType = {
+			name = "KR_state_of_interest_vp_hugger"
+			spriteType = GFX_vp_hugger
+			position = { x = -1152 y = 6 }
+			alwaystransparent = yes
+		}
+
+		background = {
+			name = "KR_state_of_interest_header"
+			spriteType = "GFX_tiled_decisions_bg_crt_small"
+			position = { x = 34 y = -52 }
+			alwaystransparent = yes
+		}
+	}
+
+	########################
+	###       ASIA       ###
+	########################
+
+	### CHINESE PROVINCE ###
+	containerWindowType = {
+		name = "KR_state_of_interest_chinese_province"
+
+	#	buttonType = {
+	#		name = "chinese_province_icon"
+	#		spriteType = "GFX_idea_government"
+	#		position = { x = @soi_icon_x_pos  y = @soi_icon_y_pos }
+	#	}
+
+		instantTextBoxType = {
+			name = "chinese_state_title"
+			text = "[THIS.GetName]"
+			font = aldrich_36_outline
+			format = center
+
+			position = { x = @soi_text_x_pos  y = -46 }
+			maxWidth = 330
+			maxHeight = 30
+		}
+
+		instantTextBoxType = {
+			name = "chinese_province_title"
+			text = "chinese_province_title"
+			font = aldrich_24_outline
+			format = center
+
+			position = { x = @soi_text_x_pos  y = -20 }
+			maxWidth = 330
+			maxHeight = 30
+		}
+	}
+}
+
