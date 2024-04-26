@@ -70,8 +70,8 @@ guiTypes = {
 		origo = upper_right
 
 		iconType = {
-			name ="frontend_tno_logo"
-			spriteType = "GFX_frontend_tno_logo"
+			name ="frontend_tmr_logo"
+			spriteType = "GFX_frontend_tmr_logo"
 			position = { x = -300 y = 40 }
 		}
 		

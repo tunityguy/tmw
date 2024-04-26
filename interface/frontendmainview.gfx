@@ -13,8 +13,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/logo_game.dds"
 	}
 	spriteType = {
-		name = "GFX_frontend_tno_logo"
-		texturefile = "gfx/interface/logo_tno.dds"
+		name = "GFX_frontend_tmr_logo"
+		texturefile = "gfx/interface/logo_tmr.dds"
 	}
 
 	spriteType = {
