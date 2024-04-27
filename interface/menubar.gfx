@@ -95,7 +95,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_countryaction_gotolocation_big"
-		texturefile = "gfx\\interface\\countryaction_gotolocation_big.dds"
+		texturefile = "gfx/interface/countryaction_gotolocation_big.dds"
 	}
 
 	frameAnimatedSpriteType = {
