@@ -11,4 +11,4 @@ tags={
 }
 name="The Multipolar World"
 supported_version="1.14.4"
-picture="logo.jpg"
+picture="thumbnail.png"
