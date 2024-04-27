@@ -72,7 +72,7 @@ guiTypes = {
 		iconType = {
 			name ="frontend_tmr_logo"
 			spriteType = "GFX_frontend_tmr_logo"
-			position = { x = -300 y = 20 }
+			position = { x = -325 y = 20 }
 		}
 		
 		ButtonType = {
