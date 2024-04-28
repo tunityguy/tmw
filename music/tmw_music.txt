@@ -1,0 +1,5 @@
+music_station = "tmw_songs"
+music = {
+	song = maintheme
+	chance = { factor = 1 }
+}
