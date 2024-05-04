@@ -1,0 +1,3 @@
+
+graphical_culture = RUS_africa
+graphical_culture_2d = ARK
