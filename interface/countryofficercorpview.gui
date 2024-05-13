@@ -367,7 +367,7 @@ guiTypes = {
 			name = "advisor_theorist_entry"
 			quadTextureSprite = "GFX_tiled_plain_bg"
 			position = { x = -1000 y = 71 }#x=0
-			size = { x = 550 y = 100 }
+			size = { width=84 height=150 }
 			Orientation = "UPPER_LEFT"
 		}
 

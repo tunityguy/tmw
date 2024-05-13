@@ -206,7 +206,6 @@ guiTypes = {
 			maxHeight = 20
 			format = left
 			fixedsize = yes
-			clipping = yes
 		}
 		
 	}
