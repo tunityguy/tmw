@@ -4,7 +4,6 @@ tags={
 	"Gameplay"
 	"National Focuses"
 	"Events"
-	"Map"
 	"Ideologies"
 	"Military"
 	"Graphics"
