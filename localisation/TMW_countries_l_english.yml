@@ -13,14 +13,18 @@
  
  # B
  
- 
  # C
- CZE:0 "Czech Republic"
- CZE_DEF:0 "the Czech Republic"
- CZE_ADJ:0 "Czech"
+ CZE_ONLY:0 "Bohemia"
+ CZE_ONLY_democratic:0 "Bohemia"
+ CZE_ONLY_DEF:0 "Bohemia"
+ CZE_ONLY_ADJ:0 "Czech"
  
  # D
  
+ DEN:0 "Daniya"
+ DEN_democratic:0 "Daniya"
+ DEN_DEF:0 "Daniya"
+ DEN_ADJ:0 "Danish"
  
  # E
  
@@ -29,15 +33,27 @@
  
  
  # G
+ 
  GAL:1 "Lvovskaya Administratsiya"
  GAL_DEF:0 "the Lvovskaya Administratsiya"
  GAL_ADJ:0 "Lvovskayan"
  
  GER:1 "Bundesrepublik Deutschland"
- GER_DEF:0 "das Bundesrepublik Deutschland"
+ GER_fascism:1 "Bundesrepublik Deutschland"
+ GER_DEF:1 "das Bundesrepublik Deutschland"
  GER_ADJ:0 "German"
  
+ GRE:0 "Greece"
+ GRE_neutrality:0 "Greece"
+ GRE_DEF:0 "Greece"
+ GRE_ADJ:0 "Greek"
+ 
  # H
+ 
+ HUN:0 "Hungary"
+ HUN_neutrality:0 "Hungary"
+ HUN_DEF:0 "Hungary"
+ HUN_ADJ:0 "Hungarian"
  
  
  # I
@@ -53,6 +69,11 @@
  
  
  # M
+
+ MDV:0 "Pridnestrov'ye"
+ MDV_democratic:0 "Pridnestrov'ye"
+ MDV_DEF:0 "Pridnestrov'ye"
+ MDV_ADJ:0 "Moldovan"
  
  
  # N
@@ -63,20 +84,42 @@
  
  # P
  
+ POL:0 "Pol'sha"
+ POL_neutrality:0 "Pol'sha"
+ POL_DEF:0 "Pol'sha"
+ POL_ADJ:0 "Polish"
+ 
  
  # Q
  
  
  # R
+ ROM:1 "People's Republic of Lipovania"
+ ROM_democratic:1 "People's Republic of Lipovania"
+ ROM_DEF:1 "The People's Republic of Lipovania"
+ ROM_ADJ:0 "Lipovan"
  
  
  # S
  
+ SOV:1 "Rossiyskaya Federatsiya"
+ SOV_communism:1 "Rossiyskaya Federatsiya"
+ SOV_DEF:1 "Rossiyskaya Federatsiya"
+ SOV_ADJ:0 "Russian"
+ 
  
  # T
  
+ TUR:1 "Anatolian Union"
+ TUR_neutrality:1 "Anatolian Union"
+ TUR_DEF:1 "the Anatolian Union"
+ TUR_ADJ:0 "Anatolian"
  
  # U
+ UKR:1 "Malorossiya"
+ UKR_democratic:1 "Malorossiya"
+ UKR_DEF:1 "Malorossiya"
+ UKR_ADJ:0 "Ukranian"
  
  
  # V

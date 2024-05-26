@@ -116,10 +116,10 @@ ITA = {
 	color_ui = rgb { 56 107 70 }
 }
 ROM = {
-	color = rgb { 153 139 104 }
-	color_ui = rgb { 153 139 104 }
+	color = rgb { 63 69 81 }
+	color_ui = rgb { 63 69 81 }
 }
-MOL = {
+MDV = {
 	color = rgb { 92 125 115 }
 	color_ui = rgb { 92 125 115 }
 }
