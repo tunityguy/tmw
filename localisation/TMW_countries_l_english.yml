@@ -1,4 +1,4 @@
-﻿1_english:
+﻿l_english:
  ###  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗██████╗ ██╗   ██╗    ███╗   ██╗ █████╗ ███╗   ███╗███████╗███████╗ ###
  ### ██╔════╝██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝██╔══██╗╚██╗ ██╔╝    ████╗  ██║██╔══██╗████╗ ████║██╔════╝██╔════╝ ###
  ### ██║     ██║   ██║██║   ██║██╔██╗ ██║   ██║   ██████╔╝ ╚████╔╝     ██╔██╗ ██║███████║██╔████╔██║█████╗  ███████╗ ###
@@ -11,12 +11,13 @@
  
  # A
  
- 
  # B
  
  
  # C
- 
+ CZE:0 "Czech Republic"
+ CZE_DEF:0 "the Czech Republic"
+ CZE_ADJ:0 "Czech"
  
  # D
  
@@ -28,7 +29,13 @@
  
  
  # G
+ GAL:1 "Lvovskaya Administratsiya"
+ GAL_DEF:0 "the Lvovskaya Administratsiya"
+ GAL_ADJ:0 "Lvovskayan"
  
+ GER:1 "Bundesrepublik Deutschland"
+ GER_DEF:0 "das Bundesrepublik Deutschland"
+ GER_ADJ:0 "German"
  
  # H
  
