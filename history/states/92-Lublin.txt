@@ -15,13 +15,7 @@ state={
 
 		}
 		add_core_of = GAL
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
 
-			}
-
-		}
 
 	}
 

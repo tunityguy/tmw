@@ -1,0 +1,92 @@
+### Image Locations
+defined_text = {
+	name = GetFactionStatus_icon
+
+	### Moscow ###
+	#Master of Europe
+	text = {
+		trigger = { has_idea = Moscow_Pact_Leader }
+		localization_key = "GFX_Moscow_Pact_Leader"
+	}
+	# Moscow Pact Member
+	text = {
+		trigger = { has_idea = Moscow_Pact_Member }
+		localization_key = "GFX_Moscow_Pact_Member"
+	}
+
+	#Generic
+	text = {
+		localization_key = "GFX_generic_faction_small"
+	}
+}
+
+# Faction or no faction
+defined_text = {
+	name = GetFactionNoFaction
+	text = {
+		trigger = { is_in_faction = yes }
+		localization_key = "[THIS.GetFactionName]"
+	}
+}
+
+##TOOLTIP
+#Tooltip Template
+defined_text = {
+	name = GetFactionStatus_tooltip
+	text = { localization_key = FactionStatus_tooltip }
+}
+
+#Name
+defined_text = {
+	name = GetFactionStatus_name
+
+	### Moscow ###
+	#Master of Europe
+	text = {
+		trigger = { has_idea = Moscow_Pact_Leader }
+		localization_key = Moscow_Pact_Leader
+	}
+	text = {
+		trigger = { has_idea = Moscow_Pact_Member }
+		localization_key = Moscow_Pact_Member
+	}
+
+	### Fallback/generic faction
+	text = { localization_key = Generic_Faction }
+}
+
+#Name
+defined_text = {
+	name = GetFactionStatus_effect
+
+	### Moscow ###
+	#Master of Europe
+	text = {
+		trigger = { has_idea = Moscow_Pact_Leader }
+		localization_key = Moscow_Pact_Leader_effect
+	}
+	text = {
+		trigger = { has_idea = Moscow_Pact_Member }
+		localization_key = Moscow_Pact_Member_effect
+	}
+}
+
+defined_text = {
+	name = GetFactionStatus_desc
+
+	### Moscow ###
+	#Master of Europe
+	text = {
+		trigger = { has_idea = Moscow_Pact_Leader }
+		localization_key = Moscow_Pact_Leader_desc
+	}
+	text = {
+		trigger = { has_idea = Moscow_Pact_Member }
+		localization_key = Moscow_Pact_Member_desc
+	}
+
+	###Fallback/generic
+	text = {
+		localization_key = Generic_Faction_desc
+	}
+}

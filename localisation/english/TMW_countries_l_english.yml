@@ -1,0 +1,197 @@
+﻿l_english:
+ ###  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗██████╗ ██╗   ██╗    ███╗   ██╗ █████╗ ███╗   ███╗███████╗███████╗ ###
+ ### ██╔════╝██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝██╔══██╗╚██╗ ██╔╝    ████╗  ██║██╔══██╗████╗ ████║██╔════╝██╔════╝ ###
+ ### ██║     ██║   ██║██║   ██║██╔██╗ ██║   ██║   ██████╔╝ ╚████╔╝     ██╔██╗ ██║███████║██╔████╔██║█████╗  ███████╗ ###
+ ### ██║     ██║   ██║██║   ██║██║╚██╗██║   ██║   ██╔══██╗  ╚██╔╝      ██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║ ###
+ ### ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ██║  ██║   ██║       ██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗███████║ ###
+ ###  ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝ ###
+ ## Country tags are sorted alphabetically
+ ## MAKE SURE THAT WHATEVER YOU ADD CONFORMS TO THE ALPHABETICAL ORDER
+ ## If not then I'm going to appear on your bedroom at 2AM brandishing an axe
+ 
+ # A
+ ALB: "Republic of Albania"
+ ALB_DEF: "The Republic of Albania"
+ ALB_ADJ: "Albanian"
+
+ AUS: "Republic of Austria"
+ AUS_DEF: "The Republic of Austria"
+ AUS_ADJ: "Austrian"
+ 
+ # B
+ BEL: "Kingdom of Belgium"
+ BEL_DEF: "The Kingdom of Belgium"
+ BEL_ADJ: "Belgian"
+ 
+ # C
+ CHI: "Zhonghua Renmin Gongheguo"
+ CHI_DEF: "Zhonghua Renmin Gongheguo"
+ CHI_ADJ: "Chinese"
+
+ CRO: "Republic of Croatia"
+ CRO_DEF: "The Republic of Croatia"
+ CRO_ADJ: "Croatian"
+
+ CZE_ONLY: "Czech Autonomous Special Zone"
+ CZE_ONLY_DEF: "The Czech Autonomous Special Zone"
+ CZE_ONLY_ADJ: "Czech"
+ 
+ # D
+ 
+ DEN: "Daniya"
+ DEN_DEF: "Daniya"
+ DEN_ADJ: "Danish"
+ 
+ # E
+ ENG: "United Kingdom"
+ ENG_DEF: "The United Kingdom"
+ ENG_ADJ: "British"
+ 
+ 
+ # F
+ FRA: "French Republic"
+ FRA_DEF: "The French Republic"
+ FRA_ADJ: "French"
+ 
+ 
+ # G
+ 
+ GAL: "Lvovskaya Administratsiya"
+ GAL_DEF: "the Lvovskaya Administratsiya"
+ GAL_ADJ: "Lvovskayan"
+ 
+ GER: "Federal Republic of Germany"
+ GER_DEF: "The Federal Republic of Germany"
+ GER_ADJ: "German"
+ 
+ GRE: "Hellenic Republic"
+ GRE_DEF: "The Hellenic Republic"
+ GRE_ADJ: "Greek"
+ 
+ # H
+ HOL: "Kingdom of the Netherlands"
+ HOL_DEF: "The Kingdom of the Netherlands"
+ HOL_ADJ: "Dutch"
+ 
+ HUN: "Hungary"
+ HUN_DEF: "Hungary"
+ HUN_ADJ: "Hungarian"
+ 
+ 
+ # I
+ ICE: "Iceland"
+ ICE_DEF: "Iceland"
+ ICE_ADJ: "Icelandic"
+
+ IRE: "Ireland"
+ IRE_DEF: "Ireland"
+ IRE_ADJ: "Irish"
+
+ ITA: "Italian Republic"
+ ITA_DEF: "The Italian Republic"
+ ITA_ADJ: "Italian"
+ 
+ # J
+ 
+ 
+ # K
+ 
+ 
+ # L
+ LUX: "Grand Duchy of Luxembourg"
+ LUX_DEF: "The Grand Duchy of Luxembourg"
+ LUX_ADJ: "Luxembourger"
+ 
+ 
+ # M
+
+ MDV: "Pridnestroovskaya Moldavskaya Respublika"
+ MDV_DEF: "Pridnestrovskaya Moldavskaya Respublika"
+ MDV_ADJ: "Moldovan"
+ 
+ 
+ # N
+ NOR: "Kingdom of Norway"
+ NOR_DEF: "The Kingdom of Norway"
+ NOR_ADJ: "Norwegian"
+ 
+ 
+ # O
+ 
+ 
+ # P
+ PER: "Jomhuri-ye Eslami-ye Iran"
+ PER_DEF: "Jomhuri-ye Eslami-ye Iran"
+ PER_ADK: "Iranian"
+ 
+ POL: "Respublika Pol'sha"
+ POL_DEF: "Respublika Pol'sha"
+ POL_ADJ: "Polish"
+
+ POR: "Portuguese Republic"
+ POR_DEF: "The Portuguese Republic"
+ POR_ADJ: "Portuguese"
+ 
+ 
+ # Q
+ 
+ 
+ # R
+ ROM: "Lipovanskaya Narodnaya Respublika"
+ ROM_DEF: "Lipovanskaya Narodnaya Respublika"
+ ROM_ADJ: "Lipovan"
+
+ RUS: "Rossiyskaya Federatsiya"
+ RUS_DEF: "Rossiyskaya Federatsiya"
+ RUS_ADJ: "Russian"
+ 
+ # S
+ SER: "Republic of Serbia"
+ SER_DEF: "The Republic of Serbia"
+ SER_ADJ: "Serbian"
+
+ SLO: "Slovako-Czech Republic"
+ SLO_DEF: "The Slovako-Czech Republic"
+ SLO_ADJ: "Slovako-Czech"
+
+ SLV: "Republic of Slovenia"
+ SLV_DEF: "The Republic of Slovenia"
+ SLV_ADJ: "Slovene"
+
+ SPR: "Spanish Republic"
+ SPR_DEF: "The Spanish Republic"
+ SPR_ADJ: "Spanish"
+
+ SWE: "Independent State of Sweden"
+ SWE_DEF: "The Independent State of Sweden"
+ SWE_ADJ: "Swedish"
+
+ SWI: "Swiss Confederation"
+ SWI_DEF: "The Swiss Confederation"
+ SWI_ADJ: "Swiss"
+ 
+ # T
+ 
+ TUR: "Anatolian Union"
+ TUR_DEF: "the Anatolian Union"
+ TUR_ADJ: "Anatolian"
+ 
+ # U
+ UKR: "Malorossiya"
+ UKR_DEF: "Malorossiya"
+ UKR_ADJ: "Russian"
+ 
+ 
+ # V
+ 
+ 
+ # W
+ 
+ 
+ # X
+ 
+ 
+ # Y
+ 
+ 
+ # Z

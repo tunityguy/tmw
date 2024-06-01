@@ -129,7 +129,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name ="pol_power"
 			position = { x = 120 y = 8 }
-			font = "invisiblefont"
+			font = "aldrich_22_outline"
 			text = "999"
 			format = center
 			maxWidth = 52
@@ -179,7 +179,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name ="stability"
 			position = { x = 255 y = 10 }
-			font = "invisiblefont"
+			font = "aldrich_22_outline"
 			text = "100%"
 			format = right
 			maxWidth = 57
@@ -211,7 +211,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name ="war_support"
 			position = { x= 325 y = 10 }
-			font = "invisiblefont"
+			font = "aldrich_22_outline"
 			text = "100%"
 			format = right
 			maxWidth = 57

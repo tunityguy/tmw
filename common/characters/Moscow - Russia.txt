@@ -1,0 +1,17 @@
+characters = {
+    RUS_Vladimir_Putin = {
+        name = "Vladimir Putin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RUS/Portrait_Russia_Vladimir_Putin.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_VLADIMIR_PUTIN_DESC"
+			ideology = national_socialism_putinism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

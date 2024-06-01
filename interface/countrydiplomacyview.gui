@@ -149,7 +149,7 @@ guiTypes = {
 				position = { x = 230 y = 40 }
 				font = "Bomb_16"
 				text = "Germanian"
-				maxWidth = 300
+				maxWidth = 290
 				fixedsize = yes
 				maxHeight = 20
 				format = left
@@ -376,7 +376,7 @@ guiTypes = {
 
 					instantTextboxType = {
 						name = "ideology_name"
-						position = { x = 5 y = 24 } #y = 27
+						position = { x = 5 y = 27 } #y = 27
 						#position = { x = -5000 y = 27 }
 						font = "invisiblefont"
 						text = "ideology"

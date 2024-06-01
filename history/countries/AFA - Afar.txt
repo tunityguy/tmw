@@ -1,0 +1,34 @@
+﻿capital = 908
+
+OOB = "AFA_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	camelry = 1
+}
+
+add_manpower = 15000
+
+add_ideas = {
+	bba_AFA_skilled_desert_warriors
+}
+
+ITA = {
+	give_guarantee = AFA
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = paternalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	conservatism = 0
+	fascism = 20
+	communist = 5
+	paternalism = 75
+}

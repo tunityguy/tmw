@@ -1,0 +1,151 @@
+﻿l_english:
+
+# LOC INDEX
+# If you want to find anything - select a thing from the index below and press ctrl+f. The idea is not stolen from Calph, of course. Then copied by Storm for TFL
+#
+# Country Names - Starting
+# Party names - Starting
+GER_fascism_party: "DPP"
+GER_fascism_party_long: "Deutsche Demokratische Partei"
+# Country Names - Cosmetic Tags
+# Party names - Cosmetic Tags
+# Character names -
+# Ministers
+# Ideas
+# Modifiers
+# Country Desc
+# Leader Bios
+# Difficulty Decisions
+# Debug Decisions
+# Focuses
+#   Intro Tree
+#   Collab Pre-Uprising Tree 
+#   Collab Pre-ECW Tree
+#   VFDF Pre-ECW Tree
+#   Post-ECW collab tree
+#   Post-ECW VFDF tree
+#   Post-ECW VFDF tree
+#
+# Decisions
+# GUIs
+# Tooltips
+# Scripted Loc
+# Leader Traits
+# Opinion Modifiers
+# Wars - Names
+# Wars - Peace Popups and Flavors
+# Flags
+# Events
+# Domvile/Pre-Uprising Events
+# World Events
+# Inauguration Events
+
+############################
+# Country Names - Starting #
+############################
+##########################
+# Party names - Starting #
+##########################
+
+
+
+
+
+
+#############
+# Character names #
+#############
+
+###Collab
+
+#GER_Gerhard_Schroeder:0 "Gerhard Schröder"
+#GER_Mikhail_Teplinsky:0 "Mikhail Teplinsky"
+#GER_Tino_Chrupalla:0 "Tino Chrupalla"
+#GER_Stephan_Brandner:0 "Stephan Brandner"
+#GER_Frank_Franz:0 "Frank Franz"
+
+GER_Gerhard_Schroder: "Gerhard Schröder"
+
+
+
+
+
+## Pühse Civil War ##
+
+
+
+
+
+
+##Military
+
+#Collab
+
+# These Guys Don't Exist in Character Files
+
+
+
+
+
+# Generals
+
+
+
+
+# Admirals
+
+
+
+
+###Resistance
+
+
+
+
+
+
+
+# Admirals
+
+
+
+#############
+# Ministers #
+#############
+
+### England starting ministers
+
+ENG_Frank_Franz_hog_desc:0 "§YHome Secretary\n$rascism_german_rascism_1_subtype$§!\n--------------\n§LThe British Fascist movement is not confined to stuffy halls and stately manors. It lives in the streets, marching in unison and wearing a blackshirt uniform and decrying the evils of global finance. And at this mob's head stands Andrew Fountaine.\n\nBorn at the close of the Great War in Norfolk, Fountaine lived a life filled with conflict, growing up with an Admiral for a father and having fought on the side of Franco's Nationalists in the Spanish Civil War. When the Second World War began, he would go on to enlist in the Navy. But when he returned home, Fountaine would find a much different Britain from when he left.\n\nFrom here, he rapidly rose through the ranks in the BPP, with his unrepentant support for a Fascism that spoke to the working man rather than the Baron, eventually becoming the biggest opponent of Butler and the Pragmatists. With his distinct base of support and undeniable competence, Fountaine was the ideal selection for Home Secretary. Now as one of the most powerful men in Britain and Domvile's right-hand man, Fountaine can almost sense the flame he has been stoking for years about to burst free and consume what remains of the Old Order - if only Domvile would allow him to do so.§!"
+
+ENG_Stephan_Brandner_for_desc:0 "§YForeign Secretary\n$rascism_german_rascism_1_subtype$§!\n--------------\n§LRonald Nall-Cain is not a particularly remarkable man by himself - a well-read, bookish man known for little more than being the Foreign Secretary. But it is less Nall-Cain himself that is remarkable, but the men he holds company with.\n\nBorn into wealth in 1904, he went into politics with a stint in the Commons before joining the House of Lords after his father's death. It was in the Lords with his fellow members of the Old Guard where he became well-known as a keen ally of the Reich; he joined pro-German organisations, became a personal friend of Foreign Minister Von Ribbentrop, and even attended Hitler's 50th birthday. While this stalled his public career in the immediate lead-up to the war and during it, his fortunes rose once again after Operation Sealion succeeded and Germany occupied Britain. After the occupation began, he was made Ambassador to Germany at the wishes of Berlin, wherein his friendship with the regime grew even stronger. After Domvile's ascension to Downing Street, Nall-Cain's ardently pro-German alignment and tendency to get the job done quickly and efficiently made him Domvile's first choice for the foreign office, wherein he quickly became his favourite - or if not, least reviled - member of cabinet.§!"
+
+GER_Tino_Chrupalla_eco_desc:0 "§YChancellor of the Exchequer\n$paternalism_controlled_democracy_subtype$§!\n--------------\n§LThe tale of Richard Austen Butler is one that invokes the old adage that all roads to hell are paved in good intentions. Elected to Parliament in 1929, Butler would be a key supporter of appeasement from the very begininng. This was less so out of love for Germany as was the case for some of his peers, but more so out of the genuine belief that Britain should never go through the hell brought by the great war ever again. Sadly, his efforts were for naught as the Second World War consumed the entire world. And as German boots set foot on British shores, he sealed his fate by choosing to stay rather than flee.\n\nIn exchange for collaboration, he was allowed to be Chancellor of the Exchequer, charting out a path for partial economic recovery by allowing the German corporations to do as they pleased. He stood by, accruing a following of like-minded individuals who advocated for a more pragmatic approach to collaboration rather than the dogmatic idolatry of the rest of the party. As 1962 begins, Butler can feel the years starting to weigh on him, as the dream of a Britain both free and safe that he has held for so long seems all too distant. But he cannot give up yet, lest the vultures start to pick away what remains of British democracy.§!"
+
+GER_Mikhail_Teplinsky_sec_desc:0 "§YReich Plenipotentiary to Britain\n$putinism$§!\n--------------\n§LWho governs Britain? A simple question with a simple answer; the German plenipotentiary in Britain. Whenever the Reich needed a conquered people exploited, someone to keep unruly puppet governments in line, they turned to one man - and that man is Edmund Veesenmayer. With experience managing the integration of Austria, ties to business circles, and as the Reich's envoy to Slovakia and Croatia along with his role in Ireland, he was the perfect fit for the troublesome child that was Britain.\n\nEver since he arrived on these rainy shores in 1955, he has done his job to the letter, keeping the government down and ensuring Berlin's wishes are fulfilled. However, there is an oppressive stillness in the air - one that was not present when he first came. The Terrible Twins cannot be found, rumours of secret armies are being seen spread, and remnants of the war are still being dug up. All while the government squabbles, it is beset by internal division, corruption, and instability leading it unable to do anything as the knives come out of the shadows. Veesenmayer knows that he is the only man who can protect German rule in Britain - and the only man who can ensure that the British lion stays buried.§!"
+
+### Collab civil war nat ministers
+
+
+
+
+###############
+# Leader Bios #
+###############
+
+###Collab up to and including civil war
+
+POLITICS_GERHARD_SCHROEDER_DESC:0 "Throughout the long and storied history of Germany, it has frequently been sang by millions across the globe that Britannia ruled the waves. And yet, it was not until she was conquered that a sailor was selected to rule over her. But Sir Barry Edward Domvile is no great hero of the waves, nor a conqueror of fair lands like his ancestors were. No, in fact, Domvile is perhaps the most hated man on the British Isles; a traitor of the highest order, and the captain at the helm of nothing more than a shackled Kingdom.\n\nBorn in 1878 to Admiral Sir Compton Domvile, he followed in his father's footsteps and joined the navy in 1892, commanding ships during the First World War and being further promoted afterwards to serve in a variety of different offices, including Director of Naval Intelligence. But Domvile's true purpose came with his infatuation with the far-right, which would begin after his visit to Germany in 1935, wherein after being impressed by the Nazi government he was invited to the Nuremberg Rally as a guest of Joachim von Ribbentrop, joining numerous Anglo-German organisations soon after. At the outbreak of war, Domvile spoke of the need for "a bloody revolution", leading to his internment in 1940.\n\nYet the 'revolution' would come with foreign arms, as Wehrmacht soldiers stormed the British beaches. While being overlooked by the Lloyd-George government, he would be placed in key governmental positions in the subsequent ministries, becoming something of a titan of the British People's Party's establishment. Following Chesterton's failures and the upswing in resistance activity, Domvile's good standing with almost all factions in government and perceived competence made him the natural selection for Prime Minister.\n\nNow, after 6 years of steering the ship through dangerous waters, the consensus seems to be that he has done a better job than most could in his position. The economy seems to be steadily recovering, the nation seems to grow more and more unified by the day, and the ghosts of the past grow ever dimmer. And as for the resistance, Domvile's methods seemed to have worked - after all, their activity has dramatically declined since the 1950's. Perhaps this is the beginning of a new age.\n\n§xOr perhaps this is just the calm before the storm...§!"
+
+POLITICS_GERARD_WALLOP_DESC:0 "God, King, Country. Those are the words that Gerard Wallop, 9th Earl of Portsmouth has sworn by, and those are the words that Britain had forgotten. The church had been torn down from the position of protecting the soul of the English stock. The King had been betrayed by the people he led to glory. The country that nourished them all had been despoiled and destroyed by the creeping grasp of industrialization and finance. Yet Wallop stands to reverse this doom.\n\nThe traitors might claim that England was destroyed as Sealion swept across her rolling hills. They are wrong. Sealion saw England's rebirth. As the British People's Party slowly consolidated under Lord Tavistock, Wallop joined his old allies from the English Mistery and Array, placing him as one of the key leaders of the Old Guard of the party. After only rising higher during their brief zenith of power under Chesterton, Wallop was one of the few who retained their post in the aftermath of 1956. As Leader of the re-empowered House of Lords, Wallop held a high position in the ministry, and for eight years England lay at peace under Domvile's ageing eye. And when the fires of another uprising were at last put out, once more it seemed the Old Guard stood triumphant, with Lord Portsmouth their new leader.\n\nBritain now lies at the mercy of this man - a staunch believer in Social Credit economics and an obsessive ruralist who dreams of a near-feudal society without a care for popular approval. Whether or not he pursues his own impulses or follows the legacy of his party, Britain's fate rests in the hands of a new, terrifying master."
+
+POLITICS_RONALD_NALL_CAIN_DESC:0 "Arthur Ronald Nall-Cain did not want to be in this position. No sane man ever would - least of all the man who enjoyed little personal popularity or recognition beyond his position as Foreign Secretary under Domvile. But fate has a cruel sense of humour, as do the treacherous dogs that populate the resistance. When news of Domvile's assassination by none other than Maxwell Knight came to light, the fragile order that the British People's Party had carved out over Britain's fair shores came crumbling to a swift and brutal end.\n\nRapidly installed as the interim Prime Minister due to his ties to the Reich and lack of genuine partisan alignment, Nall-Cain is now faced with a nation in flames. His task is to restore order and crush HMMLR at any and all costs. A daunting task that most would shy away from in fear. Ironically, the state of emergency has provided a Nall-Cain a luxury Domvile could never quite experience - for once, the many faces of the party have ceased their constant bickering and now find themselves willing to rally together against the resistance. From Haller-Cooper's men in the British Free Corps to the reformists in the party, the majority of the government is finally united. Unluckily for him, HMMLR is a dedicated movement; a weed with roots so deep into the country that removing them will be an arduous - and some may say, nigh-impossible - task..\n\n§RThe fate of Britain lies in the balance, and it is up to Nall-Cain and his allies to prevent pure anarchy...§!"
+
+POLITICS_MAXWELL_KNIGHT_DESC:0 "The mask has fallen.\n\nFor the past nineteen years Maxwell Knight has kept up a careful façade of loyalty to London and the British People's Party government. In that time, he has led a double life as the oh-so rare boss of HMMLR, a man that the government scoured Britain for, but they never thought to look beneath their own noses. When news of Hitler's death came, Knight knew that the time had come. The assassination of Domvile was the capstone of Knight's work as the head of HMMLR and the begining of his final fight for liberation..\n\nAcross Britain as the people rise up in the name of the country that still lives in their hearts, the dream of a truly free Britannia remains in the hearts of Britons; Knight stands at their head with his fellow comrades of the resistance to his side. As the fragile order that the Reich forged over Europe burns, Knight is determined to see the slaughter done unto Britannia avenged, and if he cannot do that, §Rhe will make the fascists pay with blood for their victory...§!"
+
+POLITICS_COLIN_JORDAN_DESC:0 "Where is honour to be found in the New Order? For some it is found in resisting the evil that surrounds them, others in doing their best to reduce the harm brought by their new masters, others in embracing it in part and working within it for the benefit of those they care the most. For Colin Jordan, his honour is his loyalty, loyalty to Germany, loyalty to the Führer, loyalty to National Socialism, and last but definitely not least, his loyalty to Britain, or at least to his vision of it.\n\nBeing one of the first open collaborators on the onset of the German invasion, his loyalty was eventually rewarded with being put in charge of the British Free Corps, giving him the nickname "The Führer of the Isles", used by both friend and foe. Not content with the BFC being a mere peacekeeping force, Jordan swiftly moved to imbue the organisation with his own personal ideals, a fanatic if idiosyncratic form of National Socialism, hoping to combine brute force with unwavering purity of vision. It was those choices and circumstances that ended up landing him close to the seats of power in the British government, and he seems to not be content in simply working for it.\n\nEvery day he seems to get closer to his goal, and only time will tell if he will succeed."
+
+POLITICS_RAB_BUTLER_DESC:0 "Throughout the history of the United Kingdom, there have been many labelled traitors - the likes of Anthony Babbington, Guy Fawkes and Carl Hans Lody come to mind. But none have done so with as many good intentions as the newest of them all; his Majesty's former loyal Chancellor of the Exchequer and now Prime Minister, Richard Austen 'Rab' Butler.\n\nBorn in Colonial India to an Imperial administrator, Butler was elected to Parliament in 1929. He would go further than most in arguing for appeasement from the beginning - not out of love for the Reich, but seeing no other option. And when the boots of the Wehrmacht marched across the isles, this line of thinking came to its rational conclusion as he chose to collaborate for the good of the nation. As Chancellor, his vision came true, as he charted out a pragmatic course of economic recovery that helped Britain to recover from the twin devastations of the Blitz and Sealion.\n\nNow in the wake of the recent uprising, Butler has beaten back the efforts of his despotic and buffoonish rivals as he rose to the highest office of all. But unlike his peers, Butler does not seek to further entrench the BPP in a one-party state. Much the opposite, in fact.\n\nButler remembers the days of British democracy, and after years of waiting, he finally has the chance to bring it back. With the aid of his loyal allies Reginald Maudling and Harold Wilson, he seeks to revive the failing British economy, revitalize the failing welfare state and chart an independent foreign policy alongside its dependable partner, the German Reich. Perhaps one day Britain will be a land of hope and glory once more - a country in which democracy is praised, not rejected. Yet this dream is a brittle one. Butler is no longer a young man, after all, and Britain has not known democracy in years. It remains to be seen whether the lion will roar once again, or whether she will forever be chained to the boot of the eagle."
+ 
+POLITICS_ANDREW_FOUNTAINE_DESC:0 "The vision of a Fascist Britain has been reborn - no longer in the form of the antiquitated, dusty politics held by old men and has-beens, but under the banner of the young and the new. And at the head of that banner is none other than Andrew Fountaine.\n\nBorn into an aristocratic bloodline, Fountaine was always inclined towards reactionary politics - an inclination that drove him to fight under Franco's banner during the Spanish Civil War. It was there that he first saw a glimpse of the might of the Reich's war machine in action. When Britain marched to war against Berlin over Danzig, he did his duty and joined the Royal Navy, but as the Empire was shattered and the Swastika rose across Europe, Fountaine took the choice no patriot would ever wished to; he turned against his family, nation, and duty, laying down his arms to the Reich with nary a protest.\n\nAs a prominent landowner and one of the earliest collaborators, Fountaine rapidly rose through the ranks of the British People's Party. While it seemed that his public disputes with Chesterton may have doomed his career, Chesterton's failure only propelled him onwards to the office of Home Secretary. History repeated when the rebellion spurred on by Knight, traitor that he was, left a vacuum of power - one Fountaine seized with no hesitance. The resistance lies defeated, with their democracy-loving friends next in line to the gallows as a truly fascist Britain begins to take shape.\n\nAs the shadow of fascism is cast across the isles, Fountaine's vision can finally come true. Britain will lives, and march on!"
+
+POLITICS_WILLIAM_JOYCE_DESC:0 "Ask him how he earned his scar, the one that runs from mouth to ear, and he'll tell you that it was a Jewish communist. Ask around, and you'll hear it was a disagreement with an Irish girl. But Joyce has always preferred a dignified story than an ignoble truth.\n\nAn early supporter of British fascism, William Joyce turned to Germany after a falling out with Mosley's BUF. During the war, he served as a radio host, an English-language advocate for the German regime, making him infamously known as the menacing §RLord Haw Haw§!. After the war, he returned briefly to England as a champion of National Socialism. Such was his zeal that he even denounced John Beckett, founder of the British People's Party, for his long-buried Jewish heritage. He spent the next two decades in Germania as Britain's ambassador, exiled by a vengeful Old Guard.\n\nFor Joyce, his ascension after Sealion II is well-deserved compensation. But the title comes hanging upon strings. England's cruel fate is dictated in the backrooms of the Volkshalle. And whenever he speaks, though clothed with power's trappings, everyone knows for whom he's really speaking.\n\n§R"Germany calling, Germany calling, Germany calling..."§!"

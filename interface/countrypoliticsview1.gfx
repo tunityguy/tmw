@@ -637,28 +637,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/anarcho_communist.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_nazism"
-		texturefile = "gfx/interface/ideologies/national_socialism.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_gen_nazism"
-		texturefile = "gfx/interface/ideologies/national_socialism.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_fascism_ideology"
-		texturefile = "gfx/interface/ideologies/fascism.dds"
-	}
-	spriteType = {
 		name = "GFX_ideology_despotism"
 		texturefile = "gfx/interface/ideologies/despotism.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_moderatism"
 		texturefile = "gfx/interface/ideologies/paternalism.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_falangism"
-		texturefile = "gfx/interface/ideologies/falangism.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_leninism"

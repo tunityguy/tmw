@@ -1,0 +1,69 @@
+scripted_gui = {
+
+	TNO_SG_politics = {
+		context_type = player_context
+		parent_window_token = politics_tab
+		window_name = "TNO_SG_politics_faction_leader_container"
+
+		visible = {
+			always = yes
+		}
+
+		triggers = {
+			faction_leader_member_visible = {
+				is_in_faction = yes
+				#is_subject = no
+			}
+			faction_subject_visible = {
+				is_in_faction = yes
+				is_subject = yes
+			}
+			faction_icon_moscow_pact_visible = {
+				is_in_faction = yes
+				#is_subject = no
+				RUS = { is_faction_leader = yes }
+				OR = {
+					tag = RUS
+					is_in_faction_with = RUS
+				}
+			}
+			faction_icon_generic_visible = {
+				is_in_faction = yes
+				#is_subject = no
+				NOT = {
+					AND = {
+						RUS = { is_faction_leader = yes }
+						OR = {
+							tag = RUS
+							is_in_faction_with = RUS
+						}
+					}
+				}
+			}
+			current_faction_status_visible = {
+				is_in_faction = yes #observer
+			}
+		}
+
+		properties = {
+			current_faction_status = {
+				image = "[This.GetFactionStatus_icon]"
+			}
+		}
+	}
+	
+	TNO_SG_politics_bop_cover = {
+		context_type = player_context
+		parent_window_token = politics_tab
+		window_name = "TNO_SG_politics_bop_cover"
+		visible = {
+			NOT = { has_country_flag = TNO_disable_bop_cover }
+			has_any_power_balance = yes
+		}
+		effects = {
+			cover_button_click = {
+				set_country_flag = TNO_disable_bop_cover
+			}
+		}
+	}
+}

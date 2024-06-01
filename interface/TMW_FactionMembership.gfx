@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_Moscow_Pact_Leader"
+		textureFile = "gfx/interface/factions/status/GFX_Moscow_Pact_Leader.dds"
+	}
+	spriteType = {
+		name = "GFX_Moscow_Pact_Member"
+		textureFile = "gfx/interface/factions/status/GFX_Moscow_Pact.dds"
+	}
+}

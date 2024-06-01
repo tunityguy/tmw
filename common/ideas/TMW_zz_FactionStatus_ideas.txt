@@ -1,0 +1,24 @@
+ideas = {
+	hidden_ideas = {
+		### Pakt ###
+		#Master of Europe
+		Moscow_Pact_Leader = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Moscow_Pact_Leader" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
+
+			modifier = {
+				political_power_gain = 0.20
+			}
+		}
+		Moscow_Pact_Member = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Moscow_Pact_Member" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
+
+			modifier = {
+				political_power_gain = 0.10
+			}
+		}
+	}
+}

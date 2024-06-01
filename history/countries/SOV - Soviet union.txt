@@ -1,0 +1,32 @@
+﻿
+####
+#### VANILLA ####
+####
+
+capital = 219
+
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.3
+
+add_ideas = {	
+
+}
+
+
+
+set_convoys = 50
+
+set_politics = {
+	ruling_party = communist
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	conservatism = 10
+	fascism = 2
+	communist = 88
+}
+

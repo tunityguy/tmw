@@ -58,6 +58,10 @@ SOV = {
 	color = rgb { 61 79 94 }
 	color_ui = rgb { 61 79 94 }
 }
+RUS = {
+	color = rgb { 61 79 94 }
+	color_ui = rgb { 61 79 94 }
+}
 SWE = {
 	color = rgb { 47 81 175 }
 	color_ui = rgb { 47 81 175 }
@@ -76,8 +80,8 @@ BEL = { color 	 = rgb { 155 143 54  }
 HOL = {	color = rgb { 127 110 93 }
 		color_ui = rgb { 127 110 93 }
 }
-CZE = {	color = rgb { 38 91 147 }
-		color_ui = rgb { 38 91 147 }
+CZE = {	color = rgb { 160  169  183 }
+		color_ui = rgb { 160  169  183 }
 }
 POL = {
 	color = rgb { 132 88 100 }
@@ -88,8 +92,8 @@ GAL = {
 	color_ui = rgb { 31 31 33 }
 }
 AUS = {
-	color = rgb { 184 187 198 }
-	color_ui = rgb { 184 187 198 }
+	color = rgb { 130 140 130 }
+	color_ui = rgb { 130 140 130 }
 }
 WAS = {
 	color = rgb { 119 97 137 }
@@ -425,8 +429,8 @@ SYR = {
 }
 
 SER = {
-	color = rgb { 160 110 110 }
-	color_ui = rgb { 160 110 110 }
+	color = rgb { 49 71 104 }
+	color_ui = rgb { 49 71 104 }
 }
 
 ICE = {
