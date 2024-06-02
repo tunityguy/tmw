@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			desc = "POLITICS_VLADIMIR_PUTIN_DESC"
-			ideology = putinism_subtype
+			ideology = national_socialism_putinism_subtype
 			traits = { }
 			expire = "2999.1.1.1"
 			id = -1

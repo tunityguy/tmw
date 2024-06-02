@@ -8,8 +8,7 @@ state=
 	
 	history=
 	{
-		owner = GAB
-		add_core_of = GAB
+		owner = SPR
 		add_core_of = EQG
 		victory_points = {
 			1903 1 

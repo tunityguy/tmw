@@ -186,7 +186,6 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-<<<<<<< Updated upstream
 	conservatism = 75
 	fascism = 20
 	communist = 5
@@ -208,13 +207,4 @@ set_popularities = {
 	# Took office 5 days after this date
  	promote_character = SAF_jan_smuts
 	retire_character = SAF_j_b_m_hertzog
-=======
-	conservatism = 45
-	conservatism_1 = 8
-	liberalism = 14
-	paternalism = 10
-	paternalism_1 = 8
-	socialist = 10
-	socialist_1 = 5
->>>>>>> Stashed changes
 }
