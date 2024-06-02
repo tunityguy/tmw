@@ -107,7 +107,7 @@ set_popularities = {
 	communist = 2
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1936.10.19"

@@ -1,0 +1,17 @@
+characters = {
+    CHI_Xi_Jinping = {
+        name = "CHI_Xi_Jinping"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/Portrait_China_Xi_Jinping.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_XI_JINPING_DESC"
+			ideology = despotism_deng_xiaoping_theory_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

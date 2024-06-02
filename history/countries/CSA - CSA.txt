@@ -77,7 +77,7 @@ if = {
 
                  
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1199
 	add_command_power = 100
@@ -196,7 +196,7 @@ add_ideas = {
 	home_of_the_free
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1936.11.3"
@@ -304,7 +304,7 @@ create_equipment_variant = {
 
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	
 	create_equipment_variant = {
 		name = "Salmon Class"

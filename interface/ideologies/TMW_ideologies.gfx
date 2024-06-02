@@ -665,7 +665,11 @@ spriteTypes = {
 		name = "GFX_ideology_conservatism_liberal_corporatism_subtype"
 		texturefile = "gfx/interface/ideologies/conservatism_liberal_corporatism_subtype.dds"  
 	}
-
+	spriteType = {
+		name = "GFX_ideology_despotism_deng_xiaoping_theory_subtype"
+		texturefile = "gfx/interface/ideologies/despotism_deng_xiaoping_theory_subtype.dds"  
+	}
+	
 	# --- Main Ideologies --- #
 
 	spriteType = {

@@ -1,5 +1,7 @@
 recruit_character = GER_Gerhard_Schroder
 
+set_cosmetic_tag = GER_collab
+
 capital = 64
 if = {
 	limit = {
@@ -775,7 +777,7 @@ if = {
 }
 
 ## 1939 Start ##
-1939.1.1 = {
+2999.1.1 = {
 	if = {
 		limit = {
 			not = { has_dlc = "Man the Guns" }

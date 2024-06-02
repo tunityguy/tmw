@@ -21,6 +21,12 @@ add_to_faction = GAL
 add_to_faction = ROM
 add_to_faction = MDV
 add_to_faction = UKR
+add_to_faction = SWE
+add_to_faction = DEN
+add_to_faction = KAZ
+add_to_faction = UZB
+add_to_faction = TAJ
+add_to_faction = KYR
 
 if = {
 	limit = {
@@ -511,7 +517,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2999.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "By Blood Alone"

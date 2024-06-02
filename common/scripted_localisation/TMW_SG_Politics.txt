@@ -567,6 +567,10 @@ defined_text = {
 		localization_key = despotism_aristocratic_republicanism_subtype
 	}	
 	text = {
+		trigger = { has_country_leader_ideology = despotism_deng_xiaoping_theory_subtype }
+		localization_key = despotism_deng_xiaoping_theory_subtype
+	}	
+	text = {
 		localization_key = despotism
 	}
 }
