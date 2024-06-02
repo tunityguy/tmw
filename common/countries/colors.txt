@@ -208,8 +208,8 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
-	color_ui = hsv { 0.18 0.3 0.9 }
+	color = rgb { 180 60 50 }
+	color_ui = rgb { 180 60 50 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -368,7 +368,7 @@ SLO = {
 	color = rgb { 170  172  183 }
 	color_ui = rgb { 170  172  183 }
 }
-RAJ = {
+IND = {
 	color = rgb { 226  135  40 }
 	color_ui = rgb { 226  135  40 }
 }
@@ -534,8 +534,8 @@ PAK = {
 #    color_ui = rgb { 150 180 120 }
 #}
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 196 75 110 }
+	color_ui = rgb { 196 75 110 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }

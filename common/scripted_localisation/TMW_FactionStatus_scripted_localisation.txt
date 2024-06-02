@@ -14,6 +14,13 @@ defined_text = {
 		localization_key = "GFX_Moscow_Pact_Member"
 	}
 
+	### Sphere ###
+	#Leader
+	text = {
+		trigger = { has_idea = Shanghai_Pact_Leader }
+		localization_key = "GFX_Shanghai_Pact_Leader"
+	}
+
 	#Generic
 	text = {
 		localization_key = "GFX_generic_faction_small"
@@ -51,6 +58,13 @@ defined_text = {
 		localization_key = Moscow_Pact_Member
 	}
 
+	### Sphere ###
+	#Leader
+	text = {
+		trigger = { has_idea = Shanghai_Pact_Leader }
+		localization_key = Shanghai_Pact_Leader
+	}
+
 	### Fallback/generic faction
 	text = { localization_key = Generic_Faction }
 }
@@ -69,6 +83,13 @@ defined_text = {
 		trigger = { has_idea = Moscow_Pact_Member }
 		localization_key = Moscow_Pact_Member_effect
 	}
+
+	### Sphere ###
+	#Leader
+	text = {
+		trigger = { has_idea = Shanghai_Pact_Leader }
+		localization_key = Shanghai_Pact_Leader_effect
+	}
 }
 
 defined_text = {
@@ -83,6 +104,13 @@ defined_text = {
 	text = {
 		trigger = { has_idea = Moscow_Pact_Member }
 		localization_key = Moscow_Pact_Member_desc
+	}
+
+	### Sphere ###
+	#Leader
+	text = {
+		trigger = { has_idea = Shanghai_Pact_Leader }
+		localization_key = Shanghai_Pact_Leader_desc
 	}
 
 	###Fallback/generic

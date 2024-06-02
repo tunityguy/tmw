@@ -7,4 +7,8 @@ spriteTypes = {
 		name = "GFX_Moscow_Pact_Member"
 		textureFile = "gfx/interface/factions/status/GFX_Moscow_Pact.dds"
 	}
+	spriteType = {
+		name = "GFX_Shanghai_Pact_Leader"
+		textureFile = "gfx/interface/factions/status/GFX_Shanghai_Pact_Leader.dds"
+	}
 }

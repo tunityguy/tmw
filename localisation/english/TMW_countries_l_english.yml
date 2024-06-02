@@ -10,9 +10,17 @@
  ## If not then I'm going to appear on your bedroom at 2AM brandishing an axe
  
  # A
+ AFG: "Islamic Republic of Afghanistan"
+ AFG_DEF: "The Islamic Republic of Afghanistan"
+ AFG_ADJ: "Afghani"
+
  ALB: "Republic of Albania"
  ALB_DEF: "The Republic of Albania"
  ALB_ADJ: "Albanian"
+
+ AST: "Commonwealth of Australia"
+ AST_DEF: "The Commonwealth of Australia"
+ AST_ADJ: "Australian"
 
  AUS: "Republic of Austria"
  AUS_DEF: "The Republic of Austria"
@@ -22,8 +30,16 @@
  BEL: "Kingdom of Belgium"
  BEL_DEF: "The Kingdom of Belgium"
  BEL_ADJ: "Belgian"
+
+ BRM: "Republic of the Union of Myanmar"
+ BRM_DEF: "The Republic of the Union of Myanmar"
+ BRM_ADJ: "Myanmarese"
  
  # C
+ CAM: "Kingdom of Cambodia"
+ CAM_DEF: "The Kingdom of Cambodia"
+ CAM_ADJ: "Cambodian"
+
  CHI: "Zhonghua Renmin Gongheguo"
  CHI_DEF: "Zhonghua Renmin Gongheguo"
  CHI_ADJ: "Chinese"
@@ -67,6 +83,10 @@
  GRE: "Hellenic Republic"
  GRE_DEF: "The Hellenic Republic"
  GRE_ADJ: "Greek"
+
+ GRN: "Greenland"
+ GRN_DEF: "Greenland"
+ GRN_ADJ: "Greenlandic"
  
  # H
  HOL: "Kingdom of the Netherlands"
@@ -83,6 +103,14 @@
  ICE_DEF: "Iceland"
  ICE_ADJ: "Icelandic"
 
+ IND: "Republic of India"
+ IND_DEF: "The Republic of India"
+ IND_ADJ: "Indian"
+
+ INS: "Republic of Indonesia"
+ INS_DEF: "The Republic of Indonesia"
+ INS_ADJ: "Indonesian"
+
  IRE: "Ireland"
  IRE_DEF: "Ireland"
  IRE_ADJ: "Irish"
@@ -92,28 +120,61 @@
  ITA_ADJ: "Italian"
  
  # J
+ JAP: "Republic of Japan"
+ JAP_DEF: "The Republic of Japan"
+ JAP_ADJ: "Japanese"
  
  
  # K
+ KAZ: "Republic of Kazakhstan"
+ KAZ_DEF: "The Republic of Kazakhstan"
+ KAZ_ADJ: "Kazakhstani"
+
+ KOR: "Democratic People's Republic of Korea"
+ KOR_DEF: "The Democratic People's Republic of Korea"
+ KOR_ADJ: "Korean"
+
+ KYR: "Kyrgyz Republic"
+ KYR_DEF: "The Kyrgyz Republic"
+ KYR_ADJ: "Kyrgyz"
  
  
  # L
+ LAO: "Lao People's Democratic Republic"
+ LAO_DEF: "The Lao People's Democratic Republic"
+ LAO_ADJ: "Lao"
+
  LUX: "Grand Duchy of Luxembourg"
  LUX_DEF: "The Grand Duchy of Luxembourg"
  LUX_ADJ: "Luxembourger"
  
  
  # M
+ MAL: "Malaysia"
+ MAL_DEF: "Malaysia"
+ MAL_ADJ: "Malaysian"
 
  MDV: "Pridnestroovskaya Moldavskaya Respublika"
  MDV_DEF: "Pridnestrovskaya Moldavskaya Respublika"
  MDV_ADJ: "Moldovan"
+
+ MLD: "Republic of Maldives"
+ MLD_DEF: "The Republic of Maldives"
+ MLD_ADJ: "Maldive"
  
  
  # N
  NOR: "Kingdom of Norway"
  NOR_DEF: "The Kingdom of Norway"
  NOR_ADJ: "Norwegian"
+
+ NEP: "Federal Democratic Republic of Nepal"
+ NEP_DEF: "The Federal Democratic Republic of Nepal"
+ NEP_ADJ: "Nepalese"
+
+ NZL: "New Zealand"
+ NZL_DEF: "New Zealand"
+ NZL_ADJ: "New Zealander"
  
  
  # O
@@ -123,6 +184,10 @@
  PER: "Jomhuri-ye Eslami-ye Iran"
  PER_DEF: "Jomhuri-ye Eslami-ye Iran"
  PER_ADK: "Iranian"
+
+ PHI: "Republic of the Philippines"
+ PHI_DEF: "The Republic of the Philippines"
+ PHI_ADJ: "Filipino"
  
  POL: "Respublika Pol'sha"
  POL_DEF: "Respublika Pol'sha"
@@ -150,6 +215,10 @@
  SER_DEF: "The Republic of Serbia"
  SER_ADJ: "Serbian"
 
+ SIA: "Kingdom of Thailand"
+ SIA_DEF: "The Kingdom of Thailand"
+ SIA_ADJ: "Thai"
+
  SLO: "Slovako-Czech Republic"
  SLO_DEF: "The Slovako-Czech Republic"
  SLO_ADJ: "Slovako-Czech"
@@ -162,6 +231,10 @@
  SPR_DEF: "The Spanish Republic"
  SPR_ADJ: "Spanish"
 
+ SRL: "Democratic Socialist Republic of Sri Lanka"
+ SRL_DEF: "The Democratic Socialist Republic of Sri Lanka"
+ SRL_ADJ: "Sri Lankan"
+
  SWE: "Independent State of Sweden"
  SWE_DEF: "The Independent State of Sweden"
  SWE_ADJ: "Swedish"
@@ -171,6 +244,13 @@
  SWI_ADJ: "Swiss"
  
  # T
+ TAJ: "Republic of Tajikistan"
+ TAJ_DEF: "The Republic of Tajikistan"
+ TAJ_ADJ: "Tajikistani"
+
+ TMS: "Turkmenistan"
+ TMS_DEF: "Turkmenistan"
+ TMS_ADJ: "Turkmenistani"
  
  TUR: "Anatolian Union"
  TUR_DEF: "the Anatolian Union"
@@ -180,9 +260,16 @@
  UKR: "Malorossiya"
  UKR_DEF: "Malorossiya"
  UKR_ADJ: "Russian"
+
+ UZB: "Republic of Uzbekistan"
+ UZB_DEF: "The Republic of Uzbekistan"
+ UZB_ADJ: "Uzbekistani"
  
  
  # V
+ VIN: "Republic of Vietnam"
+ VIN_DEF: "The Republic of Vietnam"
+ VIN_ADJ: "Vietnamese"
  
  
  # W

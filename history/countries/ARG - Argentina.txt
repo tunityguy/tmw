@@ -139,7 +139,7 @@ IF = {
 
 set_country_flag = monroe_doctrine
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -271,7 +271,7 @@ set_popularities = {
 	paternalism = 30
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1937.9.5"
@@ -477,7 +477,7 @@ IF = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2999.1.1 = {
 	IF = {
 		limit = { NOT = { has_dlc = "Man the Guns" } }
 		# Ship variants #

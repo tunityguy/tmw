@@ -7,7 +7,7 @@ set_technology = {
 
 set_convoys = 10
 
-1939.1.1 = {
+2999.1.1 = {
 	
 	#generic focuses
 	complete_national_focus = army_effort
