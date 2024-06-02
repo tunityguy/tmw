@@ -6,7 +6,7 @@ state = {
 
 	history = {
 
-		owner = ENG
+		owner = PER
 		add_core_of = EGY
 
 		buildings = {

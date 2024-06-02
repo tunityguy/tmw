@@ -184,7 +184,7 @@ set_popularities = {
 	conservatism = 1
 	fascism = 32
 	fascism_2 = 16
-	national_socialism = 5
+	putinism = 5
 }
 
 add_ideas = {

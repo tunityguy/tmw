@@ -190,59 +190,59 @@ ideologies = {
 		ai_ideology_wanted_units_factor = 1.15
 	}
 
-    # TNO ideologies
+    # TMW ideologies
 	
 	########################################
 	#          National Socialism          #
 	########################################
-	national_socialism_1 = {
-		types = { national_socialism_1_subtype = {} }
+	putinism_1 = {
+		types = { putinism_1_subtype = {} }
 		dynamic_faction_names = {}
 		color = { 30 13 10 }
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	national_socialism_2 = {
-		types = { national_socialism_2_subtype = {} }
+	putinism_2 = {
+		types = { putinism_2_subtype = {} }
 		dynamic_faction_names = {}
 		color = { 40 23 20 }
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	national_socialism = {
+	putinism = {
 		types = {
-			national_socialism_subtype = {}
-			national_socialism_naturalised_nazism_subtype = { can_be_randomly_selected = no } # Credits to the FtA team
-			national_socialism_rosenbergite_tendency_subtype = { can_be_randomly_selected = no }
-			national_socialism_reformed_national_socialism_subtype = { can_be_randomly_selected = no }
-			national_socialism_esoteric_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_revolutionary_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_idiosyncratic_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_technocratic_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_deep_ecology_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_clerical_fascism_subtype = { can_be_randomly_selected = no }
-			national_socialism_stratocratic_corporatism_subtype = { can_be_randomly_selected = no }
-			national_socialism_imperial_cult_subtype = { can_be_randomly_selected = no }
-			national_socialism_ariocriollismo_subtype = { can_be_randomly_selected = no }
-			national_socialism_stratocratic_nazism_subtype = { can_be_randomly_selected = no }
-			national_socialism_burgundian_system_subtype = { can_be_randomly_selected = no }
-			national_socialism_spartanism_subtype = { can_be_randomly_selected = no }
-			national_socialism_putinism_subtype = { can_be_randomly_selected = no }
+			putinism_subtype = {}
+			putinism_naturalised_nazism_subtype = { can_be_randomly_selected = no } # Credits to the FtA team
+			putinism_rosenbergite_tendency_subtype = { can_be_randomly_selected = no }
+			putinism_reformed_putinism_subtype = { can_be_randomly_selected = no }
+			putinism_esoteric_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_revolutionary_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_idiosyncratic_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_technocratic_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_deep_ecology_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_clerical_fascism_subtype = { can_be_randomly_selected = no }
+			putinism_stratocratic_corporatism_subtype = { can_be_randomly_selected = no }
+			putinism_qanon_cultism_subtype = { can_be_randomly_selected = no }
+			putinism_ariocriollismo_subtype = { can_be_randomly_selected = no }
+			putinism_stratocratic_nazism_subtype = { can_be_randomly_selected = no }
+			putinism_lvov_system_subtype = { can_be_randomly_selected = no }
+			putinism_spartanism_subtype = { can_be_randomly_selected = no }
+			putinism_putinism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 50 33 30 }
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	national_socialism_3 = {
-		types = { national_socialism_3_subtype = {} }
+	putinism_3 = {
+		types = { putinism_3_subtype = {} }
 		dynamic_faction_names = {}
 		color = { 60 43 40 }
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	national_socialism_4 = {
-		types = { national_socialism_4_subtype = {} }
+	putinism_4 = {
+		types = { putinism_4_subtype = {} }
 		dynamic_faction_names = {}
 		color = { 70 53 50 }
 		ai_neutral = yes
