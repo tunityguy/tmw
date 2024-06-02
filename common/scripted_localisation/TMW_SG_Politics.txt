@@ -41,8 +41,8 @@ defined_text = {
 		localization_key = "[GetSubIdeologyLocFascism]"
 	}
 	text = {
-		trigger = { has_government = national_socialism }
-		localization_key = "[GetSubIdeologyLocNationalSocialism]"
+		trigger = { has_government = putinism }
+		localization_key = "[GetSubIdeologyLocPutinism]"
 	}
 }
 
@@ -756,7 +756,7 @@ defined_text = {
 		localization_key = putinism_rosenbergite_tendency_subtype
 	}
 	text = {
-		localization_key = national_socialism
+		localization_key = putinism
 	}
 }
 
