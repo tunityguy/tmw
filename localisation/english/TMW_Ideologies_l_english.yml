@@ -400,27 +400,27 @@ putinism_putinism_subtype_desc: "Putinism"
 
 #|=====[ Duplicates ]=====|#
 ### National Socialism ###
-putinism_1:0 "$national_socialism$"
+putinism_1:0 "$putinism$"
 putinism_1_noun:0 "§Y[?putinism_1_var.GetTokenLocalizedKey]§!"
-putinism_1_desc:0 "$national_socialism$"
+putinism_1_desc:0 "$putinism$"
 putinism_1_subtype_desc:0 "$putinism_subtype_desc$"
 putinism_1_drift:0 "Daily §Y[?putinism_1_var.GetTokenLocalizedKey]§! Support"
 
-putinism_2:0 "$national_socialism$"
+putinism_2:0 "$putinism$"
 putinism_2_noun:0 "§Y[?putinism_2_var.GetTokenLocalizedKey]§!"
-putinism_2_desc:0 "$national_socialism$"
+putinism_2_desc:0 "$putinism$"
 putinism_2_subtype_desc:0 "$putinism_subtype_desc$"
 putinism_2_drift:0 "Daily §Y[?putinism_2_var.GetTokenLocalizedKey]§! Support"
 
-putinism_3:0 "$national_socialism$"
+putinism_3:0 "$putinism$"
 putinism_3_noun:0 "§Y[?putinism_3_var.GetTokenLocalizedKey]§!"
-putinism_3_desc:0 "$national_socialism$"
+putinism_3_desc:0 "$putinism$"
 putinism_3_subtype_desc:0 "$putinism_subtype_desc$"
 putinism_3_drift:0 "Daily §Y[?putinism_3_var.GetTokenLocalizedKey]§! Support"
 
-putinism_4:0 "$national_socialism$"
+putinism_4:0 "$putinism$"
 putinism_4_noun:0 "§Y[?putinism_4_var.GetTokenLocalizedKey]§!"
-putinism_4_desc:0 "$national_socialism$"
+putinism_4_desc:0 "$putinism$"
 putinism_4_subtype_desc:0 "$putinism_subtype_desc$"
 putinism_4_drift:0 "Daily §Y[?putinism_4_var.GetTokenLocalizedKey]§! Support"
 

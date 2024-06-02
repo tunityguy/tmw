@@ -694,7 +694,7 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetSubIdeologyLocNationalSocialism
+	name = GetSubIdeologyLocPutinism
 	text = {
 		trigger = { has_country_leader_ideology = putinism_reformed_putinism_subtype }
 		localization_key = putinism_reformed_putinism_subtype

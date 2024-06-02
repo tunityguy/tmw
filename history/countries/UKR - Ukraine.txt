@@ -84,7 +84,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = national_socialism
+	ruling_party = putinism
 	last_election = "1938.3.28"
 	election_frequency = 48
 	elections_allowed = yes
@@ -93,7 +93,7 @@ set_politics = {
 set_popularities = {
 	conservatism = 20
 	fascism = 30
-	national_socialism = 50
+	putinism = 50
 }
 
 create_country_leader = {
