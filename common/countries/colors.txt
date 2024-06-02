@@ -87,17 +87,13 @@ POL = {
 	color = rgb { 132 88 100 }
 	color_ui = rgb { 132 88 100 }
 }
-GAL = {
+LVO = {
 	color = rgb { 31 31 33 }
 	color_ui = rgb { 31 31 33 }
 }
 AUS = {
 	color = rgb { 130 140 130 }
 	color_ui = rgb { 130 140 130 }
-}
-WAS = {
-	color = rgb { 119 97 137 }
-	color_ui = rgb { 119 97 137 }
 }
 LIT = {
 	color = rgb { 219 219 119 }

@@ -72,9 +72,9 @@
  
  # G
  
- GAL: "Lvovskaya Administratsiya"
- GAL_DEF: "the Lvovskaya Administratsiya"
- GAL_ADJ: "Lvovskayan"
+ LVO: "Lvovskaya Administratsiya"
+ LVO_DEF: "the Lvovskaya Administratsiya"
+ LVO_ADJ: "Lvovian"
  
  GER: "Federal Republic of Germany"
  GER_DEF: "the Federal Republic of Germany"

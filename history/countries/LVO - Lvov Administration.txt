@@ -1,5 +1,7 @@
 ﻿capital = 91
 
+recruit_character = LVO_Nikolai_Patrushev
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -8,22 +10,13 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = fascism
-	last_election = "1936.1.1"
+	ruling_party = putinism
+	last_election = "2040.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 100
-}
-
-create_country_leader = {
-	name = "Placeholder"
-	desc = ""
-	picture = GFX_
-	ideology = nazism
-	traits = {
-		#
-	}
+	ultranationalism = 10
+	national_socialism = 90
 }

@@ -1,15 +1,13 @@
 ﻿l_english:
-
 # LOC INDEX
 # If you want to find anything - select a thing from the index below and press ctrl+f. The idea is not stolen from Calph, of course. Then copied by Storm for TFL
 #
 # Country Names - Starting
 # Party names - Starting
-SAF_liberalism_party: "DA"
-SAF_liberalism_party_long: "Democratic Alliance"
-# Country Names - Cosmetic Tags
-# Party names - Cosmetic Tags
+LVO_putinism_party: "Yedinaya Rossiya - Patrushev"
+LVO_putinism_party_long: "Yedinaya Rossiya - Patrushev"
 # Character names -
+LVO_Nikolai_Patrushev: "Nikolai Patrushev"
 # Ministers
 # Ideas
 # Modifiers
@@ -39,50 +37,3 @@ SAF_liberalism_party_long: "Democratic Alliance"
 # Domvile/Pre-Uprising Events
 # World Events
 # Inauguration Events
-
-############################
-# Country Names - Starting #
-############################
-##########################
-# Party names - Starting #
-##########################
-
-
-
-
-
-
-#############
-# Character names #
-#############
-
-SAF_John_Steenhuisen: "John Steenhuisen"
-
-
-
-
-
-
-
-
-
-##Military
-
-#Collab
-
-# These Guys Don't Exist in Character Files
-
-
-
-
-
-# Generals
-
-
-
-
-# Admirals
-
-
-
-
