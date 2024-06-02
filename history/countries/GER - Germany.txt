@@ -1,7 +1,5 @@
 recruit_character = GER_Gerhard_Schroder
 
-set_cosmetic_tag = GER_collab
-
 capital = 64
 if = {
 	limit = {
@@ -184,7 +182,7 @@ set_popularities = {
 	conservatism = 1
 	fascism = 32
 	fascism_2 = 16
-	national_socialism = 5
+	putinism = 5
 }
 
 add_ideas = {
@@ -777,7 +775,7 @@ if = {
 }
 
 ## 1939 Start ##
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = {
 			not = { has_dlc = "Man the Guns" }
