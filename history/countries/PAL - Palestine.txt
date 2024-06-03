@@ -91,7 +91,7 @@ create_country_leader = {
 	name = "Amin al-Husseini"
 	desc = ""
 	picture = GFX_portrait_Amin_al_Husseini
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		#
 	}
@@ -111,7 +111,7 @@ create_country_leader = {
 	name = "Bulus Farah"
 	desc = ""
 	picture = GFX_portrait_Bulus_Farah
-	ideology = leninism
+	ideology = communist
 	traits = {
 		#
 	}

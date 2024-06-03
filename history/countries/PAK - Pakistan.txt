@@ -124,7 +124,7 @@ create_country_leader = {
 	
 	picture = "GFX_Portrait_IND_Political_Leader_Generic_2"
 	expire = "1960.1.1"
-	ideology = centrism
+	ideology = conservatism
 	traits = {
 		
 	}
@@ -146,7 +146,7 @@ create_country_leader = {
 	
 	picture = "GFX_Portrait_IND_Political_Leader_Generic_2"
 	expire = "1960.1.1"
-	ideology = marxism
+	ideology = communist
 	traits = {
 		
 	}

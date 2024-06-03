@@ -178,7 +178,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Milan_Nedic
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		#
 	}
@@ -200,7 +200,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Zivorad_Jovanovic
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = communist
 	traits = {
 		#
 	}

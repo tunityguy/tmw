@@ -112,7 +112,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
 	expire = "1953.3.1"
-	ideology = marxism
+	ideology = communist
 	traits = {
 		
 	}
@@ -123,7 +123,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Stepan_Bandera
 	expire = "1953.3.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		
 	}
@@ -134,7 +134,7 @@ create_country_leader = {
 #	desc = ""
 #	picture = ""
 #	expire = "1953.3.1"
-#	ideology = oligarchism
+#	ideology = paternalism
 #	traits = {
 #		
 #	}

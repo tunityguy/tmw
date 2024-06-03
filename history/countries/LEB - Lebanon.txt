@@ -92,7 +92,7 @@ create_country_leader = {
 	name = "Pierre Gemayel"
 	desc = ""
 	picture = GFX_portrait_Pierre_Gemayel
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		#
 	}
@@ -112,7 +112,7 @@ create_country_leader = {
 	name = "Rami Sarraff"
 	desc = ""
 	picture = GFX_portrait_Rami_Sarraff
-	ideology = leninism
+	ideology = communist
 	traits = {
 		#
 	}

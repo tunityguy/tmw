@@ -143,7 +143,7 @@ create_country_leader = {
 	desc = "POLITICS_QAZI_MUHAMMAD_DESC"
 	picture = GFX_portrait_Qazi_Muhammad
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = communist
 	traits = {
 		#
 	}
@@ -167,7 +167,7 @@ create_country_leader = {
 	desc = "POLITICS_IHSAN_NURI_DESC"
 	picture = "GFX_portrait_kur_ihsan_nuri"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		experienced_insurgent
 	}

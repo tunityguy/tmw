@@ -71,4 +71,5 @@ add_to_faction = LAO
 add_to_faction = CAM
 add_to_faction = BRM
 add_to_faction = MAL
+add_to_faction = SRL
 

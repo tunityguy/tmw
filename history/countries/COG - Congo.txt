@@ -72,7 +72,7 @@ create_country_leader = {
 	name = "Lumumba Lomendja"
 	picture = GFX_portrait_Lumumba_Lomendja
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = communist
 	traits = {
 		silent_workhorse
 	}
@@ -83,7 +83,7 @@ create_country_leader = {
 	name = "David Manera"
 	picture = GFX_portrait_David_Manera
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		
 	}

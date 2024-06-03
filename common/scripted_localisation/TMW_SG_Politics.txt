@@ -685,8 +685,8 @@ defined_text = {
 		localization_key = fascism_social_credit_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = fascism_german_rascism_subtype }
-		localization_key = fascism_german_rascism_subtype
+		trigger = { has_country_leader_ideology = fascism_german_ruscism_subtype }
+		localization_key = fascism_german_ruscism_subtype
 	}
 	text = {
 		localization_key = fascism

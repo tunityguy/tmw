@@ -81,7 +81,7 @@ create_country_leader = {
 	name = SMI_communist_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = communist
 }
 
 create_country_leader = {
@@ -95,12 +95,12 @@ create_country_leader = {
 	name = SMI_paternalism_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = conservatism
 }
 
 create_country_leader = {
 	name = SMI_fascism_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 }

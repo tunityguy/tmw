@@ -658,8 +658,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_social_credit_subtype.dds"  
 	}
 	spriteType = {
-		name = "GFX_ideology_fascism_german_rascism_subtype"
-		texturefile = "gfx/interface/ideologies/fascism_german_rascism_subtype.dds"  
+		name = "GFX_ideology_fascism_german_ruscism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_german_ruscism_subtype.dds"  
 	} 
 	spriteType = {
 		name = "GFX_ideology_communist_trotskyism_subtype"

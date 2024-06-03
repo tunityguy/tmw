@@ -80,7 +80,7 @@ create_country_leader = {
 	name = "Andreu Nin i Pérez"
 	picture = GFX_portrait_Andreu_Nin_i_Perez
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = communist
 }
 
 create_country_leader = {
@@ -94,12 +94,12 @@ create_country_leader = {
 	name = "Daniel Cardona i Civit"
 	picture = GFX_portrait_Daniel_Cardona_i_Civit
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 }
 
 create_country_leader = {
 	name = "Francesc Cambó i Batlle"
 	picture = GFX_portrait_Francesc_Cambo_i_Batlle
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = conservatism
 }
