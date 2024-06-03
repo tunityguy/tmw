@@ -65,10 +65,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/socialist_ultravisionary_socialism_pink_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_despotism_kleptocracy_subtype"
-		texturefile = "gfx/interface/ideologies/despotism_kleptocracy_subtype.dds"
-	}
-	spriteType = {
 		name = "GFX_ideology_communist_marxism_leninism_subtype"
 		texturefile = "gfx/interface/ideologies/communist_marxism_leninism_subtype.dds"
 	}
