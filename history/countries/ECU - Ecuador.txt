@@ -24,7 +24,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 5
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -82,7 +82,7 @@ set_popularities = {
 	conservatism = 100
 }
 
-1939.1.1 = {
+2999.1.1 = {
  	promote_character = ECU_aurelio_mosquera
 	retire_character = ECU_federico_páez
 }

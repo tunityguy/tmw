@@ -7,16 +7,16 @@ state={
 	state_category = rural
 
 	history={
-		owner = RAJ
+		owner = IND
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = RAJ
+		add_core_of = IND
 		add_claim_by = PAK
 	}
 
 	provinces={
-		5042 7273 7316 8005 10905 12754 12884 
+		7273 7316 8005 10905 12754 12884 
 	}
 
 	local_supplies=0.0 

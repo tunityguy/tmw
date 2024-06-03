@@ -149,7 +149,7 @@ guiTypes = {
 				position = { x = 230 y = 40 }
 				font = "Bomb_16"
 				text = "Germanian"
-				maxWidth = 290
+				maxWidth = 250
 				fixedsize = yes
 				maxHeight = 20
 				format = left
@@ -167,7 +167,7 @@ guiTypes = {
 					position = { x = 0 y = 2 }
 					font = "Bomb_16"
 					text = "faction"
-					maxWidth = 300
+					maxWidth = 250
 					maxHeight = 20
 					fixedsize = yes
 					format = left
@@ -180,7 +180,7 @@ guiTypes = {
 				position = { x = 230 y = 75 }
 				font = "Bomb_16"
 				text = "Rudolf Kittler"
-				maxWidth = 300
+				maxWidth = 250
 				maxHeight = 20
 				format = left
 				fixedsize = yes

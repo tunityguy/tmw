@@ -43,7 +43,7 @@ set_convoys = 5
 	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
 }
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_to_war = {
 		targeted_alliance = JAP
@@ -129,5 +129,5 @@ set_popularities = {
 	paternalism = 20
 }
 
-1939.1.1 = {
+2999.1.1 = {
 }

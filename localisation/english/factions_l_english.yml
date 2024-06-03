@@ -7,3 +7,5 @@
  FACTION_NAME_GER_none:0 "Axis"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
  Moscow_Pact: "Moskovskiy Pakt"
+ Euro_Nato: "Euro-NATO"
+ Shanghai_Pact: "Shanghai Hezuo Zuzhi"

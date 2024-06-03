@@ -22,7 +22,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 5
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100

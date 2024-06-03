@@ -61,7 +61,7 @@ if = {
 
                  
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1199
 	add_command_power = 100
@@ -191,7 +191,7 @@ add_ideas = {
 	paternalism_idea
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1936.11.3"

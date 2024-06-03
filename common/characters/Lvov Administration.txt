@@ -1,0 +1,17 @@
+characters = {
+    LVO_Nikolai_Patrushev = {
+        name = "LVO_Nikolai_Patrushev"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LVO/Portrait_Lvov_Nikolai_Patrushev.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_NICOLAI_PATRUSHEV_DESC"
+			ideology = putinism_lvov_system_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

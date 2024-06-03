@@ -114,7 +114,7 @@ if = {
 	add_dynamic_modifier = { modifier = international_city }
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	
 	if = {
 		limit = {
@@ -349,7 +349,7 @@ set_popularities = {
 	paternalism = 38
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_popularities = {
 		conservatism = 13
 		fascism = 7
@@ -613,7 +613,7 @@ if = {
 
 
 # 1939 Start #
-1939.1.1 = {
+2999.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #
