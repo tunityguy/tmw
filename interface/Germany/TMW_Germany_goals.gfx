@@ -1,0 +1,6 @@
+SpriteTypes = {
+	SpriteType = {
+		name = "GFX_focus_ENG_ghosts_of_1956"
+		texturefile = "gfx/interface/goals/GER/focus_GER_die_geister_des_jahres_2030.dds"
+	}
+	

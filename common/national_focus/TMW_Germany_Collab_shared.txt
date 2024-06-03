@@ -1,0 +1,282 @@
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND DEUTSCHLAND 
+#Focus Tree
+
+#Index; Search for these names using ctrl+f and you'll find the section they entitle.
+#	INTRO
+#		Germany Intro Tree
+#		Collab Shroeder Tree
+#		Collab Shroeder Fakeout Tree
+#		Collab Civil War 1 Tree
+#		Collab Civil War 2 Tree
+#		Collab Post-War Tree
+#
+#	FRANZ
+#		Franz 100 Days Tree
+#
+#	HEINRICH
+#		Heinrich 100 Days Tree
+#
+#	CHRUPALLA
+#		Chrupalla 100 Days Tree
+
+## ###    ## ######## ######   ######
+## ####   ##    ##    ##   ## ##    ##
+## ## ##  ##    ##    ######  ##    ##
+## ##  ## ##    ##    ##   ## ##    ##
+## ##   ####    ##    ##   ##  ######
+# Intro Trees
+
+##########################
+#+======================+#
+#+= Germany Intro Tree =+#
+#+======================+#
+##########################
+
+shared_focus = {
+	id = GER_die_geister_des_jahres_2030
+	icon = GFX_focus_GER_die_geister_des_jahres_2030
+	cost = 1
+	x = 9
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_die_geister_des_jahres_2030"
+		hidden_effect = {
+			country_event = {
+				id = chiefmouser.1
+				days = 21
+			}
+		}
+	}
+}
+shared_focus = {
+	id = GER_the_two_for_our_future
+	icon = GFX_focus_GER_the_two_for_our_future
+	cost = 1
+	x = -3
+	y = 1
+	relative_position_id = GER_die_geister_des_jahres_2030
+	prerequisite = {
+		focus = GER_die_geister_des_jahres_2030
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_the_two_for_our_future"
+		add_political_power = 60
+	}
+}
+shared_focus = {
+	id = GER_desperate_measures
+	icon = GFX_focus_GER_desperate_measures
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = GER_die_geister_des_jahres_2030
+	prerequisite = {
+		focus = GER_die_geister_des_jahres_2030
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_desperate_measures"
+	}
+}
+shared_focus = {
+	id = GER_their_voices_our_ears
+	icon = GFX_focus_GER_their_voices_our_ears
+	cost = 1
+	x = 3
+	y = 1
+	relative_position_id = GER_die_geister_des_jahres_2030
+	prerequisite = {
+		focus = GER_die_geister_des_jahres_2030
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_their_voices_our_ears"
+	}
+}
+shared_focus = {
+	id = GER_small_talk_with_franz
+	icon = GFX_focus_GER_small_talk_with_franz
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = GER_the_two_for_our_future
+	prerequisite = {
+		focus = GER_the_two_for_our_future
+	}
+	mutually_exclusive = {
+		focus = GER_discussions_with_the_dreamer
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_small_talk_with_franz"
+	}
+}
+shared_focus = {
+	id = GER_discussions_with_the_dreamer
+	icon = GFX_focus_GER_discussions_with_the_dreamer
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = GER_the_two_for_our_future
+	prerequisite = {
+		focus = GER_the_two_for_our_future
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_discussions_with_the_dreamer"
+	}
+}
+shared_focus = {
+	id = GER_their_dreams_fulfilled
+	icon = GFX_focus_GER_their_dreams_fulfilled
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = GER_the_two_for_our_future
+	prerequisite = {
+		focus = GER_small_talk_with_franz
+		focus = GER_discussions_with_the_dreamer
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_their_dreams_fulfilled"
+	}
+}
+shared_focus = {
+	id = GER_conversations_with_moscow
+	icon = GFX_focus_GER_conversations_with_moscow
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = GER_desperate_measures
+	prerequisite = {
+		focus = GER_desperate_measures
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_conversations_with_moscow"
+	}
+}
+shared_focus = {
+	id = GER_this_is_our_bnd
+	icon = GFX_focus_GER_this_is_our_bnd
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = GER_their_voices_our_ears
+	prerequisite = {
+		focus = GER_their_voices_our_ears
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_this_is_our_bnd"
+	}
+}
+shared_focus = {
+	id = GER_the_unmasked_ones
+	icon = GFX_focus_GER_the_unmasked_ones
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = GER_their_voices_our_ears
+	prerequisite = {
+		focus = GER_their_voices_our_ears
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_the_unmasked_ones"
+	}
+}
+shared_focus = {
+	id = GER_bin_ich_der_feind
+	icon = GFX_focus_GER_bin_ich_der_feind
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = GER_the_unmasked_ones
+	prerequisite = {
+		focus = GER_this_is_our_bnd
+		focus = GER_the_unmasked_ones
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_bin_ich_der_feind"
+	}
+}
+shared_focus = {
+	id = GER_the_ballad_of_martin_schirdewan
+	icon = GFX_focus_GER_the_ballad_of_martin_schirdewan
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = GER_their_dreams_fulfilled
+	prerequisite = {
+		focus = GER_their_dreams_fulfilled
+		focus = GER_conversations_with_moscow
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_the_ballad_of_martin_schirdewan"
+	}
+}
+shared_focus = {
+	id = GER_the_old_mans_gambit
+	icon = GFX_focus_GER_the_old_mans_gambit
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = GER_bin_ich_der_feind
+	prerequisite = {
+		focus = GER_conversations_with_moscow
+		focus = GER_bin_ich_der_feind
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_the_old_mans_gambit"
+	}
+}
+shared_focus = {
+	id = GER_so_muss_es_sein
+	icon = GFX_focus_GER_so_muss_es_sein
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = GER_the_ballad_of_martin_schirdewan
+	prerequisite = {
+		focus = GER_the_ballad_of_martin_schirdewan
+		focus = GER_the_old_mans_gambit
+	}
+		mutually_exclusive = {
+		focus = GER_freiheit_fur_alle
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_so_muss_es_sein"
+	}
+}
+shared_focus = {
+	id = GER_freiheit_fur_alle
+	icon = GFX_focus_GER_freiheit_fur_alle
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = GER_the_old_mans_gambit
+	prerequisite = {
+		focus = GER_the_ballad_of_martin_schirdewan
+		focus = GER_the_old_mans_gambit
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_freiheit_fur_alle"
+	}
+}	
+shared_focus = {
+	id = GER_now_this_is_our_future
+	icon = GFX_focus_GER_freiheit_fur_alle
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = GER_so_muss_es_sein
+	prerequisite = {
+		focus = GER_so_muss_es_sein
+		focus = GER_freiheit_fur_alle
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus GER_now_this_is_our_future"
+	}
+}	

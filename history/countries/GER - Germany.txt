@@ -1,5 +1,7 @@
 recruit_character = GER_Gerhard_Schroder
 
+load_focus_tree = GER_Intro_tree
+	
 set_cosmetic_tag = GER_collab
 
 capital = 64

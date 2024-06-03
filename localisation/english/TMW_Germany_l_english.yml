@@ -108,6 +108,20 @@ GER_fascism_3_fountaine: "$GER_fascism_3_party_fountaine$"
 # Difficulty Decisions
 # Debug Decisions
 # Focuses
+
+###########
+# Focuses #
+###########
+
+
+#################
+# Opening Tree  #
+#################
+
+GER_die_geister_des_jahres_2030: "Die Geister des Jahres 2030"
+GER_die_geister_des_jahres_2030_desc: "Six years. Six years since the Uprising of 2030 wrought disaster and anarchy upon nearly every part of this nation, as the Chesterton Ministry was paralysed under its weight. Fortunately, chaos was met by the combined forces of order, and with the joint push-back from both our army and our German brothers' garrison, the uprising was crushed utterly.\n\nSince then, an uneasy calm has returned to the nation, and the Domvile Ministry's enlightened rule has caused prosperity to return to Britain, BPP membership to increase, and the extreme ideological splits between fascists and non-fascists in our Party to become workable.\n\nHowever, all reports from MI5 indicate the same thing - HMMLR activity is increasing again, and the terrorists are beginning to reemerge in areas where they have not been active since the Uprising. We must not make the mistake Chesterton did, and thus we must begin to take preemptive measures."
+
+
 #   Intro Tree
 #   Collab Pre-Uprising Tree 
 #   Collab Pre-ECW Tree
