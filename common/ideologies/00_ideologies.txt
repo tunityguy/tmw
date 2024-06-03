@@ -371,6 +371,7 @@ ideologies = {
 			despotism_civilian_dictatorship_subtype = { can_be_randomly_selected = no }
 			despotism_theocracy_subtype = { can_be_randomly_selected = no }
 			despotism_eurasianism_subtype = { can_be_randomly_selected = no }
+			despotism_kleptocracy_subtype = { can_be_randomly_selected = no }
 			despotism_papacy_subtype = { can_be_randomly_selected = no }
 			despotism_interim_government_subtype = { can_be_randomly_selected = no }
 			despotism_colonial_government_subtype = { can_be_randomly_selected = no }
