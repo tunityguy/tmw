@@ -84,7 +84,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = putinism
+	ruling_party = national_socialism
 	last_election = "1938.3.28"
 	election_frequency = 48
 	elections_allowed = yes
@@ -93,7 +93,7 @@ set_politics = {
 set_popularities = {
 	conservatism = 20
 	fascism = 30
-	putinism = 50
+	national_socialism = 50
 }
 
 create_country_leader = {
@@ -112,7 +112,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
 	expire = "1953.3.1"
-	ideology = communist
+	ideology = marxism
 	traits = {
 		
 	}
@@ -123,7 +123,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Stepan_Bandera
 	expire = "1953.3.1"
-	ideology = fascism
+	ideology = fascism_ideology
 	traits = {
 		
 	}
@@ -134,7 +134,7 @@ create_country_leader = {
 #	desc = ""
 #	picture = ""
 #	expire = "1953.3.1"
-#	ideology = paternalism
+#	ideology = oligarchism
 #	traits = {
 #		
 #	}

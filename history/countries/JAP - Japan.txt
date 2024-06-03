@@ -219,7 +219,7 @@ create_import = {
 	exporter = USA
 }
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -1169,7 +1169,7 @@ if = {
 		}
 }
 	# 1939 Start #			
-	2999.1.1 = {
+	1939.1.1 = {
 		if = {
 			limit = {
 				has_dlc = "By Blood Alone"

@@ -47,7 +47,7 @@ set_technology = {
 
 set_convoys = 10
 
-2999.1.1 = {
+1939.1.1 = {
 	
 	remove_ideas = LIT_iron_wolf_idea_bad_1
 	remove_ideas = LIT_agrarian_society
@@ -159,7 +159,7 @@ set_popularities = {
 	paternalism = 40
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1936.6.10"

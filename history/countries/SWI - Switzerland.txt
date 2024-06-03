@@ -142,7 +142,7 @@ if = { #########   By Blood Alone Stuff
 	SWI_find_biggest_fascist_neighbor = yes 
 }
 
-2999.1.1 = {
+1939.1.1 = {
 
 	######   Basic   ###### 
 
@@ -310,7 +310,7 @@ set_popularities = {
 	communist = 2
 }
 
-#2999.1.1 = {
+#1939.1.1 = {
 #	#next election october 39
 #	set_popularities = {
 #		conservatism = 95

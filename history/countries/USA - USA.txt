@@ -145,9 +145,32 @@ IF = {
 	limit = { has_dlc = "Trial of Allegiance" }
 	add_ideas = USA_monroe_doctrine_enforcer
 }
+IF = {
+	limit = { NOT = { has_dlc = "Trial of Allegiance" }	}
+	give_guarantee = CAN
+	give_guarantee = MEX
+	give_guarantee = CUB
+	give_guarantee = HAI
+	give_guarantee = DOM
+	give_guarantee = GUA
+	give_guarantee = HON
+	give_guarantee = ELS
+	give_guarantee = NIC
+	give_guarantee = COS
+	give_guarantee = PAN
+	give_guarantee = VEN
+	give_guarantee = COL
+	give_guarantee = ECU
+	give_guarantee = PRU
+	give_guarantee = BRA
+	give_guarantee = BOL
+	give_guarantee = CHL
+	give_guarantee = PAR
+	give_guarantee = ARG
+	give_guarantee = URG
+}
 
-
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1199
 	add_command_power = 100
@@ -302,7 +325,29 @@ set_popularities = {
 }
 
 add_ideas = {
+	undisturbed_isolation
+	great_depression
+	disarmed_nation
+	free_trade
+	home_of_the_free
 }
+
+
+# DIPLOMACY
+set_autonomy = {
+	target = PHI
+	autonomous_state =  autonomy_puppet
+}
+
+1939.1.1 = {
+	set_politics = {
+		ruling_party = conservatism
+		last_election = "1936.11.3"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+}
+
                                                                   
 
 if = {
@@ -950,7 +995,7 @@ if = {
 
 
 # 1939 Start #
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

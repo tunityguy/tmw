@@ -104,7 +104,7 @@ if = {
 	}
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "Arms Against Tyranny"
@@ -274,7 +274,7 @@ set_popularities = {
 #Start Horty as neutral if DOD
                                 
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = fascism
 		last_election = "1939.5.29"

@@ -97,7 +97,7 @@ if = {
 }
 
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -213,7 +213,7 @@ set_popularities = {
 	conservatism = 20
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1938.10.30"

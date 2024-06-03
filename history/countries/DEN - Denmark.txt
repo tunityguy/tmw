@@ -355,7 +355,7 @@ if = {
 	}
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "Arms Against Tyranny"
@@ -574,7 +574,7 @@ add_equipment_to_stockpile = {
 }
 
 # 1939 Start #
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

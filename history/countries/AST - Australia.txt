@@ -101,7 +101,7 @@ if = {
 	add_to_tech_sharing_group = commonwealth_research
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	add_political_power = 1198
 	add_command_power = 100
 	oob = "AST_1939"
@@ -249,7 +249,7 @@ set_popularities = {
 
 set_convoys = 100
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1937.10.23"
@@ -387,7 +387,7 @@ if = {
 	}
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = {
 			not = { has_dlc = "Man the Guns" }

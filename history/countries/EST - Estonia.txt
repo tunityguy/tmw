@@ -73,7 +73,7 @@ if = {
 
 set_convoys = 5
 
-2999.1.1 = {
+1939.1.1 = {
 
 	set_country_flag = fought_vaps_flag #Estonia shouldn't have to fight the Vaps in 39
 
@@ -191,7 +191,7 @@ set_popularities = {
 	paternalism = 60
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1938.2.25"
@@ -203,7 +203,7 @@ set_popularities = {
 
 ### VARIANTS ###
 # 1939 Start #
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

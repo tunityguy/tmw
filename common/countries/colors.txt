@@ -87,13 +87,17 @@ POL = {
 	color = rgb { 132 88 100 }
 	color_ui = rgb { 132 88 100 }
 }
-LVO = {
+GAL = {
 	color = rgb { 31 31 33 }
 	color_ui = rgb { 31 31 33 }
 }
 AUS = {
 	color = rgb { 130 140 130 }
 	color_ui = rgb { 130 140 130 }
+}
+WAS = {
+	color = rgb { 119 97 137 }
+	color_ui = rgb { 119 97 137 }
 }
 LIT = {
 	color = rgb { 219 219 119 }
@@ -204,8 +208,8 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = rgb { 180 60 50 }
-	color_ui = rgb { 180 60 50 }
+	color = hsv { 0.18 0.6 0.9 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -364,7 +368,7 @@ SLO = {
 	color = rgb { 170  172  183 }
 	color_ui = rgb { 170  172  183 }
 }
-IND = {
+RAJ = {
 	color = rgb { 226  135  40 }
 	color_ui = rgb { 226  135  40 }
 }
@@ -530,8 +534,8 @@ PAK = {
 #    color_ui = rgb { 150 180 120 }
 #}
 KOR = {
-	color = rgb { 196 75 110 }
-	color_ui = rgb { 196 75 110 }	
+	color = rgb { 255  240  195 }
+	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }

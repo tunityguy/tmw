@@ -86,7 +86,7 @@ set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1197
 	add_command_power = 100
@@ -187,7 +187,7 @@ add_ideas = {
 #	name = "Otto Wels"
 #	desc = "POLITICS_OTTO_WELS_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "2999.1.16"
+#	expire = "1939.1.16"
 #	ideology = socialism
 #	traits = {
 #		exiled
@@ -200,7 +200,7 @@ add_ideas = {
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1956.1.1"
-#	ideology = communist
+#	ideology = stalinism
 #	traits = {
 #		assassination_survivor
 #		stalins_puppet

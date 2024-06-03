@@ -17,7 +17,7 @@ if = {
 
 set_convoys = 20
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -95,7 +95,7 @@ create_country_leader = {
 	name = "Ahmed Husayn"
 	desc = ""
 	picture = GFX_portrait_Ahmed_Husayn
-	ideology = fascism
+	ideology = fascism_ideology
 	traits = {
 		#
 	}
@@ -115,7 +115,7 @@ create_country_leader = {
 	name = "Hosni al-Arabi"
 	desc = ""
 	picture = GFX_portrait_Hosni_al_Arabi
-	ideology = communist
+	ideology = leninism
 	traits = {
 		#
 	}

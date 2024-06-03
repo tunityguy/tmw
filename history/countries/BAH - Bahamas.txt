@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-2999.1.1 = {
+1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -61,14 +61,14 @@ set_popularities = {
 #	name = "Jonas Lote"
 #	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
 #	expire = "1965.1.1"
-#	ideology = conservatism
+#	ideology = centrism
 #	traits = {
 #		#
 #	}
 #}
 
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1936.1.1"

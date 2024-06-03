@@ -27,7 +27,7 @@ if = {
 
 set_convoys = 20
 
-2999.1.1 = {
+1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -77,7 +77,7 @@ create_country_leader = {
 	name = "Fuco Gómez"
 	picture = GFX_portrait_Fuco_Gomez
 	expire = "1965.1.1"
-	ideology = communist
+	ideology = marxism
 }
 
 create_country_leader = {
@@ -91,12 +91,12 @@ create_country_leader = {
 	name = "Vicente Martínez Risco"
 	picture = GFX_portrait_Vicente_Martinez_Risco
 	expire = "1965.1.1"
-	ideology = fascism
+	ideology = fascism_ideology
 }
 
 create_country_leader = {
 	name = "Santiago Casares Quiroga"
 	picture = GFX_portrait_Santiago_Casares_Quiroga
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = centrism
 }

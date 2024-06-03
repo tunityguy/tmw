@@ -271,7 +271,7 @@ if = {
 ##############
 #### 1939 ####
 ##############
-2999.1.1 = {
+1939.1.1 = {
 	
 	#POLIICS
 	set_popularities = { #VANILLA & DLC //  # Will get +7 from Italian focus: Potential Allies in the Balkans

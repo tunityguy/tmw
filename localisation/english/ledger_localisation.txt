@@ -80,9 +80,9 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = THIS
-			has_government = putinism
+			has_government = national_socialism
 		}
-		localization_key = putinism
+		localization_key = national_socialism
 	}
 }
 

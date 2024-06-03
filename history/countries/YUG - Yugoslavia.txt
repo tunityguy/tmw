@@ -144,7 +144,7 @@ if = {
 	}
 }
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_ideas = {
 		limited_conscription
@@ -294,7 +294,7 @@ set_popularities = {
 	paternalism = 60
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1938.12.1"
@@ -405,7 +405,7 @@ if = {
 }
 
 # 1939 Start #
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "By Blood Alone"

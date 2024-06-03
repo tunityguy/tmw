@@ -30,7 +30,7 @@ if = {
 
 set_convoys = 20
 
-2999.1.1 = {
+1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -81,7 +81,7 @@ create_country_leader = {
 	name = SMI_communist_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = communist
+	ideology = marxism
 }
 
 create_country_leader = {
@@ -95,12 +95,12 @@ create_country_leader = {
 	name = SMI_paternalism_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = centrism
 }
 
 create_country_leader = {
 	name = SMI_fascism_council
 	picture = GFX_portrait_SMI_sami_council
 	expire = "1965.1.1"
-	ideology = fascism
+	ideology = fascism_ideology
 }

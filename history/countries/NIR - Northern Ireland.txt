@@ -11,7 +11,7 @@ set_technology = {
 set_convoys = 10
 
                     
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -72,7 +72,7 @@ set_popularities = {
 	communist = 1
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1938.6.17"

@@ -97,6 +97,30 @@ if = {
 }
 
 #Ideas
+if = {
+	limit = {
+		has_dlc = "Death or Dishonor"
+	}
+	add_ideas = {
+		ROM_king_carol_ii_hedonist
+	}
+	give_guarantee = CZE
+	give_guarantee = GRE
+	give_guarantee = TUR
+	give_guarantee = YUG
+}
+if = {
+	limit = {
+		AND = {  
+			NOT = { has_dlc = "Death or Dishonor" }
+			has_dlc = "Battle for the Bosporus"
+		}
+	}
+	give_guarantee = GRE
+	give_guarantee = TUR
+	give_guarantee = YUG
+}
+add_ideas = paternalism_idea
 
 #Kick off kings crazy life
 if = {
@@ -138,7 +162,7 @@ if = {
 }
 
 set_convoys = 10
-2999.1.1 = {
+1939.1.1 = {
 	
 	remove_ideas = paternalism_idea
 
@@ -307,7 +331,7 @@ set_popularities = {
 	paternalism = 20
 }
 
-2999.1.1 = {
+1939.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
 		last_election = "1939.7.15"
@@ -402,7 +426,7 @@ if = {
 }
 
 # 1939 Start #
-2999.1.1 = {
+1939.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

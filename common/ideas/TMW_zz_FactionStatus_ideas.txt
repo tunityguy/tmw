@@ -20,17 +20,5 @@ ideas = {
 				political_power_gain = 0.10
 			}
 		}
-
-		### Chinese Sphere ###
-		#Leader
-		Shanghai_Pact_Leader = {
-			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Shanghai_Pact_Leader" }
-			allowed = { always = no }
-			allowed_civil_war = { always = no }
-
-			modifier = {
-				political_power_gain = 0.20
-			}
-		}
 	}
 }

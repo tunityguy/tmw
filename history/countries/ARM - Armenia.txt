@@ -98,7 +98,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Drastamat_Kanayan
 	expire = "1953.3.1"
-	ideology = fascism
+	ideology = fascism_ideology
 	traits = {
 		
 	}
@@ -120,7 +120,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Grigor_Harutyunyan
 	expire = "1953.3.1"
-	ideology = communist
+	ideology = stalinism
 	traits = {
 		
 	}

@@ -67,7 +67,7 @@ set_research_slots = 3
 
 set_convoys = 10
 
-2999.1.1 = {
+1939.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -169,7 +169,7 @@ set_popularities = {
 }
 
 # probably needs some adjustment before nazi occupation in 1940
-2999.1.1 = {
+1939.1.1 = {
 	#
 }
 

@@ -111,7 +111,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Phan_Boi_Chau
 	expire = "1953.3.1"
-	ideology = fascism 
+	ideology = fascism_ideology 
 	traits = {
 		
 	}
@@ -122,7 +122,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Ho_Chi_Minh
 	expire = "1953.3.1"
-	ideology = communist
+	ideology = marxism
 	traits = {
 		
 	}
@@ -144,7 +144,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Nguyen_Tuong_Tam
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = moderatism
 	traits = {
 		
 	}

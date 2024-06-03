@@ -1,7 +1,5 @@
 recruit_character = GER_Gerhard_Schroder
 
-set_cosmetic_tag = GER_collab
-
 capital = 64
 if = {
 	limit = {
@@ -184,7 +182,7 @@ set_popularities = {
 	conservatism = 1
 	fascism = 32
 	fascism_2 = 16
-	putinism = 5
+	national_socialism = 5
 }
 
 add_ideas = {
