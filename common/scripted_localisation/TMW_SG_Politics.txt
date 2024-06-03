@@ -41,8 +41,8 @@ defined_text = {
 		localization_key = "[GetSubIdeologyLocFascism]"
 	}
 	text = {
-		trigger = { has_government = national_socialism }
-		localization_key = "[GetSubIdeologyLocNationalSocialism]"
+		trigger = { has_government = putinism }
+		localization_key = "[GetSubIdeologyLocPutinism]"
 	}
 }
 
@@ -567,6 +567,10 @@ defined_text = {
 		localization_key = despotism_aristocratic_republicanism_subtype
 	}	
 	text = {
+		trigger = { has_country_leader_ideology = despotism_deng_xiaoping_theory_subtype }
+		localization_key = despotism_deng_xiaoping_theory_subtype
+	}	
+	text = {
 		localization_key = despotism
 	}
 }
@@ -681,8 +685,8 @@ defined_text = {
 		localization_key = fascism_social_credit_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = fascism_german_rascism_subtype }
-		localization_key = fascism_german_rascism_subtype
+		trigger = { has_country_leader_ideology = fascism_german_ruscism_subtype }
+		localization_key = fascism_german_ruscism_subtype
 	}
 	text = {
 		localization_key = fascism
@@ -690,73 +694,69 @@ defined_text = {
 }
 
 defined_text = {
-	name = GetSubIdeologyLocNationalSocialism
+	name = GetSubIdeologyLocPutinism
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_reformed_national_socialism_subtype }
-		localization_key = national_socialism_reformed_national_socialism_subtype
+		trigger = { has_country_leader_ideology = putinism_reformed_putinism_subtype }
+		localization_key = putinism_reformed_putinism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_ariocriollismo_subtype }
-		localization_key = national_socialism_ariocriollismo_subtype
+		trigger = { has_country_leader_ideology = putinism_ariocriollismo_subtype }
+		localization_key = putinism_ariocriollismo_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_naturalised_nazism_subtype }
-		localization_key = national_socialism_naturalised_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_naturalised_nazism_subtype }
+		localization_key = putinism_naturalised_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_idiosyncratic_nazism_subtype }
-		localization_key = national_socialism_idiosyncratic_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_idiosyncratic_nazism_subtype }
+		localization_key = putinism_idiosyncratic_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_clerical_fascism_subtype }
-		localization_key = national_socialism_clerical_fascism_subtype
+		trigger = { has_country_leader_ideology = putinism_clerical_fascism_subtype }
+		localization_key = putinism_clerical_fascism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_stratocratic_nazism_subtype }
-		localization_key = national_socialism_stratocratic_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_stratocratic_nazism_subtype }
+		localization_key = putinism_stratocratic_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_technocratic_nazism_subtype }
-		localization_key = national_socialism_technocratic_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_technocratic_nazism_subtype }
+		localization_key = putinism_technocratic_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_stratocratic_corporatism_subtype }
-		localization_key = national_socialism_stratocratic_corporatism_subtype
+		trigger = { has_country_leader_ideology = putinism_stratocratic_corporatism_subtype }
+		localization_key = putinism_stratocratic_corporatism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_spartanism_subtype }
-		localization_key = national_socialism_spartanism_subtype
+		trigger = { has_country_leader_ideology = putinism_spartanism_subtype }
+		localization_key = putinism_spartanism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_revolutionary_nazism_subtype }
-		localization_key = national_socialism_revolutionary_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_revolutionary_nazism_subtype }
+		localization_key = putinism_revolutionary_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_esoteric_nazism_subtype }
-		localization_key = national_socialism_esoteric_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_esoteric_nazism_subtype }
+		localization_key = putinism_esoteric_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_burgundian_system_subtype }
-		localization_key = national_socialism_burgundian_system_subtype
+		trigger = { has_country_leader_ideology = putinism_lvov_system_subtype }
+		localization_key = putinism_lvov_system_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_imperial_cult_subtype }
-		localization_key = national_socialism_imperial_cult_subtype
+		trigger = { has_country_leader_ideology = putinism_qanon_cultism_subtype }
+		localization_key = putinism_qanon_cultism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_deep_ecology_nazism_subtype }
-		localization_key = national_socialism_deep_ecology_nazism_subtype
+		trigger = { has_country_leader_ideology = putinism_deep_ecology_nazism_subtype }
+		localization_key = putinism_deep_ecology_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_rosenbergite_tendency_subtype }
-		localization_key = national_socialism_rosenbergite_tendency_subtype
+		trigger = { has_country_leader_ideology = putinism_rosenbergite_tendency_subtype }
+		localization_key = putinism_rosenbergite_tendency_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = national_socialism_putinism_subtype }
-		localization_key = national_socialism_putinism_subtype
-	}
-	text = {
-		localization_key = national_socialism
+		localization_key = putinism
 	}
 }
 

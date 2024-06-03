@@ -8,7 +8,7 @@ set_technology = {
 set_convoys = 20
 
                     
-1939.1.1 = {
+2999.1.1 = {
 	
 	#generic focuses
 	complete_national_focus = army_effort
@@ -70,7 +70,7 @@ create_country_leader = {
 	name = "Habib Bourguiba"
 	desc = ""
 	picture = GFX_portrait_Habib_Bourguiba
-	ideology = centrism
+	ideology = conservatism
 	traits = {
 		#
 	}

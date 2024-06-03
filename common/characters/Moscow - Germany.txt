@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			desc = "POLITICS_GERHARD_SCHRODER_DESC"
-			ideology = fascism_german_rascism_subtype
+			ideology = fascism_german_ruscism_subtype
 			traits = { }
 			expire = "2999.1.1.1"
 			id = -1

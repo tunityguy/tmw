@@ -1,32 +1,32 @@
 spriteTypes = {
 	# --- Subideologies --- #
 	spriteType = {
-		name = "GFX_ideology_national_socialism_ariocriollismo_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_ariocriollismo_subtype.dds"
+		name = "GFX_ideology_putinism_ariocriollismo_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_ariocriollismo_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_rosenbergite_tendency_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_rosenbergite_tendency_subtype.dds"
+		name = "GFX_ideology_putinism_rosenbergite_tendency_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_rosenbergite_tendency_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_naturalised_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_naturalised_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_naturalised_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_naturalised_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_esoteric_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_esoteric_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_esoteric_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_esoteric_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_deep_ecology_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_deep_ecology_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_deep_ecology_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_deep_ecology_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_imperial_cult_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_imperial_cult_subtype.dds"
+		name = "GFX_ideology_putinism_qanon_cultism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_qanon_cultism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_burgundian_system_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_burgundian_system_subtype.dds"
+		name = "GFX_ideology_putinism_lvov_system_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_lvov_system_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_progressivism_gaitanismo_subtype"
@@ -194,16 +194,16 @@ spriteTypes = {
 		textureFile = "gfx/interface/ideologies/despotism_colonial_government_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_reformed_national_socialism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_reformed_national_socialism_subtype.dds"
+		name = "GFX_ideology_putinism_reformed_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_reformed_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_clerical_fascism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_clerical_fascism_subtype.dds"
+		name = "GFX_ideology_putinism_clerical_fascism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_clerical_fascism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_putinism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_putinism_subtype.dds"
+		name = "GFX_ideology_putinism_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_socialist_agrarian_socialism_subtype"
@@ -230,8 +230,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/socialist_baathism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_stratocratic_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_stratocratic_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_stratocratic_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_stratocratic_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_conservatism_paternalistic_conservatism_subtype"
@@ -294,8 +294,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/progressivism_social_democracy_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_idiosyncratic_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_idiosyncratic_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_idiosyncratic_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_idiosyncratic_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_despotism_aristocratic_conservatism_subtype"
@@ -310,8 +310,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/communist_left_communist_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_technocratic_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_technocratic_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_technocratic_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_technocratic_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_socialist_guevarism_subtype"
@@ -334,12 +334,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/paternalism_xunzheng_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_spartanism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_spartanism_subtype.dds"
+		name = "GFX_ideology_putinism_spartanism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_spartanism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_revolutionary_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_revolutionary_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_revolutionary_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_revolutionary_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_communist_national_communism_subtype"
@@ -462,12 +462,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_falangism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_stratocratic_corporatism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_stratocratic_corporatism_subtype.dds"
+		name = "GFX_ideology_putinism_stratocratic_corporatism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_stratocratic_corporatism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_national_proletarianism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_national_proletarianism_subtype.dds"
+		name = "GFX_ideology_putinism_national_proletarianism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_national_proletarianism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_despotism_managerial_state_subtype"
@@ -476,6 +476,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ideology_despotism_institutional_despotism_subtype"
 		texturefile = "gfx/interface/ideologies/despotism_institutional_despotism_subtype.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_despotism_deng_xiaoping_theory_subtype"
+		texturefile = "gfx/interface/ideologies/despotism_deng_xiaoping_theory_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_despotism_aristocratic_republicanism_subtype"
@@ -634,8 +638,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/socialist_buddhist_socialism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_socialism_esoteric_nazism_subtype"
-		texturefile = "gfx/interface/ideologies/national_socialism_esoteric_nazism_subtype.dds"
+		name = "GFX_ideology_putinism_esoteric_putinism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_esoteric_putinism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_fascism_british_fascism_1_subtype"
@@ -658,8 +662,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_social_credit_subtype.dds"  
 	}
 	spriteType = {
-		name = "GFX_ideology_fascism_german_rascism_subtype"
-		texturefile = "gfx/interface/ideologies/fascism_german_rascism_subtype.dds"  
+		name = "GFX_ideology_fascism_german_ruscism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_german_ruscism_subtype.dds"  
 	} 
 	spriteType = {
 		name = "GFX_ideology_communist_trotskyism_subtype"
@@ -723,8 +727,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_national_socialism_group"
-		texturefile = "gfx/interface/ideologies/national_socialism_group.dds"
+		name = "GFX_ideology_putinism_group"
+		texturefile = "gfx/interface/ideologies/putinism_group.dds"
 	}
 
 	spriteType = {

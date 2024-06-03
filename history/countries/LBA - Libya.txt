@@ -16,7 +16,7 @@ if = {
 
 set_convoys = 20
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -93,7 +93,7 @@ create_country_leader = {
 	name = "Ettore Bastico"
 	desc = ""
 	picture = GFX_portrait_Ettore_Bastico
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		#
 	}
@@ -113,7 +113,7 @@ create_country_leader = {
 	name = "Hassan as-Senussi"
 	desc = ""
 	picture = GFX_portrait_Hassan_as_Senussi
-	ideology = leninism
+	ideology = communist
 	traits = {
 		#
 	}

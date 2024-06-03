@@ -1,4 +1,8 @@
-﻿capital = 275
+﻿recruit_character = SAF_John_Steenhuisen
+
+
+capital = 275
+
 
 oob = "SAF_1936"
 if = {
@@ -180,31 +184,22 @@ if = {
 
 set_convoys = 25
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = liberalism
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 75
-	fascism = 20
-	communist = 5
-}
-
-                      
-1939.1.1 = {
-	set_politics = {
-		ruling_party = conservatism
-		last_election = "1938.5.18"
-		election_frequency = 60
-		elections_allowed = yes
-	}
-	set_popularities = {
-		conservatism = 100
-	}
-
-	#retire_character = SAF_j_b_m_hertzog
-	# Took office 5 days after this date
- 	promote_character = SAF_jan_smuts
-	retire_character = SAF_j_b_m_hertzog
+	communist = 3
+	communist_1 = 1
+	ultranationalism = 0
+	progressivism_2 = 9
+	progressivism = 17
+	liberalism = 25
+	liberal_conservatism = 22
+	conservatism = 3
+	conservatism_1 = 2
+	paternalism = 13
+	despotism = 0
+	fascism = 5
 }
