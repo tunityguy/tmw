@@ -21,10 +21,6 @@
  AST: "Commonwealth of Australia"
  AST_DEF: "the Commonwealth of Australia"
  AST_ADJ: "Australian"
-
- AUS: "Republic of Austria"
- AUS_DEF: "the Republic of Austria"
- AUS_ADJ: "Austrian"
  
  # B
  BEL: "Kingdom of Belgium"
@@ -89,10 +85,6 @@
  GRN_ADJ: "Greenlandic"
  
  # H
- HOL: "Kingdom of the Netherlands"
- HOL_DEF: "the Kingdom of the Netherlands"
- HOL_ADJ: "Dutch"
- 
  HUN: "Hungary"
  HUN_DEF: "Hungary"
  HUN_ADJ: "Hungarian"
@@ -222,10 +214,6 @@
  SIA: "Kingdom of Thailand"
  SIA_DEF: "the Kingdom of Thailand"
  SIA_ADJ: "Thai"
-
- SLO: "Slovako-Czech Republic"
- SLO_DEF: "the Slovako-Czech Republic"
- SLO_ADJ: "Slovako-Czech"
 
  SLV: "Republic of Slovenia"
  SLV_DEF: "the Republic of Slovenia"

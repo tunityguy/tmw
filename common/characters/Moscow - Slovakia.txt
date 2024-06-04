@@ -1,0 +1,17 @@
+characters = {
+    SLO_Robert_Fico = {
+        name = "SLO_Robert_Fico"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SLO/Portrait_Slovakia_Robert_Fico.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ROBERT_FICO_DESC"
+			ideology = paternalism_dominant_party_democracy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

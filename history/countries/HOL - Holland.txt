@@ -1,4 +1,9 @@
-﻿capital = 7
+﻿recruit_character = HOL_Rob_Jetten
+recruit_character = HOL_Geert_Wilders
+
+
+
+capital = 7
 
 oob = "HOL_1936"
 if = {
@@ -92,24 +97,22 @@ if = {
 	limit = {
 		has_dlc = "Man the Guns"
 	}
-	add_ideas = {
-		HOL_aloof_paternalism
-		HOL_shell_shocked_spectator_5
-		HOL_de_crisisjaren_5
-		HOL_weak_government
-	}
 }
 
 set_politics = {
-	ruling_party = conservatism
-	last_election = "1933.4.26"
-	election_frequency = 48
+	ruling_party = progressivism
+	last_election = "2027.3.15"
+	election_frequency = 60
 	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 93
-	fascism = 4
-	communist = 3
+	socialist = 15
+	progressivism = 35
+	liberalism = 8
+	liberal_conservatism = 10
+	conservatism = 16
+	conservatism_1 = 6
+	paternalism = 10
 }
 
 set_convoys = 150

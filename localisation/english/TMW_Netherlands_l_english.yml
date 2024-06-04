@@ -1,0 +1,57 @@
+﻿l_english:
+
+#HOL country names
+HOL: "Netherlands"
+HOL_DEF: "the Kingdom of Netherlands"
+HOL_republic_DEF: "the Republic of Netherlands"
+HOL_ADJ: "Dutch"
+HOL_ultranationalism: "Dutch Empire"
+#parties
+HOL_communist_party: "NCPN"
+HOL_socialist_party: "PvdA"
+HOL_progressivism_party: "D66"
+HOL_liberalism_party: "VVD (M)"
+HOL_liberal_conservatism_party: "VVD (LC)"
+HOL_conservatism_party: "VVD (C)"
+HOL_conservatism_1_party: "PVV"
+HOL_paternalism_party: "PVV"
+HOL_despotism_party: "PVV (R)"
+HOL_fascism_party: "NhNr (M)"
+HOL_putinism_party: "NhNr (R)"
+HOL_ultranationalism_party: "NVU"
+
+HOL_communist_party_long: "Nieuwe Communistische Partij van Nederland"
+HOL_socialist_party_long: "Partij van de Arbeid"
+HOL_progressivism_party_long: "Democraten 66"
+HOL_liberalism_party_long: "Volkspartij voor Vrijheid en Democratie - Moderate"
+HOL_liberal_conservatism_party_long: "Volkspartij voor Vrijheid en Democratie - Liberal Conservative"
+HOL_conservatism_party_long: "Volkspartij voor Vrijheid en Democratie - Conservative"
+HOL_conservatism_1_party_long: "Partij voor de Vrijheid"
+HOL_paternalism_party_long: "Partij voor de Vrijheid"
+HOL_despotism_party_long: "Partij voor de Vrijheid - Radicals"
+HOL_fascism_party_long: "Nationaal herstel van het Nederlandse rijk - Moderates"
+HOL_putinism_party_long:  "Nationaal herstel van het Nederlandse rijk - Radicals"
+HOL_ultranationalism_party_long: "Nederlandse Volks-Unie"
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+HOL_Rob_Jetten: "Rob Jetten"
+HOL_Geert_Wilders: "Geert Wilders"
+
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

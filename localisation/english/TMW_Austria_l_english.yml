@@ -1,0 +1,45 @@
+﻿l_english:
+
+#HOL country names
+AUS: "Republic of Austria"
+AUS_DEF: "the Republic of Austria"
+AUS_ADJ: "Austrian"
+#parties
+AUS_communist_party: "KPÖ"
+AUS_socialist_party: "SPÖ (R)"
+AUS_progressivism_party: "SPÖ (M)"
+AUS_liberalism_party: "ÖVP (L)"
+AUS_conservatism_party: "ÖVP (CD)"
+AUS_paternalism_party: "FPÖ"
+AUS_despotism_party: "ÖN"
+
+AUS_communist_party_long: "Kommunistische Partei Österreichs"
+AUS_socialist_party_long: "Sozialdemokratische Partei Österreichs - Radicals"
+AUS_progressivism_party_long: "Sozialdemokratische Partei Österreichs - Moderates"
+AUS_liberalism_party_long: "Österreichische Volkspartei - Liberals"
+AUS_conservatism_party_long: "Österreichische Volkspartei - Christian Democrats"
+AUS_paternalism_party_long: "Freiheitliche Partei Österreichs"
+AUS_despotism_party_long: "Österreichischer Nationalkampf"
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+AUS_Philip_Kucher: "Philip Kucher"
+AUS_Gunther_Fehlinger: "Gunther Fehlinger"
+
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

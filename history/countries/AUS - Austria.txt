@@ -1,4 +1,7 @@
-﻿capital = 4
+﻿recruit_character = AUS_Philip_Kucher
+recruit_character = AUS_Gunther_Fehlinger
+
+capital = 4
 
 oob = "AUS_1936"
 if = {
@@ -34,17 +37,19 @@ set_technology = {
                      
 
 set_politics = {
-	ruling_party = paternalism
-	last_election = "1930.11.9"
-	election_frequency = 48
-	elections_allowed = no
+	ruling_party = progressivism
+	last_election = "2028.10.9"
+	election_frequency = 72
+	elections_allowed = yes
 }
 
 set_popularities = {
-	paternalism = 48
-	fascism = 50
-	conservatism = 1
-	communist = 1
+	communist = 6
+	progressivism = 34
+	liberalism = 6
+	conservatism = 18
+	paternalism = 33
+	despotism = 3
 }
 
 set_stability = 0.50
