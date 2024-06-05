@@ -6,24 +6,26 @@ state={
 	history={
 		owner = RUS
 		victory_points = {
-			310 3 #Daugavpils
+			310 3 
 		}
 		victory_points = {
-			222 1 #Rezekne
+			222 1 
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
+
 		}
 		add_core_of = RUS
 
 	}
 
 	provinces={
-		265 3255 3525 6222 6342 11358 
+		265 3255 3525 6222 6342 11358 13433 
 	}
 	manpower=215500
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }
