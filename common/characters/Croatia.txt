@@ -1,0 +1,17 @@
+characters = {
+    CRO_Andrej_Plenkovic = {
+        name = "CRO_Andrej_Plenkovic"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CRO/Portrait_Croatia_Andrej_Plenkovic.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ANDREJ_PLENKOVIC_DESC"
+			ideology = despotism_kleptocracy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

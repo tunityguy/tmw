@@ -1,0 +1,50 @@
+﻿l_english:
+
+#HOL country names
+CRO: "Republic of Croatia"
+CRO_DEF: "the Republic of Croatia"
+CRO_ADJ: "Croatian"
+#parties
+CRO_communist_party: "RF"
+CRO_progressivism_party: "SDP"
+CRO_progressivism_1_party: "Mozemo!"
+CRO_liberalism_party: "FOKUS"
+CRO_liberalism_1_party: "Centar"
+CRO_liberalism_2_party: "IDS-DDI"
+CRO_conservatism_party: "MOST"
+CRO_despotism_party: "HDZ"
+CRO_despotism_1_party: "DP - Fortenova Cell"
+CRO_paternalism_party: "DP - Nationalist Cell"
+CRO_putinist_party: "HOS"
+CRO_fascist_party: "HSP"
+
+CRO_communist_party_long: "Radnicka Fronta"
+CRO_progressivism_party_long: "Socijaldemokratska Partija"
+CRO_liberalism_2_party_long: "IstrarsIstarski demokratski sabor - Dieta democratica istriana"
+CRO_paternalism_party_long: "Domovinski Pokret - Nationalist Cell"
+CRO_despotism_party_long: "Hrvatska Demokratska Zajednica"
+CRO_despotism_1_party_long: "Domovinski Pokret - Fortenova Cell"
+CRO_fascist_party_long: "Hrvatska Stranka Prava"
+CRO_putinist_party_long: "Hrvatske Obrambene Snage"
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+CRO_Andrej_Plenkovic: "Andrej Plenkovic"
+
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers
