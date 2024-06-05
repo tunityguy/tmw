@@ -190,7 +190,14 @@ set_popularities = {
 }
 
 add_ideas = {
+	#Faction
 	Moscow_Pact_Member
+
+	#Nat Spirits
+	GER_German_Free_Corps
+	GER_Russian_Corporate_Dominance
+	GER_The_Oder
+	GER_The_Terrible_Twins
 }
 
 activate_mission = GER_mefo_bills_mission

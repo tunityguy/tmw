@@ -153,8 +153,8 @@ guiTypes = {
 		iconType = {
 			name = "faction_icon_moscow_pact"
 			position = {x = -30 y = -26}
-			quadTextureSprite = "GFX_Moscow_Pact_Member"
-			scale = 0.61334
+			quadTextureSprite = "GFX_Moscow_Pact_Icon"
+			scale = 0.9
 			pdx_tooltip = Moscow_Pact
 		}
 

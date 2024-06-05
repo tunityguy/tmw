@@ -1,0 +1,18 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_GER_the_oder"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/idea_GER_the_oder.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_GER_russian_corporate_dominance"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/idea_GER_russian_corporate_dominance.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_GER_the_terrible_twins"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/idea_GER_the_terrible_twins.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_GER_german_free_corps"
+		texturefile = "gfx/interface/ideas/national_spirits/GER/idea_GER_german_free_corps.dds"
+	}
+}

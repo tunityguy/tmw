@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			desc = "POLITICS_ROBERT_FICO_DESC"
-			ideology = paternalism_dominant_party_democracy_subtype
+			ideology = paternalism_authoritarian_developmentalism_subtype
 			traits = { }
 			expire = "2999.1.1.1"
 			id = -1

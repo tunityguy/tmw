@@ -7,8 +7,8 @@ SpriteTypes = {
 	#########################################
 
 	SpriteType = {
-		name = "GFX_focus_ENG_ghosts_of_1956_shine"
-		texturefile = "gfx/interface/goals/ENG/focus_ENG_ghosts_of_1956.dds"
+		name = "GFX_focus_GER_die_geister_des_jahres_2030_shine"
+		texturefile = "gfx/interface/goals/ENG/focus_GER_die_geister_des_jahres_203.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
 			animationmaskfile = "gfx/interface/goals/GER/focus_GER_die_geister_des_jahres_2030.dds"
@@ -36,4 +36,4 @@ SpriteTypes = {
 		}
 		legacy_lazy_load = no
 	}
-	
+}

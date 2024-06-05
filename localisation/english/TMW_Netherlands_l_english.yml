@@ -1,11 +1,10 @@
 ﻿l_english:
 
 #HOL country names
-HOL: "Netherlands"
+HOL: "Kingdom of Netherlands"
 HOL_DEF: "the Kingdom of Netherlands"
-HOL_republic_DEF: "the Republic of Netherlands"
 HOL_ADJ: "Dutch"
-HOL_ultranationalism: "Dutch Empire"
+
 #parties
 HOL_communist_party: "NCPN"
 HOL_socialist_party: "PvdA"

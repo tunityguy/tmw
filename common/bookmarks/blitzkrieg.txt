@@ -10,10 +10,13 @@ bookmarks = {
 			history = GER_TMW_DESC
 			ideology = fascism
 			ideas = {
-
+				GER_German_Free_Corps
+				GER_Russian_Corporate_Dominance
+				GER_The_Oder
+				GER_The_Terrible_Twins
 			}
 			focuses = {
-
+				GER_die_geister_des_jahres_2030
 			}
 		}
 		effect = {

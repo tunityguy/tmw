@@ -1,5 +1,7 @@
 ﻿recruit_character = RUS_Vladimir_Putin
 
+capital = 219
+
 set_politics = {
 	ruling_party = putinism	
 	last_election = "1933.7.1"

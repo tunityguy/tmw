@@ -1,0 +1,17 @@
+characters = {
+    RYU_Takeshi_Sho = {
+        name = "RYU_Takeshi_Sho"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RYU/Portrait_Ryukyu_Takeshi_Sho.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_TAKESHI_SHO_DESC"
+			ideology = despotism_aristocratic_conservatism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

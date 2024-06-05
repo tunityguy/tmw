@@ -18,6 +18,10 @@
  ALB_DEF: "the Republic of Albania"
  ALB_ADJ: "Albanian"
 
+ ALG: "Union of North Africa"
+ ALG_DEF: "the Union of North Africa"
+ ALG_ADJ: "North African"
+
  AST: "Commonwealth of Australia"
  AST_DEF: "the Commonwealth of Australia"
  AST_ADJ: "Australian"
@@ -58,6 +62,10 @@
  ENG: "United Kingdom"
  ENG_DEF: "the United Kingdom"
  ENG_ADJ: "British"
+
+ EGY: "Islamic Republic of Egypt"
+ EGY_DEF: "the Islamic Republic of Egypt"
+ EGY_ADJ: "Egyptian"
  
  
  # F
@@ -107,6 +115,10 @@
  IRE_DEF: "Ireland"
  IRE_ADJ: "Irish"
 
+ IRQ: "Islamic Republic of Iraq"
+ IRQ_DEF: "the Islamic Republic of Iraq"
+ IRQ_ADJ: "Iraqi"
+
  ITA: "Italian Republic"
  ITA_DEF: "the Italian Republic"
  ITA_ADJ: "Italian"
@@ -126,6 +138,10 @@
  KOR_DEF: "the Democratic People's Republic of Korea"
  KOR_ADJ: "Korean"
 
+ KUW: "State of Kuwait"
+ KUW_DEF: "the State of Kuwait"
+ KUW_ADJ: "Kuwaiti"
+
  KYR: "Kyrgyz Republic"
  KYR_DEF: "the Kyrgyz Republic"
  KYR_ADJ: "Kyrgyz"
@@ -142,9 +158,9 @@
  
  
  # M
- MAL: "Malaysia"
- MAL_DEF: "Malaysia"
- MAL_ADJ: "Malaysian"
+ MAL: "Federation of Malaya"
+ MAL_DEF: "the Federation of Malaya"
+ MAL_ADJ: "Malayan"
 
  MDV: "Pridnestroovskaya Moldavskaya Respublika"
  MDV_DEF: "Pridnestrovskaya Moldavskaya Respublika"
@@ -153,6 +169,10 @@
  MLD: "Republic of Maldives"
  MLD_DEF: "the Republic of Maldives"
  MLD_ADJ: "Maldive"
+
+ MLT: "Republic of Malta"
+ MLT_DEF: "the Republic of Malta"
+ MLT_ADJ: "Maltese"
  
  
  # N
@@ -170,9 +190,15 @@
  
  
  # O
- 
+ OMA: "Sultanate of Oman"
+ OMA_DEF: "the Sultanate of Oman"
+ OMA_ADJ: "Omani"
  
  # P
+ PAL: "Independent State of Palestine"
+ PAL_DEF: "the Independent State of Palestine"
+ PAL_ADJ: "Palestinian"
+
  PER: "Jomhuri-ye Eslami-ye Iran"
  PER_DEF: "Jomhuri-ye Eslami-ye Iran"
  PER_ADK: "Iranian"
@@ -206,6 +232,10 @@
  SAF: "Republic of South Africa"
  SAF_DEF: "the Republic of South Africa"
  SAF_ADJ: "South African"
+
+ SAU: "Islamic Republic of Arabia"
+ SAU_DEF: "the Islamic Republic of Arabia"
+ SAU_ADJ: "Arabian"
  
  SER: "Republic of Serbia"
  SER_DEF: "the Republic of Serbia"
@@ -219,8 +249,8 @@
  SLV_DEF: "the Republic of Slovenia"
  SLV_ADJ: "Slovene"
 
- SPR: "Spanish Republic"
- SPR_DEF: "the Spanish Republic"
+ SPR: "Kingdom of Spain"
+ SPR_DEF: "the Kingdom of Spain"
  SPR_ADJ: "Spanish"
 
  SRL: "Democratic Socialist Republic of Sri Lanka"
@@ -234,6 +264,10 @@
  SWI: "Swiss Confederation"
  SWI_DEF: "the Swiss Confederation"
  SWI_ADJ: "Swiss"
+
+ SYR: "Syrian Arab Republic"
+ SYR_DEF: "the Syrian Arab Republic"
+ SYR_ADJ: "Syrian"
  
  # T
  TAJ: "Republic of Tajikistan"
@@ -271,6 +305,9 @@
  
  
  # Y
+ YEM: "Islamic Republic of Yemen"
+ YEM_DEF: "the Islamic Republic of Yemen"
+ YEM_ADJ: "Yemeni"
  
  
  # Z
