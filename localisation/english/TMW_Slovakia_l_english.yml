@@ -1,0 +1,48 @@
+﻿l_english:
+
+#HOL country names
+SLO: "Slovak-Czech Republic"
+SLO_DEF: "the Slovak-Czech Republic"
+SLO_ADJ: "Slovak"
+#parties
+SLO_communist_party: "KSS"
+SLO_socialist_party: "Smer–SD (S)"
+SLO_progressivism_party: "Smer–SD"
+SLO_progressivism_1_party: "Hlas–SD"
+SLO_liberalism_party: "PS"
+SLO_conservatism_party: "Slovensko"
+SLO_conservatism_1_party: "KDH"
+SLO_paternalism_party: "Smer–SD (Fico)"
+SLO_paternalism_2_party: "SNS"
+
+SLO_communist_party_long: "Komunistická strana Slovenska"
+SLO_socialist_party_long: "Smer – sociálna demokracia - Socialists"
+SLO_progressivism_1_party_long: "Smer – sociálna demokracia - Social Democrats"
+SLO_progressivism_party_long: "Hlas – sociálna demokracia"
+SLO_liberalism_party_long: "Progresívne Slovensko"
+SLO_conservatism_party_long: "Slovensko"
+SLO_conservatism_1_party_long: "Kresťanskodemokratické hnutie"
+SLO_paternalism_party_long: "Smer – sociálna demokracia - Fico"
+SLO_paternalism_2_party_long: "Slovenská národná strana"
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+SLO_Robert_Fico: "Robert Fico"
+
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

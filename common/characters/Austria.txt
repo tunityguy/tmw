@@ -1,0 +1,32 @@
+characters = {
+    AUS_Philip_Kucher = {
+        name = "AUS_Philip_Kucher"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/Portrait_Austria_Philip_Kucher.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_PHILIP_KUCHER_DESC"
+			ideology = progressivism_social_democracy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+	AUS_Gunther_Fehlinger = {
+        name = "AUS_Gunther_Fehlinger"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/Portrait_Austria_Gunther_Fehlinger.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_GUNTHER_FEHLINGER_DESC"
+			ideology = paternalism_national_conservatism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

@@ -72,7 +72,7 @@ if = {
 
                     
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_ideas = {
 		limited_conscription
@@ -152,10 +152,10 @@ set_popularities = {
 	paternalism = 30
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = paternalism
-		last_election = "1939.1.1"
+		last_election = "2999.1.1"
 		election_frequency = 36
 		elections_allowed = yes
 	}
@@ -178,7 +178,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Milan_Nedic
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		#
 	}
@@ -200,7 +200,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Zivorad_Jovanovic
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = communist
 	traits = {
 		#
 	}

@@ -1,0 +1,33 @@
+characters = {
+    HOL_Rob_Jetten = {
+        name = "HOL_Rob_Jetten"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/HOL/Portrait_Netherlands_Rob_Jetten.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ROB_JETTEN_DESC"
+			ideology = progressivism_social_democracy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+	
+	HOL_Geert_Wilders = {
+        name = "HOL_Geert_Wilders"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/HOL/Portrait_Netherlands_Geert_Wilders.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_GEERT_WILDERS_DESC"
+			ideology = paternalism_right_wing_populism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

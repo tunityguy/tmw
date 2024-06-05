@@ -107,7 +107,7 @@ set_research_slots = 4
 set_convoys = 50
 set_stability = 0.75
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1197
 	add_command_power = 100
@@ -188,7 +188,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Jake_Richter
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = fascism
 	traits = {
 		political_dancer		
 	}
@@ -209,7 +209,7 @@ create_country_leader = {
 	desc = "POLITICS_WILHELM_PIECK_DESC"	 
 	picture = GFX_portrait_Wilhelm_Pieck
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = communist
 	traits = {
 		#stalins_puppet # This will now be added in on_actions if SOV releases the country as a puppet via action or war conference
 		exiled # He left in 1933 so he should still be exiled
@@ -220,7 +220,7 @@ create_country_leader = {
 #	name = "Otto Wels"
 #	desc = "POLITICS_OTTO_WELS_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1939.1.16"
+#	expire = "2999.1.16"
 #	ideology = socialism
 #	traits = {
 #		exiled
@@ -233,7 +233,7 @@ create_country_leader = {
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1956.1.1"
-#	ideology = stalinism
+#	ideology = communist
 #	traits = {
 #		assassination_survivor
 #		stalins_puppet
@@ -315,7 +315,7 @@ if = {
 	}
 }
 ## 1939 Start ##
-1939.1.1 = {
+2999.1.1 = {
 
 		if = {
 			limit = {

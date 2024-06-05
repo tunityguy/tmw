@@ -11,7 +11,7 @@ set_technology = {
 set_convoys = 5
 
                     
-1939.1.1 = {
+2999.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -61,7 +61,7 @@ create_country_leader = {
 	name = " Marcus James Hugins"
 	picture = GFX_portrait__Marcus_James_Hugins
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = fascism
 	traits = { 
 		prince_of_terror
 	}

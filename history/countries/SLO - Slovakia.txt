@@ -1,4 +1,7 @@
-﻿capital = 70
+﻿recruit_character = SLO_Robert_Fico
+
+
+capital = 70
 
 
 
@@ -53,7 +56,7 @@ if = {
 
                     
 
-1939.1.1 = {
+2999.1.1 = {
 	
 	add_political_power = 1198
 	add_command_power = 100
@@ -113,13 +116,21 @@ if = {
 }
 
 set_politics = {
-	ruling_party = fascism
-	last_election = "1933.3.5"
-	election_frequency = 48
-	elections_allowed = no
+	ruling_party = paternalism
+	last_election = "2030.9.30"
+	election_frequency = 36
+	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 5
-	fascism = 90
 	communist = 5
+	socialist = 4
+	progressivism_1 = 6
+	progressivism = 11
+	liberal_conservatism = 2
+	conservatism = 12
+	conservatism_1 = 14
+	paternalism_2 = 10
+	paternalism = 30
+	despotism = 4
+	fascism = 2
 }

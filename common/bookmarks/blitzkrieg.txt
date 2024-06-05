@@ -1,0 +1,27 @@
+bookmarks = {
+	bookmark = {
+		name = "BLITZKRIEG_NAME"
+		desc = "BLITZKRIEG_DESC"
+		date = 2030.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "GER"
+	
+		GER = {
+			history = GER_TMW_DESC
+			ideology = fascism
+			ideas = {
+				GER_German_Free_Corps
+				GER_Russian_Corporate_Dominance
+				GER_The_Oder
+				GER_The_Terrible_Twins
+			}
+			focuses = {
+				GER_die_geister_des_jahres_2030
+			}
+		}
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

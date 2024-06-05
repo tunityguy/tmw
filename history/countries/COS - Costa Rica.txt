@@ -13,7 +13,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 10
 
-1939.1.1 = {
+2999.1.1 = {
 
 	add_political_power = 1198
 	add_command_power = 100
@@ -70,7 +70,7 @@ set_popularities = {
 	fascism = 2
 }
 
-1939.1.1 = {
+2999.1.1 = {
 	set_politics = {
 		ruling_party = conservatism
 		last_election = "1936.2.9"

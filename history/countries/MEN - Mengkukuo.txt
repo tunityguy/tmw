@@ -8,7 +8,7 @@ set_technology = {
 }
 
               
-1939.1.1 = {
+2999.1.1 = {
 
 	add_to_war = {
 		targeted_alliance = JAP

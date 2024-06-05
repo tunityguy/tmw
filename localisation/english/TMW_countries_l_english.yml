@@ -6,34 +6,50 @@
  ### ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ██║  ██║   ██║       ██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗███████║ ###
  ###  ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝ ###
  ## Country tags are sorted alphabetically
- ## MAKE SURE THAT WHATEVER YOU ADD CONFORMS TO THE ALPHABETICAL ORDER
+ ## MAKE SURE THAT WHATEVER YOU ADD CONFORMS TO the ALPHABETICAL ORDER
  ## If not then I'm going to appear on your bedroom at 2AM brandishing an axe
  
  # A
+ AFG: "Islamic Republic of Afghanistan"
+ AFG_DEF: "the Islamic Republic of Afghanistan"
+ AFG_ADJ: "Afghani"
+
  ALB: "Republic of Albania"
- ALB_DEF: "The Republic of Albania"
+ ALB_DEF: "the Republic of Albania"
  ALB_ADJ: "Albanian"
 
- AUS: "Republic of Austria"
- AUS_DEF: "The Republic of Austria"
- AUS_ADJ: "Austrian"
+ ALG: "Union of North Africa"
+ ALG_DEF: "the Union of North Africa"
+ ALG_ADJ: "North African"
+
+ AST: "Commonwealth of Australia"
+ AST_DEF: "the Commonwealth of Australia"
+ AST_ADJ: "Australian"
  
  # B
  BEL: "Kingdom of Belgium"
- BEL_DEF: "The Kingdom of Belgium"
+ BEL_DEF: "the Kingdom of Belgium"
  BEL_ADJ: "Belgian"
+
+ BRM: "Republic of the Union of Myanmar"
+ BRM_DEF: "the Republic of the Union of Myanmar"
+ BRM_ADJ: "Myanmarese"
  
  # C
+ CAM: "Kingdom of Cambodia"
+ CAM_DEF: "the Kingdom of Cambodia"
+ CAM_ADJ: "Cambodian"
+
  CHI: "Zhonghua Renmin Gongheguo"
  CHI_DEF: "Zhonghua Renmin Gongheguo"
  CHI_ADJ: "Chinese"
 
  CRO: "Republic of Croatia"
- CRO_DEF: "The Republic of Croatia"
+ CRO_DEF: "the Republic of Croatia"
  CRO_ADJ: "Croatian"
 
  CZE_ONLY: "Czech Autonomous Special Zone"
- CZE_ONLY_DEF: "The Czech Autonomous Special Zone"
+ CZE_ONLY_DEF: "the Czech Autonomous Special Zone"
  CZE_ONLY_ADJ: "Czech"
  
  # D
@@ -44,35 +60,39 @@
  
  # E
  ENG: "United Kingdom"
- ENG_DEF: "The United Kingdom"
+ ENG_DEF: "the United Kingdom"
  ENG_ADJ: "British"
+
+ EGY: "Islamic Republic of Egypt"
+ EGY_DEF: "the Islamic Republic of Egypt"
+ EGY_ADJ: "Egyptian"
  
  
  # F
  FRA: "French Republic"
- FRA_DEF: "The French Republic"
+ FRA_DEF: "the French Republic"
  FRA_ADJ: "French"
  
  
  # G
  
- GAL: "Lvovskaya Administratsiya"
- GAL_DEF: "the Lvovskaya Administratsiya"
- GAL_ADJ: "Lvovskayan"
+ LVO: "Lvovskaya Administratsiya"
+ LVO_DEF: "the Lvovskaya Administratsiya"
+ LVO_ADJ: "Lvovian"
  
  GER: "Federal Republic of Germany"
- GER_DEF: "The Federal Republic of Germany"
+ GER_DEF: "the Federal Republic of Germany"
  GER_ADJ: "German"
  
  GRE: "Hellenic Republic"
- GRE_DEF: "The Hellenic Republic"
+ GRE_DEF: "the Hellenic Republic"
  GRE_ADJ: "Greek"
+
+ GRN: "Greenland"
+ GRN_DEF: "Greenland"
+ GRN_ADJ: "Greenlandic"
  
  # H
- HOL: "Kingdom of the Netherlands"
- HOL_DEF: "The Kingdom of the Netherlands"
- HOL_ADJ: "Dutch"
- 
  HUN: "Hungary"
  HUN_DEF: "Hungary"
  HUN_ADJ: "Hungarian"
@@ -83,53 +103,116 @@
  ICE_DEF: "Iceland"
  ICE_ADJ: "Icelandic"
 
+ IND: "Republic of India"
+ IND_DEF: "the Republic of India"
+ IND_ADJ: "Indian"
+
+ INS: "Republic of Indonesia"
+ INS_DEF: "the Republic of Indonesia"
+ INS_ADJ: "Indonesian"
+
  IRE: "Ireland"
  IRE_DEF: "Ireland"
  IRE_ADJ: "Irish"
 
+ IRQ: "Islamic Republic of Iraq"
+ IRQ_DEF: "the Islamic Republic of Iraq"
+ IRQ_ADJ: "Iraqi"
+
  ITA: "Italian Republic"
- ITA_DEF: "The Italian Republic"
+ ITA_DEF: "the Italian Republic"
  ITA_ADJ: "Italian"
  
  # J
+ JAP: "Republic of Japan"
+ JAP_DEF: "the Republic of Japan"
+ JAP_ADJ: "Japanese"
  
  
  # K
+ KAZ: "Republic of Kazakhstan"
+ KAZ_DEF: "the Republic of Kazakhstan"
+ KAZ_ADJ: "Kazakhstani"
+
+ KOR: "Democratic People's Republic of Korea"
+ KOR_DEF: "the Democratic People's Republic of Korea"
+ KOR_ADJ: "Korean"
+
+ KUW: "State of Kuwait"
+ KUW_DEF: "the State of Kuwait"
+ KUW_ADJ: "Kuwaiti"
+
+ KYR: "Kyrgyz Republic"
+ KYR_DEF: "the Kyrgyz Republic"
+ KYR_ADJ: "Kyrgyz"
  
  
  # L
+ LAO: "Lao People's Democratic Republic"
+ LAO_DEF: "the Lao People's Democratic Republic"
+ LAO_ADJ: "Lao"
+
  LUX: "Grand Duchy of Luxembourg"
- LUX_DEF: "The Grand Duchy of Luxembourg"
+ LUX_DEF: "the Grand Duchy of Luxembourg"
  LUX_ADJ: "Luxembourger"
  
  
  # M
+ MAL: "Federation of Malaya"
+ MAL_DEF: "the Federation of Malaya"
+ MAL_ADJ: "Malayan"
 
  MDV: "Pridnestroovskaya Moldavskaya Respublika"
  MDV_DEF: "Pridnestrovskaya Moldavskaya Respublika"
  MDV_ADJ: "Moldovan"
+
+ MLD: "Republic of Maldives"
+ MLD_DEF: "the Republic of Maldives"
+ MLD_ADJ: "Maldive"
+
+ MLT: "Republic of Malta"
+ MLT_DEF: "the Republic of Malta"
+ MLT_ADJ: "Maltese"
  
  
  # N
  NOR: "Kingdom of Norway"
- NOR_DEF: "The Kingdom of Norway"
+ NOR_DEF: "the Kingdom of Norway"
  NOR_ADJ: "Norwegian"
+
+ NEP: "Federal Democratic Republic of Nepal"
+ NEP_DEF: "the Federal Democratic Republic of Nepal"
+ NEP_ADJ: "Nepalese"
+
+ NZL: "New Zealand"
+ NZL_DEF: "New Zealand"
+ NZL_ADJ: "New Zealander"
  
  
  # O
- 
+ OMA: "Sultanate of Oman"
+ OMA_DEF: "the Sultanate of Oman"
+ OMA_ADJ: "Omani"
  
  # P
+ PAL: "Independent State of Palestine"
+ PAL_DEF: "the Independent State of Palestine"
+ PAL_ADJ: "Palestinian"
+
  PER: "Jomhuri-ye Eslami-ye Iran"
  PER_DEF: "Jomhuri-ye Eslami-ye Iran"
  PER_ADK: "Iranian"
+
+ PHI: "Republic of the Philippines"
+ PHI_DEF: "the Republic of the Philippines"
+ PHI_ADJ: "Filipino"
  
  POL: "Respublika Pol'sha"
  POL_DEF: "Respublika Pol'sha"
  POL_ADJ: "Polish"
 
  POR: "Portuguese Republic"
- POR_DEF: "The Portuguese Republic"
+ POR_DEF: "the Portuguese Republic"
  POR_ADJ: "Portuguese"
  
  
@@ -146,31 +229,54 @@
  RUS_ADJ: "Russian"
  
  # S
+ SAF: "Republic of South Africa"
+ SAF_DEF: "the Republic of South Africa"
+ SAF_ADJ: "South African"
+
+ SAU: "Islamic Republic of Arabia"
+ SAU_DEF: "the Islamic Republic of Arabia"
+ SAU_ADJ: "Arabian"
+ 
  SER: "Republic of Serbia"
- SER_DEF: "The Republic of Serbia"
+ SER_DEF: "the Republic of Serbia"
  SER_ADJ: "Serbian"
 
- SLO: "Slovako-Czech Republic"
- SLO_DEF: "The Slovako-Czech Republic"
- SLO_ADJ: "Slovako-Czech"
+ SIA: "Kingdom of Thailand"
+ SIA_DEF: "the Kingdom of Thailand"
+ SIA_ADJ: "Thai"
 
  SLV: "Republic of Slovenia"
- SLV_DEF: "The Republic of Slovenia"
+ SLV_DEF: "the Republic of Slovenia"
  SLV_ADJ: "Slovene"
 
- SPR: "Spanish Republic"
- SPR_DEF: "The Spanish Republic"
+ SPR: "Kingdom of Spain"
+ SPR_DEF: "the Kingdom of Spain"
  SPR_ADJ: "Spanish"
 
+ SRL: "Democratic Socialist Republic of Sri Lanka"
+ SRL_DEF: "the Democratic Socialist Republic of Sri Lanka"
+ SRL_ADJ: "Sri Lankan"
+
  SWE: "Independent State of Sweden"
- SWE_DEF: "The Independent State of Sweden"
+ SWE_DEF: "the Independent State of Sweden"
  SWE_ADJ: "Swedish"
 
  SWI: "Swiss Confederation"
- SWI_DEF: "The Swiss Confederation"
+ SWI_DEF: "the Swiss Confederation"
  SWI_ADJ: "Swiss"
+
+ SYR: "Syrian Arab Republic"
+ SYR_DEF: "the Syrian Arab Republic"
+ SYR_ADJ: "Syrian"
  
  # T
+ TAJ: "Republic of Tajikistan"
+ TAJ_DEF: "the Republic of Tajikistan"
+ TAJ_ADJ: "Tajikistani"
+
+ TMS: "Turkmenistan"
+ TMS_DEF: "Turkmenistan"
+ TMS_ADJ: "Turkmenistani"
  
  TUR: "Anatolian Union"
  TUR_DEF: "the Anatolian Union"
@@ -180,9 +286,16 @@
  UKR: "Malorossiya"
  UKR_DEF: "Malorossiya"
  UKR_ADJ: "Russian"
+
+ UZB: "Republic of Uzbekistan"
+ UZB_DEF: "the Republic of Uzbekistan"
+ UZB_ADJ: "Uzbekistani"
  
  
  # V
+ VIN: "Republic of Vietnam"
+ VIN_DEF: "the Republic of Vietnam"
+ VIN_ADJ: "Vietnamese"
  
  
  # W
@@ -192,6 +305,9 @@
  
  
  # Y
+ YEM: "Islamic Republic of Yemen"
+ YEM_DEF: "the Islamic Republic of Yemen"
+ YEM_ADJ: "Yemeni"
  
  
  # Z

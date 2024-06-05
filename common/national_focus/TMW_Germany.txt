@@ -1,0 +1,14 @@
+#its coming home
+
+focus_tree = {
+	id = GER_Intro_tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = GER
+		}
+	}
+	default = no
+	shared_focus = GER_die_geister_des_jahres_2030
+}

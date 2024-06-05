@@ -6,10 +6,10 @@ state={
 	history={
 		owner = RUS
 		victory_points = {
-			6222 3 #Jelgava
+			6222 3 
 		}
 		victory_points = {
-			3255 1 #Jekabpils
+			3255 1 
 		}
 		buildings = {
 			infrastructure = 2
@@ -27,9 +27,10 @@ state={
 	}
 
 	provinces={
-		222 310 319 341 3298 6459 7482 9275 11222 
+		222 310 319 341 3298 6459 7482 9275 11222 13434 13435 
 	}
 	manpower=600250
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

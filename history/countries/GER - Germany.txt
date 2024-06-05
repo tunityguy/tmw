@@ -1,5 +1,9 @@
 recruit_character = GER_Gerhard_Schroder
 
+load_focus_tree = GER_Intro_tree
+	
+set_cosmetic_tag = GER_collab
+
 capital = 64
 if = {
 	limit = {
@@ -182,11 +186,18 @@ set_popularities = {
 	conservatism = 1
 	fascism = 32
 	fascism_2 = 16
-	national_socialism = 5
+	putinism = 5
 }
 
 add_ideas = {
+	#Faction
 	Moscow_Pact_Member
+
+	#Nat Spirits
+	GER_German_Free_Corps
+	GER_Russian_Corporate_Dominance
+	GER_The_Oder
+	GER_The_Terrible_Twins
 }
 
 activate_mission = GER_mefo_bills_mission

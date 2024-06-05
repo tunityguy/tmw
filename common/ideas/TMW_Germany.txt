@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		### German Starting Nat Spirits
+
+		GER_The_Terrible_Twins = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea GER_The_Terrible_Twins" }
+			allowed = { always = no }
+			picture = GER_the_terrible_twins
+			cancel_if_invalid = no
+			modifier = {
+				stability_factor = -0.25
+				conscription_factor = -0.35
+			}
+		}
+		GER_German_Free_Corps = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea GER_German_Free_Corps" }
+			allowed = { always = no }
+			picture = GER_german_free_corps
+			cancel_if_invalid = no
+			modifier = {
+				army_org_factor = 0.10
+				stability_factor = -0.05
+			}
+		}
+		GER_Russian_Corporate_Dominance = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea GER_Russian_Corporate_Dominance" }
+			allowed = { always = no }
+			picture = GER_russian_corporate_dominance
+			cancel_if_invalid = no
+			modifier = {
+				industrial_capacity_factory = 0.10
+				production_factory_efficiency_gain_factor = -0.20
+				production_factory_max_efficiency_factor = -0.20
+			}
+			targeted_modifier = {
+				tag = RUS
+				industrial_factory_donations = 3
+			}
+		}
+		GER_The_Oder = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea GER_The_Oder" }
+			allowed = { always = no }
+			picture = GER_the_oder
+			cancel_if_invalid = no
+			modifier = {
+				experience_gain_army = -0.01
+				custom_modifier_tooltip = SPR_military_disloyalty_tt
+			}
+		}
+    }
+}
