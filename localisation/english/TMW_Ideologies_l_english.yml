@@ -159,11 +159,11 @@ paternalism_authoritarian_developmentalism_subtype: "Authoritarian Developmental
 
 despotism_absolute_monarchy_subtype: "Absolute Monarchy"
 despotism_military_junta_subtype: "Military Junta"
-despotism_kleptocracy_subtype: "Kleptocracy"
 despotism_civilian_dictatorship_subtype: "Civilian Dictatorship"
 despotism_theocracy_subtype: "Theocracy"
 despotism_papacy_subtype: "Papacy"
 despotism_eurasianism_subtype: "Eurasianism"
+despotism_kleptocracy_subtype: "Kleptocracy"
 despotism_interim_government_subtype: "Interim Government"
 despotism_colonial_government_subtype: "Colonial Government"
 despotism_neo_baathism_subtype: "Neo-Ba'athism"
