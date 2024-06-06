@@ -27,6 +27,10 @@
  AST_ADJ: "Australian"
  
  # B
+ BAN: "People's Republic of Bangladesh"
+ BAN_DEF: "the People's Republic of Bangladesh"
+ BAN_ADJ: "Bangladeshi"
+
  BEL: "Kingdom of Belgium"
  BEL_DEF: "the Kingdom of Belgium"
  BEL_ADJ: "Belgian"

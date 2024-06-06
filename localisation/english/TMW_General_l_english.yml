@@ -1,0 +1,44 @@
+﻿l_english:
+
+###Interface###
+minister:0 "Ministers"
+research_production:0 "Theorist"
+weapons_manufacturer:0 "Weapons Manufacturer"
+air_naval_manufacturer:0 "Air and Naval Manufacturer"
+can_replace_hog:0 "Can Replace Head Of Government"
+for_cannot_be_replaced:0 "Foreign Minister Can't Be Replaced"
+eco_cannot_be_replaced:0 "Economic Minister Can't Be Replaced"
+sec_cannot_be_replaced:0 "Security Minister Can't Be Replaced"
+ministers_cannot_be_replaced:0 "Ministers Cannot Be Replaced"
+head_of_government:0 "Head of Government"
+foreign_minister:0 "Foreign Minister"
+economy_minister:0 "Economy Minister"
+security_minister:0 "Security Minister"
+intel_minister:0 "Intel Minister"
+
+
+###Drift###
+communist_drift:0 "Daily Communist Support"
+socialist_drift:0 "Daily Socialist Support"
+progressivism_drift:0 "Daily Progressivism Support"
+liberalism_drift:0 "Daily Liberalism Support"
+liberal_conservatism_drift:0 "Daily Liberal Conservatism Support"
+conservatism_drift:0 "Daily Conservatism Support"
+paternalism_drift:0 "Daily Paternalism Support"
+despotism_drift:0 "Daily Despotism Support"
+fascism_drift:0 "Daily Fascism Support"
+national_socialism_drift:0 "Daily National Socialism Support"
+ultranationalism_drift:0 "Daily Ultranationalism Support"
+
+###Banned###
+communist_banned:0 "Banned Communists"
+socialist_banned:0 "Banned Socialists"
+progressivism_banned:0 "Banned Progressives"
+liberalism_banned:0 "Banned Liberals"
+liberal_conservatism_banned:0 "Banned Liberal Conservatives"
+conservatism_banned:0 "Banned Conservatisms"
+paternalism_banned:0 "Banned Paternalists"
+despotism_banned:0 "Banned Despotists"
+fascist_banned:0 "Banned Fascists"
+national_socialism_banned:0 "Banned National Socialists"
+ultranationalism_banned:0 "Banned Ultranationalism"

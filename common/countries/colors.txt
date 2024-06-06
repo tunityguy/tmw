@@ -950,8 +950,8 @@ TTS = {
 	color_ui = rgb { 179 179 0 }
 }
 GRN = {
-	color = rgb { 255 80 80 }
-	color_ui = rgb { 179 0 0 }
+	color = rgb { 203 138 74 }
+	color_ui = rgb { 203 138 74 }
 }
 #TODO JA, add flags for these once implemented
 RAP = {

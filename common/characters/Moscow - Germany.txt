@@ -14,4 +14,84 @@ characters = {
 			id = -1
 		}
     }
+	GER_Frank_Franz = {  
+		name = GER_Frank_Franz
+		portraits = { 
+			civilian = { 
+				large = "gfx/leaders/GER/Portrait_GER_Frank_Franz.dds"
+				small = "gfx/interface/ideas/ministers/GER/GER_Minister_Frank_Franz.dds" 
+			} 	
+		} 
+		advisor = {
+			slot = head_of_government
+			idea_token = GER_Frank_Franz_hog
+			allowed = { original_tag = GER }
+			traits = {
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+	GER_Mikhail_Teplinsky = { 
+		name = GER_Mikhail_Teplinsky
+		portraits = { 
+			civilian = { 
+				large = "gfx/leaders/GER/Portrait_GER_Mikhail_Teplinsky.dds"
+				small = "gfx/interface/ideas/ministers/GER/GER_Minister_Mikhail_Teplinsky.dds" 
+			} 	
+		} 
+		advisor = {
+			slot = security_minister
+			idea_token = GER_Mikhail_Teplinsky_sec
+			allowed = { original_tag = GER }
+			traits = {
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+	GER_Stephan_Brandner = {
+		name = GER_Stephan_Brandner
+		portraits = { 
+			civilian = { 
+				large = "gfx/leaders/GER/Portrait_GER_Stephan_Brandner.dds"
+				small = "gfx/interface/ideas/ministers/GER/GER_Minister_Stephan_Brandner.dds" 
+			} 	
+		} 
+		advisor = {
+			slot = foreign_minister
+			idea_token = GER_Stephan_Brandner_for
+			allowed = { original_tag = GER }
+			traits = {
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+	GER_Tino_Chrupalla = { 
+		name = GER_Tino_Chrupalla
+		portraits = { 
+			civilian = { 
+				large = "gfx/leaders/GER/Portrait_GER_Tino_Chrupalla.dds"
+				small = "gfx/interface/ideas/ministers/GER/GER_Minister_Tino_Chrupalla.dds" 
+			} 	
+		} 
+		advisor = {
+			slot = economy_minister
+			idea_token = GER_Tino_Chrupalla_eco
+			allowed = { original_tag = GER }
+			traits = {
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }

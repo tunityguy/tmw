@@ -48,6 +48,7 @@ add_to_faction = YEM
 add_to_faction = OMA
 add_to_faction = EGY
 add_to_faction = NEP
+add_to_faction = BAN
 
 # His son, who came to power 41
 #create_country_leader = {
