@@ -495,6 +495,10 @@ defined_text = {
 		localization_key = despotism_neo_baathism_subtype
 	}
 	text = {
+		trigger = { has_country_leader_ideology = despotism_kleptocracy_subtype }
+		localization_key = despotism_kleptocracy_subtype
+	}
+	text = {
 		trigger = { has_country_leader_ideology = despotism_colonial_government_subtype }
 		localization_key = despotism_colonial_government_subtype
 	}
