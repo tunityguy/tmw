@@ -7,5 +7,41 @@ SpriteTypes = {
 		name = "GFX_focus_GER_their_voices_our_ears"
 		texturefile = "gfx/interface/goals/GER/focus_GER_their_voices_our_ears.dds"
 	}
+	SpriteType = {
+		name = "GFX_focus_GER_desperate_measures"
+		texturefile = "gfx/interface/goals/GER/focus_GER_desperate_measures.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_discussions_with_the_dreamer"
+		texturefile = "gfx/interface/goals/GER/focus_GER_discussion_with_the_dreamer.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_their_dreams_fulfilled"
+		texturefile = "gfx/interface/goals/GER/focus_GER_their_dreams_fufilled.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_conversations_with_moscow"
+		texturefile = "gfx/interface/goals/GER/focus_GER_conversations_with_moscow.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_the_unmasked_ones"
+		texturefile = "gfx/interface/goals/GER/focus_GER_the_unmasked_ones.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_bin_ich_der_feind"
+		texturefile = "gfx/interface/goals/GER/focus_GER_bin_ich_der_Feind.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_so_muss_es_sein"
+		texturefile = "gfx/interface/goals/GER/focus_GER_so_muss_es_sein.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_freiheit_fur_alle"
+		texturefile = "gfx/interface/goals/GER/focus_GER_freiheit_fur_alle.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_now_this_is_our_future"
+		texturefile = "gfx/interface/goals/GER/focus_GER_now_this_is_our_future.dds"
+	}
 }
 	
