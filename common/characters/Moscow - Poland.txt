@@ -1,0 +1,17 @@
+characters = {
+    POL_Grzegorz_Braun = {
+        name = "POL_Grzegorz_Braun"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POL/Portrait_Poland_Grzegorz_Braun.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_GRZEGORZ_BRAUN_DESC"
+			ideology = despotism_civilian_dictatorship_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}
