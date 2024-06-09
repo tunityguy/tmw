@@ -1,11 +1,12 @@
 ﻿capital = 266
 
+recruit_character = PER_Ebrahim_Raisi
+
 oob = "PER_1936"
 if = {
 	limit = { has_dlc = "By Blood Alone" }
 		set_air_oob = "PER_1936_air_bba"
 	else = {
-		set_air_oob = "PER_1936_air_legacy"
 		set_technology = {
 			early_fighter = 1
 			CAS1 = 1
@@ -25,13 +26,15 @@ set_technology = {
        
 set_convoys = 10
 set_politics = {
-	ruling_party = paternalism
+	ruling_party = despotism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	paternalism = 100
+	paternalism = 44
+	despotism = 51
+	conservatism = 5
 }
 
 create_faction = Triumvirate
@@ -49,15 +52,4 @@ add_to_faction = OMA
 add_to_faction = EGY
 add_to_faction = NEP
 add_to_faction = BAN
-
-# His son, who came to power 41
-#create_country_leader = {
-#	name = "Mohammad Reza Pahlavi"
-#	desc = "POLITICS_MOHAMMAD_REZA_PAHLAVI_DESC"
-#	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
-#	expire = "1965.1.1"
-#	ideology = despotism
-#	traits = {
-#		#
-#	}
-#}
+add_to_faction = LEB

@@ -156,6 +156,10 @@
  LAO_DEF: "the Lao People's Democratic Republic"
  LAO_ADJ: "Lao"
 
+ LEB: "Islamic Republic of Lebanon"
+ LEB_DEF: "the Islamic Republic of Lebanon"
+ LEB_ADJ: "Lebanese"
+
  LUX: "Grand Duchy of Luxembourg"
  LUX_DEF: "the Grand Duchy of Luxembourg"
  LUX_ADJ: "Luxembourger"
@@ -202,10 +206,6 @@
  PAL: "Independent State of Palestine"
  PAL_DEF: "the Independent State of Palestine"
  PAL_ADJ: "Palestinian"
-
- PER: "Jomhuri-ye Eslami-ye Iran"
- PER_DEF: "Jomhuri-ye Eslami-ye Iran"
- PER_ADK: "Iranian"
 
  PHI: "Republic of the Philippines"
  PHI_DEF: "the Republic of the Philippines"
@@ -265,8 +265,8 @@
  SWI_DEF: "the Swiss Confederation"
  SWI_ADJ: "Swiss"
 
- SYR: "Syrian Arab Republic"
- SYR_DEF: "the Syrian Arab Republic"
+ SYR: "Syrian Republic"
+ SYR_DEF: "the Syrian Republic"
  SYR_ADJ: "Syrian"
  
  # T
@@ -277,10 +277,7 @@
  TMS: "Turkmenistan"
  TMS_DEF: "Turkmenistan"
  TMS_ADJ: "Turkmenistani"
- 
- TUR: "Anatolian Union"
- TUR_DEF: "the Anatolian Union"
- TUR_ADJ: "Anatolian"
+
  
  # U
  UKR: "Malorossiya"

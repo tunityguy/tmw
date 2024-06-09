@@ -1,0 +1,17 @@
+characters = {
+    PER_Ebrahim_Raisi = {
+        name = "PER_Ebrahim_Raisi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/PER/Portrait_Iran_Ebrahim_Raisi.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_EBRAHIM_RAISI_DESC"
+			ideology = despotism_theocracy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

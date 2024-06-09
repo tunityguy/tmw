@@ -1,0 +1,17 @@
+characters = {
+    IND_Amit_Shah = {
+        name = "IND_Amit_Shah"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IND/Portrait_India_Amit_Shah.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_AMIT_SHAH_DESC"
+			ideology = paternalism_right_wing_populism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}
