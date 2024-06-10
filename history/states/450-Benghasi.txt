@@ -2,13 +2,9 @@
 state={
 	id=450
 	name="STATE_450"
-	manpower = 82535
-	
-	state_category = wasteland
 
 	history={
 		owner = ALG
-		
 		victory_points = {
 			11954 3 
 		}
@@ -17,14 +13,19 @@ state={
 			air_base = 1
 			11954 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = ALG
+
 	}
 
 	provinces={
-		1127 4120 10123 11954 
+		1127 4120 10123 11954 12094 
 	}
-
-	local_supplies=0.0 
+	manpower=82535
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

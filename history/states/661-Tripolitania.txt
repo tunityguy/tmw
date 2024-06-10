@@ -1,21 +1,23 @@
+
 state={
 	id=661
 	name="STATE_661"
-	manpower = 17617
-	
-	state_category = wasteland
-	
+
 	history={
 		owner = ALG
 		buildings = {
 			infrastructure = 1
+
 		}
 		add_core_of = ALG
-	}
-	
-	provinces={
-		1174 4051 4117 4176 7154 7194 10037 10067 11940 12009 
+
 	}
 
-	local_supplies=0.0 
+	provinces={
+		1174 4051 4117 4176 4962 7154 10037 10067 11940 13653 13654 13656 13658 13659 13660 13661 13662 13663 13665 13666 13667 13668 13669 13671 13672 13673 13719 
+	}
+	manpower=17617
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }
