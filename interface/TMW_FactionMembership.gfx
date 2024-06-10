@@ -15,4 +15,8 @@ spriteTypes = {
 		name = "GFX_Shanghai_Pact_Leader"
 		textureFile = "gfx/interface/factions/status/GFX_Shanghai_Pact_Leader.dds"
 	}
+	spriteType = {
+		name = "GFX_Triumvirate_Member"
+		textureFile = "gfx/interface/factions/status/GFX_Triumvirate_Member.dds"
+	}
 }

@@ -21,6 +21,13 @@ defined_text = {
 		localization_key = "GFX_Shanghai_Pact_Leader"
 	}
 
+	### Triumvirate ###
+	#Member
+	text = {
+		trigger = { has_idea = Triumvirate_Member }
+		localization_key = "GFX_Triumvirate_Member"
+	}
+
 	#Generic
 	text = {
 		localization_key = "GFX_generic_faction_small"
@@ -65,6 +72,13 @@ defined_text = {
 		localization_key = Shanghai_Pact_Leader
 	}
 
+	### Triumvirate ###
+	#Member
+	text = {
+		trigger = { has_idea = Triumvirate_Member }
+		localization_key = Triumvirate_Member
+	}
+
 	### Fallback/generic faction
 	text = { localization_key = Generic_Faction }
 }
@@ -90,6 +104,14 @@ defined_text = {
 		trigger = { has_idea = Shanghai_Pact_Leader }
 		localization_key = Shanghai_Pact_Leader_effect
 	}
+
+	### Triumvirate ###
+	#Member
+	text = {
+		trigger = { has_idea = Triumvirate_Member }
+		localization_key = Triumvirate_Member_effect
+	}
+
 }
 
 defined_text = {
@@ -112,6 +134,14 @@ defined_text = {
 		trigger = { has_idea = Shanghai_Pact_Leader }
 		localization_key = Shanghai_Pact_Leader_desc
 	}
+
+	### Triumvirate ###
+	#Member
+	text = {
+		trigger = { has_idea = Triumvirate_Member }
+		localization_key = Triumvirate_Member_desc
+	}
+
 
 	###Fallback/generic
 	text = {

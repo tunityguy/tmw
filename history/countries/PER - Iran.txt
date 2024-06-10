@@ -37,6 +37,11 @@ set_popularities = {
 	conservatism = 5
 }
 
+add_ideas = {
+	#Faction
+	Triumvirate_Member
+}
+
 create_faction = Triumvirate
 add_to_faction = TUR
 add_to_faction = IND

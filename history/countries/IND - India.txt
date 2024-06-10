@@ -54,6 +54,11 @@ if = {
 	}
 }
 
+add_ideas = {
+	#Faction
+	Triumvirate_Member
+}
+
 set_convoys = 20
 
 set_politics = {

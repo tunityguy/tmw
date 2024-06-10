@@ -32,5 +32,18 @@ ideas = {
 				political_power_gain = 0.20
 			}
 		}
+
+		### Triumvirate ###
+		#Member
+		Triumvirate_Member = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Triumvirate_Member" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
+
+			modifier = {
+				political_power_gain = 0.20
+			}
+		}
+
 	}
 }
