@@ -1,4 +1,7 @@
 ﻿capital = 2
+
+recruit_character = ITA_Giorgia_Meloni
+
 if = {
 	limit = {
 		NOT = {
@@ -140,14 +143,14 @@ if = {
 set_convoys = 200
 
 set_politics = {
-	ruling_party = conservatism
-	last_election = "1934.3.26"
+	ruling_party = despotism
+	last_election = "2027.3.26"
 	election_frequency = 60
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 73
-	fascism = 20
+	despotism = 73
+	conservatism = 20
 	communist = 2
 	paternalism = 5
 }

@@ -63,8 +63,8 @@
  ENG_DEF: "the United Kingdom"
  ENG_ADJ: "British"
 
- EGY: "Islamic Republic of Egypt"
- EGY_DEF: "the Islamic Republic of Egypt"
+ EGY: "Arab Republic of Egypt"
+ EGY_DEF: "the Arab Republic of Egypt"
  EGY_ADJ: "Egyptian"
  
  
@@ -118,10 +118,6 @@
  IRQ: "Islamic Republic of Iraq"
  IRQ_DEF: "the Islamic Republic of Iraq"
  IRQ_ADJ: "Iraqi"
-
- ITA: "Italian Republic"
- ITA_DEF: "the Italian Republic"
- ITA_ADJ: "Italian"
  
  # J
  JAP: "Republic of Japan"
