@@ -29,7 +29,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_bin_ich_der_feind"
-		texturefile = "gfx/interface/goals/GER/focus_GER_bin_ich_der_Feind.dds"
+		texturefile = "gfx/interface/goals/GER/focus_GER_bin_ich_der_feind.dds"
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_so_muss_es_sein"

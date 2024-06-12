@@ -267,7 +267,7 @@ shared_focus = {
 }	
 shared_focus = {
 	id = GER_now_this_is_our_future
-	icon = GFX_focus_GER_freiheit_fur_alle
+	icon = GFX_focus_GER_now_this_is_our_future
 	cost = 1
 	x = 1
 	y = 1
