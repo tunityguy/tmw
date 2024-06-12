@@ -1,0 +1,44 @@
+﻿l_english:
+
+#HOL country names
+
+ENG: "United Kingdom"
+ENG_DEF: "the United Kingdom of Britain and Northern Ireland"
+ENG_ADJ: "British"
+
+#parties
+
+ENG_progressivism_party: "T-LC (L)"
+ENG_progressivism_party_long: "Tory-Labour Coalition (Labour)"
+ENG_progressivism_2_party: "Greens"
+ENG_progressivism_2_party_long: "Green Party of England and Wales"
+ENG_liberalism_party: "LD"
+ENG_liberalism_party_long: "Liberal Democrats"
+ENG_conservatism_party: "T-LC (T)"
+ENG_conservatism_party_long: "Tory-Labour Coalition (Tories)"
+ENG_paternalism_party: "RUK"
+ENG_paternalism_party_long: "Reform UK"
+ENG_paternalism_2_party: "DUP"
+ENG_paternalism_2_party_long: "Democratic Unionist Party"
+
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+ENG_Rishi_Sunak: "Rishi Sunak"
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

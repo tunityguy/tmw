@@ -198,8 +198,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/putinism_reformed_putinism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_clerical_fascism_subtype"
-		texturefile = "gfx/interface/ideologies/putinism_clerical_fascism_subtype.dds"
+		name = "GFX_ideology_putinism_clerical_ruscism_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_clerical_ruscism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_putinism_putinism_subtype"
@@ -334,8 +334,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/paternalism_xunzheng_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_putinism_spartanism_subtype"
-		texturefile = "gfx/interface/ideologies/putinism_spartanism_subtype.dds"
+		name = "GFX_ideology_putinism_spartanstvo_subtype"
+		texturefile = "gfx/interface/ideologies/putinism_spartanstvo_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_putinism_revolutionary_putinism_subtype"
@@ -406,8 +406,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/conservatism_islamic_conservatism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_fascism_fascist_mysticism_subtype"
-		texturefile = "gfx/interface/ideologies/fascism_fascist_mysticism_subtype.dds"
+		name = "GFX_ideology_fascism_ruscist_mysticism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_ruscist_mysticism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_despotism_theocracy_subtype"
@@ -454,8 +454,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_integralism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_fascism_neofascism_subtype"
-		texturefile = "gfx/interface/ideologies/fascism_neofascism_subtype.dds"
+		name = "GFX_ideology_fascism_neoruscism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_neoruscism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_fascism_falangism_subtype"
@@ -618,8 +618,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/paternalism_poujadism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_fascism_clerical_fascism_subtype"
-		texturefile = "gfx/interface/ideologies/fascism_clerical_fascism_subtype.dds"
+		name = "GFX_ideology_fascism_clerical_ruscism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_clerical_ruscism_subtype.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_liberal_conservatism_oligarchic_liberalism_subtype"

@@ -1,4 +1,9 @@
-﻿capital = 126
+﻿recruit_character = ENG_Rishi_Sunak
+recruit_character = ENG_Rishi_Sunak2
+
+load_focus_tree = ENG_Intro_tree
+
+capital = 126
 
 if = {
 	limit = {
@@ -172,6 +177,8 @@ if = {
 set_variable = { var = eng_gateway_to_europe_influence value = 0 }
 
 add_ideas = {
+		Euro_Nato_Leader
+		
 
 }
 	
@@ -180,14 +187,15 @@ set_convoys = 1000
 
 set_politics = {
 	ruling_party = conservatism
-	last_election = "1935.11.14"
+	last_election = "2030.11.8"
 	election_frequency = 48
-	elections_allowed = yes ##suspended through duration of war, which is handled via event
+	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 97
-	fascism = 2
-	communist = 1
+	progressivism = 17.6
+	liberalism = 35.9
+	conservatism = 24.6
+	paternalism = 21.9
 }
 
 
@@ -200,9 +208,6 @@ add_to_faction = HOL
 add_to_faction = GRN
 add_to_faction = ICE
 add_to_faction = POR
-
-
-# Order matters - here Chamberlain becomes starting leader
                                                              
 
 

@@ -1,0 +1,17 @@
+characters = {
+    ENG_Rishi_Sunak = {
+        name = "ENG_Rishi_Sunak"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/Portrait_Britain_Rishi_Sunak.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_RISHI_SUNAK_DESC"
+			ideology = conservatism_silent_conservatism_subtype	
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+	}	
+}
