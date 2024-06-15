@@ -99,6 +99,10 @@ if = {
 	}
 }
 
+add_ideas = {
+		Euro_Nato_Core_Member
+}
+
 set_politics = {
 	ruling_party = progressivism
 	last_election = "2027.3.15"

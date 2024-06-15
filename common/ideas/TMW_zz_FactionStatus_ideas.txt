@@ -39,11 +39,48 @@ ideas = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Triumvirate_Member" }
 			allowed = { always = no }
 			allowed_civil_war = { always = no }
+		}
+		
+		### NATO ###
+		#Leader
+		Euro_Nato_Leader = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Euro_Nato_Leader" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
 
 			modifier = {
 				political_power_gain = 0.20
-			}
+			}	
 		}
+		#Core Member
+		Euro_Nato_Core_Member = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Euro_Nato_Core_Member" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
 
+			modifier = {
+				political_power_gain = 0.20
+			}	
+		}
+		#Reliant Member
+		Euro_Nato_Reliant_Member = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Euro_Nato_Reliant_Member" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
+
+			modifier = {
+				political_power_gain = 0.20
+			}	
+		}
+		#Observer
+		Euro_Nato_Observer = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea Euro_Nato_Observer" }
+			allowed = { always = no }
+			allowed_civil_war = { always = no }
+
+			modifier = {
+				political_power_gain = 0.20
+			}	
+		}
 	}
 }

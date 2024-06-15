@@ -90,7 +90,11 @@ IF = {
 	limit = {
 		has_dlc = "Arms Against Tyranny"
 	}
-                        }
+}
+
+add_ideas = {
+		Euro_Nato_Reliant_Member
+}
 
 set_convoys = 30
 set_stability = 0.65

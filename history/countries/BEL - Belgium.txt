@@ -98,6 +98,9 @@ set_technology = {
 	}
 }
 
+add_ideas = {
+		Euro_Nato_Core_Member
+}
 
 set_politics = {
 	ruling_party = conservatism

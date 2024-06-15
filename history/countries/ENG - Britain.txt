@@ -1,5 +1,4 @@
 ﻿recruit_character = ENG_Rishi_Sunak
-recruit_character = ENG_Rishi_Sunak2
 
 load_focus_tree = ENG_Intro_tree
 

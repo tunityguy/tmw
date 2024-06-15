@@ -27,7 +27,29 @@ defined_text = {
 		trigger = { has_idea = Triumvirate_Member }
 		localization_key = "GFX_Triumvirate_Member"
 	}
-
+	
+	### NATO ###
+	#Leader
+	text = {
+		trigger = { has_idea = Euro_Nato_Leader }
+		localization_key = "GFX_Euro_Nato_Leader"
+	}
+	#Core Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Core_Member }
+		localization_key = "GFX_Euro_Nato_Core_Member"
+	}
+	#Reliant Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Reliant_Member }
+		localization_key = "GFX_Euro_Nato_Reliant_Member"
+	}
+	#Observer
+	text = {
+		trigger = { has_idea = Euro_Nato_Observer }
+		localization_key = "GFX_Euro_Nato_Observer"
+	}
+	
 	#Generic
 	text = {
 		localization_key = "GFX_generic_faction_small"
@@ -78,6 +100,28 @@ defined_text = {
 		trigger = { has_idea = Triumvirate_Member }
 		localization_key = Triumvirate_Member
 	}
+	
+	### NATO ###
+	#Leader
+	text = {
+		trigger = { has_idea = Euro_Nato_Leader }
+		localization_key = Euro_Nato_Leader
+	}
+	#Core Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Core_Member }
+		localization_key = Euro_Nato_Core_Member
+	}
+	#Reliant Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Reliant_Member }
+		localization_key = Euro_Nato_Reliant_Member
+	}
+	#Observer
+	text = {
+		trigger = { has_idea = Euro_Nato_Observer }
+		localization_key = Euro_Nato_Observer
+	}
 
 	### Fallback/generic faction
 	text = { localization_key = Generic_Faction }
@@ -111,7 +155,28 @@ defined_text = {
 		trigger = { has_idea = Triumvirate_Member }
 		localization_key = Triumvirate_Member_effect
 	}
-
+	
+	### NATO ###
+	#Leader
+	text = {
+		trigger = { has_idea = Euro_Nato_Leader }
+		localization_key = Euro_Nato_Leader_effect
+	}
+	#Core Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Core_Member }
+		localization_key = Euro_Nato_Core_Member_effect
+	}
+	#Reliant Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Reliant_Member }
+		localization_key = Euro_Nato_Reliant_Member_effect
+	}
+	#Observer
+	text = {
+		trigger = { has_idea = Euro_Nato_Observer }
+		localization_key = Euro_Nato_Observer_effect
+	}
 }
 
 defined_text = {
@@ -133,6 +198,28 @@ defined_text = {
 	text = {
 		trigger = { has_idea = Shanghai_Pact_Leader }
 		localization_key = Shanghai_Pact_Leader_desc
+	}
+	
+	### NATO ###
+	#Leader
+	text = {
+		trigger = { has_idea = Euro_Nato_Leader }
+		localization_key = Euro_Nato_Leader_desc
+	}
+	#Core Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Core_Member }
+		localization_key = Euro_Nato_Core_Member_desc
+	}
+	#Reliant Member
+	text = {
+		trigger = { has_idea = Euro_Nato_Reliant_Member }
+		localization_key = Euro_Nato_Reliant_Member_desc
+	}
+	#Observer
+	text = {
+		trigger = { has_idea = Euro_Nato_Observer }
+		localization_key = Euro_Nato_Observer_desc
 	}
 
 	### Triumvirate ###

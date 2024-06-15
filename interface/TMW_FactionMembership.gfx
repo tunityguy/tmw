@@ -19,4 +19,20 @@ spriteTypes = {
 		name = "GFX_Triumvirate_Member"
 		textureFile = "gfx/interface/factions/status/GFX_Triumvirate_Member.dds"
 	}
+	spriteType = {
+		name = "GFX_Euro_Nato_Leader"
+		textureFile = "gfx/interface/factions/status/GFX_Euro_Nato_Leader.dds"
+	}
+	spriteType = {
+		name = "GFX_Euro_Nato_Core_Member"
+		textureFile = "gfx/interface/factions/status/GFX_Euro_Nato_Core_Member.dds"
+	}
+	spriteType = {
+		name = "GFX_Euro_Nato_Reliant_Member"
+		textureFile = "gfx/interface/factions/status/GFX_Euro_Nato_Reliant_Member.dds"
+	}
+	spriteType = {
+		name = "GFX_Euro_Nato_Observer"
+		textureFile = "gfx/interface/factions/status/GFX_Euro_Nato_Observer.dds"
+	}
 }

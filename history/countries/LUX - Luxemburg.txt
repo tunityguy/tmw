@@ -81,6 +81,10 @@ set_stability = 0.8
 	}
 }
 
+add_ideas = {
+		Euro_Nato_Reliant_Member
+}
+
 set_politics = {
 	ruling_party = conservatism
 	last_election = "1934.6.3"

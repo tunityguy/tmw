@@ -32,3 +32,21 @@ Shanghai_Pact_Leader_desc: "The Shanghai Cooperation Organisation, commonly refe
 Triumvirate_Member: "Triumvirate Member"
 Triumvirate_Member_effect: "[!Triumvirate_Member]"
 Triumvirate_Member_desc: "There are three founders of the Triumvirate, that is where the name comes from after all. They are the “Big Three”, Anatolia, Iran and India. Additionally, a number of smaller nations find themselves in the orbit of one or more of these secondary powers and have, for one reason or another, petitioned the Founders for induction into the Triumvirate as a junior partner. \n\nThese nations maintain their legal autonomy and independence, but find their interests largely subordinated to that of the “Big Three” members of the Triumvirate both economically and in terms of foreign policy. This is all, of course, in exchange for the protection and security that the Triumvirate provides. Even still, many consider the inclusion within the Triumvirate to be more of a burden than an aid, because while they maintain their technical sovereignty over their own borders, everyone knows that Istanbul, Tehran and Delhi hold significant sway over the politicians in every one of the minor nations that seek out the Triumvirate."
+Shanghai_Pact_Leader_desc: "The Shanghai Cooperation Organisation, commonly referred to as "The Chinese Sphere", is an international organization of East Asian nations established during the Greater East Asia Conference in 2025. After the signing of the Greater East Asia Joint Declaration during the 2025 meeting, further amendments to the Declaration formalized the Sphere's status as an international political entity with its political, economic, and military sub-organizations.\n\nBeyond its few voluntary members, the Sphere is filled with colonial governments in all but name, geared towards serving their Chinese slaveholders. Most importantly, however, it serves as a further extension of the Chinese stranglehold.\n\nAs the Permanent Chairman State of the SCO Governing Council and the Shanghai Peace Organization, we receive a significant portion of membership fees paid by Sphere members and possess the power to command the armed forces of our member states in a state of emergency. Additionally, a fraction of each subject's industrial capacities will be transferred to us, according to their level of dependency."
+
+#Euro-NATO
+Euro_Nato_Leader: "Leader of the Western World"
+Euro_Nato_Leader_effect: "[!Euro_Nato_Leader]"
+Euro_Nato_Leader_desc: "Idk"
+
+Euro_Nato_Core_Member: "Core Member of Euro-NATO"
+Euro_Nato_Core_Member_effect: "[!Euro_Nato_Core_Member]"
+Euro_Nato_Core_Member_desc: "Idk"
+
+Euro_Nato_Reliant_Member: "Reliant Member of Euro-NATO"
+Euro_Nato_Reliant_Member_effect: "[!Euro_Nato_Reliant_Member]"
+Euro_Nato_Reliant_Member_desc: "Idk"
+
+Euro_Nato_Observer: "Observer to Euro-NATO"
+Euro_Nato_Observer_effect: "[!Euro_Nato_Observer]"
+Euro_Nato_Observer_desc: "Idk"
