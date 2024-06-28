@@ -3,7 +3,6 @@ tags={
 	"Historical"
 }
 name="The Multipolar World"
-supported_version="1.14.*"
 picture="thumbnail.png"
 replace_path="events"
 replace_path="common/abilities"
@@ -42,3 +41,4 @@ replace_path="history/general"
 replace_path="history/states"
 replace_path="history/units"
 replace_path="map/strategicregions"
+supported_version="1.14.*"
