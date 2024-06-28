@@ -8,8 +8,16 @@ SpriteTypes = {
 		texturefile = "gfx/interface/goals/GER/focus_GER_their_voices_our_ears.dds"
 	}
 	SpriteType = {
+		name = "GFX_focus_GER_this_is_our_bnd"
+		texturefile = "gfx/interface/goals/GER/focus_GER_this_is_our_bnds.dds"
+	}
+	SpriteType = {
 		name = "GFX_focus_GER_desperate_measures"
 		texturefile = "gfx/interface/goals/GER/focus_GER_desperate_measures.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_the_two_for_our_future"
+		texturefile = "gfx/interface/goals/GER/focus_GER_the_two_for_our_future.dds"
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_discussions_with_the_dreamer"
