@@ -9,7 +9,7 @@ SpriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_this_is_our_bnd"
-		texturefile = "gfx/interface/goals/GER/focus_GER_this_is_our_bnds.dds"
+		texturefile = "gfx/interface/goals/GER/focus_GER_this_is_our_bnd.dds"
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_desperate_measures"
