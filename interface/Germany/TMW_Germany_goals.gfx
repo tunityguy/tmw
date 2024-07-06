@@ -20,6 +20,10 @@ SpriteTypes = {
 		texturefile = "gfx/interface/goals/GER/focus_GER_the_two_for_our_future.dds"
 	}
 	SpriteType = {
+		name = "GFX_focus_GER_small_talk_with_franz"
+		texturefile = "gfx/interface/goals/GER/focus_GER_small_talk_with_franz.dds"
+	}
+	SpriteType = {
 		name = "GFX_focus_GER_discussions_with_the_dreamer"
 		texturefile = "gfx/interface/goals/GER/focus_GER_discussion_with_the_dreamer.dds"
 	}
@@ -38,6 +42,14 @@ SpriteTypes = {
 	SpriteType = {
 		name = "GFX_focus_GER_bin_ich_der_feind"
 		texturefile = "gfx/interface/goals/GER/focus_GER_bin_ich_der_feind.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_the_ballad_of_martin_schirdewan"
+		texturefile = "gfx/interface/goals/GER/focus_GER_the_ballad_of_martin_schirdewan.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_GER_the_old_mans_gambit"
+		texturefile = "gfx/interface/goals/GER/focus_GER_the_old_mans_gambit.dds"
 	}
 	SpriteType = {
 		name = "GFX_focus_GER_so_muss_es_sein"
