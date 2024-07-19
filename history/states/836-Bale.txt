@@ -29,9 +29,9 @@ state = {
 			10775 1
 		}
 		
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = SOM
+		owner = SUD
+		add_core_of = SUD
+		add_core_of = SUD
 		add_core_of = ORO
 
 

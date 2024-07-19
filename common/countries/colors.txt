@@ -1006,4 +1006,7 @@ QUE = {
 	color = rgb { 0 102 255 }
 	color_ui = rgb { 0 31 77 }
 }
-
+SUD = { 
+	color = rgb { 110 180 130 }
+	color_ui = rgb { 110 180 130 }
+}

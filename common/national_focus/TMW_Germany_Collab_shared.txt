@@ -54,6 +54,7 @@ shared_focus = {
 				days = 21
 			}
 		}
+		add_political_power = 25
 	}
 }
 shared_focus = {

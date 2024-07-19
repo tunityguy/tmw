@@ -29,8 +29,8 @@ state = {
 			13242 2 
 		}
 		
-		owner = ETH
-		add_core_of = ETH
+		owner = SUD
+		add_core_of = SUD
 		add_core_of = BEG
 
 

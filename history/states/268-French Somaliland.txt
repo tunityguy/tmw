@@ -10,7 +10,7 @@ state={
 		owner = PER
 		add_core_of = DJI
 		add_core_of = AFA
-		add_core_of = SOM
+		add_core_of = SUD
 		victory_points = {
 			8124 1
 		}
