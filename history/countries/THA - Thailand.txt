@@ -1,4 +1,6 @@
-﻿capital = 289
+﻿recruit_character = THA_Prayut_Chan_O_Cha
+
+capital = 289
 
 oob = "SIA_1936"
 if = {
@@ -143,29 +145,19 @@ set_convoys = 15
 
 set_politics = {
 	ruling_party = paternalism
-	last_election = "1936.1.1"
+	last_election = "2031.6.10"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
-	fascism = 20
-	paternalism = 80
+	socialist_1 = 6
+	socialist_2 = 5
+	liberal_conservatism = 19
+	conservatism = 20
+	paternalism = 37
+	fascism = 13
 }
 
-2999.1.1 = {
-	set_politics = {
-		ruling_party = fascism
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		fascism = 100
-	}
-
- 	promote_character = SIA_plaek_phibunsongkhram
-	retire_character = SIA_nangklao_suriyawongse
-}
 
 ### VARIANTS ###
 # 1936 Start #

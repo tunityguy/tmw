@@ -1,0 +1,41 @@
+characters = {
+    THA_Prayut_Chan_O_Cha = {
+        name = "THA_Prayut_Chan_O_Cha"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/THA/Portrait_Thailand_Prayut_Chan_O_Cha.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_PRAYUT_CHAN_O_CHA_DESC"
+			ideology = paternalism_authoritarian_developmentalism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			expire = "2999.1.1.1"
+			desc = "POLITICS_PRAYUT_CHAN_O_CHA_DESC"
+			ideology = liberal_conservatism_islamic_modernism_subtype
+			traits = {
+			}
+			id = -1
+		}
+		country_leader = {
+			expire = "2999.1.1.1"
+			desc = "POLITICS_PRAYUT_CHAN_O_CHA_DESC"
+			ideology = fascism_revolutionary_nationalism_subtype
+			traits = {
+			}
+			id = -1
+		}
+		country_leader = {
+			expire = "2999.1.1.1"
+			desc = "POLITICS_PRAYUT_CHAN_O_CHA_DESC"
+			ideology = despotism_civilian_dictatorship_subtype
+			traits = {
+			}
+			id = -1
+		}
+    }
+}

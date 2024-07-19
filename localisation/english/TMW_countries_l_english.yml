@@ -14,7 +14,7 @@
  AFG_DEF: "the Islamic Republic of Afghanistan"
  AFG_ADJ: "Afghani"
 
- ALB: "Republic of Albania"
+ ALB: "Albania"
  ALB_DEF: "the Republic of Albania"
  ALB_ADJ: "Albanian"
 
@@ -27,7 +27,7 @@
  AST_ADJ: "Australian"
  
  # B
- BAN: "People's Republic of Bangladesh"
+ BAN: "Bangladesh"
  BAN_DEF: "the People's Republic of Bangladesh"
  BAN_ADJ: "Bangladeshi"
 
@@ -35,7 +35,7 @@
  BEL_DEF: "the Kingdom of Belgium"
  BEL_ADJ: "Belgian"
 
- BRM: "Republic of the Union of Myanmar"
+ BRM: "Union of Myanmar"
  BRM_DEF: "the Republic of the Union of Myanmar"
  BRM_ADJ: "Myanmarese"
  
@@ -134,8 +134,8 @@
  KOR_DEF: "the Democratic People's Republic of Korea"
  KOR_ADJ: "Korean"
 
- KUW: "State of Kuwait"
- KUW_DEF: "the State of Kuwait"
+ KUW: "Kuwait"
+ KUW_DEF: "the Islamic State of Kuwait"
  KUW_ADJ: "Kuwaiti"
 
  KYR: "Kyrgyz Republic"
@@ -144,7 +144,7 @@
  
  
  # L
- LAO: "Lao People's Democratic Republic"
+ LAO: "Pathet Lao"
  LAO_DEF: "the Lao People's Democratic Republic"
  LAO_ADJ: "Lao"
 
@@ -152,7 +152,7 @@
  LEB_DEF: "the Islamic Republic of Lebanon"
  LEB_ADJ: "Lebanese"
 
- LUX: "Grand Duchy of Luxembourg"
+ LUX: "Luxembourg"
  LUX_DEF: "the Grand Duchy of Luxembourg"
  LUX_ADJ: "Luxembourger"
  
@@ -180,7 +180,7 @@
  NOR_DEF: "the Kingdom of Norway"
  NOR_ADJ: "Norwegian"
 
- NEP: "Federal Democratic Republic of Nepal"
+ NEP: "Nepal"
  NEP_DEF: "the Federal Democratic Republic of Nepal"
  NEP_ADJ: "Nepalese"
 
@@ -190,13 +190,13 @@
  
  
  # O
- OMA: "Sultanate of Oman"
- OMA_DEF: "the Sultanate of Oman"
+ OMA: "Islamic Republic of Oman"
+ OMA_DEF: "the Islamic Republic of Oman"
  OMA_ADJ: "Omani"
  
  # P
- PAL: "Independent State of Palestine"
- PAL_DEF: "the Independent State of Palestine"
+ PAL: "Islamic Republic of Transjordan"
+ PAL_DEF: "the Islamic Republic of Transjordan"
  PAL_ADJ: "Palestinian"
 
  PHI: "Republic of the Philippines"
@@ -233,9 +233,9 @@
  SER_DEF: "the Republic of Serbia"
  SER_ADJ: "Serbian"
 
- SIA: "Kingdom of Thailand"
- SIA_DEF: "the Kingdom of Thailand"
- SIA_ADJ: "Thai"
+ THA: "Kingdom of Thailand"
+ THA_DEF: "the Kingdom of Thailand"
+ THA_ADJ: "Thai"
 
  SLV: "Republic of Slovenia"
  SLV_DEF: "the Republic of Slovenia"
@@ -245,7 +245,7 @@
  SPR_DEF: "the Kingdom of Spain"
  SPR_ADJ: "Spanish"
 
- SRL: "Democratic Socialist Republic of Sri Lanka"
+ SRL: "Sri Lanka"
  SRL_DEF: "the Democratic Socialist Republic of Sri Lanka"
  SRL_ADJ: "Sri Lankan"
 
@@ -266,12 +266,12 @@
  SYR_ADJ: "Syrian"
  
  # T
- TAJ: "Republic of Tajikistan"
+ TAJ: "Tajikistan"
  TAJ_DEF: "the Republic of Tajikistan"
  TAJ_ADJ: "Tajikistani"
 
  TMS: "Turkmenistan"
- TMS_DEF: "Turkmenistan"
+ TMS_DEF: "the Republic of Turkmenistan"
  TMS_ADJ: "Turkmenistani"
 
  

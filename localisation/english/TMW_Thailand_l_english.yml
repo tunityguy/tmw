@@ -1,0 +1,86 @@
+﻿l_english:
+
+#HOL country names
+THA: "Kingdom of Thailand"
+THA_DEF: "the Kingdom of Thailand"
+THA_ADJ: "Thai"
+
+#parties
+THA_socialist_party: "NRPP - S"
+THA_socialist_party_long: "Naew Ruam Prachatiphatai Pracharchon - Sangkhomniyom"
+THA_progressivism_party: "PKK"
+THA_progressivism_party_long: "Phak Kao Klai"
+THA_liberalism_party: "PPP - ST"
+THA_liberalism_party_long: "Phak Palang Pracharath - Seri Thai"
+THA_conservatism_party: "PPP - B"
+THA_conservatism_party_long: "Phak Palang Pracharath - Bhumjaithai"
+THA_paternalism_party: "PPP - P"
+THA_paternalism_party_long: "Phak Palang Pracharath - Prachatiphat"
+THA_despotism_party: "KRKSHC"
+THA_despotism_party_long: "Khana Rathamontri Khwam Samakkhi Haeng Chart"
+THA_fascism_party: "RTSC - NRCT"
+THA_fascism_party_long: "Ruam Thai Sang Chart - Naew Ruam Chart Thai"
+THA_ultranationalism_party: "KHRAT - SP"
+THA_ultranationalism_party_long: "Khongthaph Haeng Racha Anarchark Thai - Sapha Pathiwat"
+
+THA_pni_prm_party: "RTSC - NRCT"
+THA_pni_prm_party_long: "Ruam Thai Sang Chart - Naew Ruam Chart Thai"
+THA_national_front_party: "NRHC"
+THA_national_front_party_long: "Naew Ruam Haeng Chart"
+THA_fascism_2_party: "NRHC - PP"
+THA_fascism_2_party_long: "Naew Ruam Haeng Chart - Palang Pracharath"
+THA_national_front_party_khrat: "NRHC - KHRAT"
+THA_national_front_party_khrat_long: "Naew Ruam Haeng Chart - Khongthaph Haeng Racha Anarchark Thai"
+THA_national_front_party_pp: "NRHC - P"
+THA_national_front_party_pp_long: "Naew Ruam Haeng Chart - Prachatiphat"
+THA_national_front_party_pb: "NRHC - B"
+THA_national_front_party_pb_long: "Naew Ruam Haeng Chart - Bhumjaithai"
+THA_national_front_party_sct: "NRHC - SCT"
+THA_national_front_party_sct_long: "Naew Ruam Haeng Chart - Samakhom Chao Thai"
+
+#POSTWAR PARTIES
+THA_socialist_party_postwar: "PPP - S"
+THA_socialist_party_postwar_long: "Phak Palang Pracharath - Sangkhomniyom"
+THA_progressivism_party_postwar: "RTSC - KKN"
+THA_progressivism_party_postwar_long: "Ruam Thai Sang Chart - Khana Khao Na"
+THA_liberalism_party_postwar: "NRPP"
+THA_liberalism_party_postwar_long: "Naew Ruam Prachatiphatai Pracharchon"
+THA_liberal_conservatism_party_postwar: "RTSC - PS"
+THA_liberal_conservatism_party_postwar_long: "Ruam Thai Sang Chart - Bhumjaithai"
+THA_conservatism_party_postwar: "RTSC - P"
+THA_conservatism_party_postwar_long: "Ruam Thai Sang Chart - Prachatiphat"
+THA_paternalism_party_postwar: "PPP - NR"
+THA_paternalism_party_postwar_long: "Phak Palang Pracharath - Nayok Rathamonthri"
+THA_fascism_party_postwar: "PPP - KP"
+THA_fascism_party_postwar_long: "Phak Palang Pracharath - Khana Pathiwat"
+
+#DUUMVIRATE PARTIES
+THA_DUUM_communist_party: "PSNT"
+THA_DUUM_communist_party_long: "Phak Sangkhong Niyom Thai"
+THA_DUUM_paternalism_party: "RHKRHEHC - KS"
+THA_DUUM_paternalism_party_long: "Rathabhan Haeng Khwam Rod Haeng Ekhapab Haeng Chart - Khana Sereepisuth"
+THA_DUUM_despotism_party: "RHKRHEHC - KA"
+THA_DUUM_despotism_party_long: "Rathabhan Haeng Khwam Rod Haeng Ekhapab Haeng Chart - Khana Aphirat"
+
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+THA_Prayut_Chan_O_Cha: "Prayut Chan-O-Cha"
+
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

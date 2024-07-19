@@ -414,6 +414,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/despotism_theocracy_subtype.dds"
 	}
 	spriteType = {
+		name = "GFX_ideology_despotism_reformist_jucheism_subtype"
+		texturefile = "gfx/interface/ideologies/despotism_reformist_jucheism_subtype.dds"
+	}
+	spriteType = {
 		name = "GFX_ideology_fascism_revolutionary_nationalism_subtype"
 		texturefile = "gfx/interface/ideologies/fascism_revolutionary_nationalism_subtype.dds"
 	}

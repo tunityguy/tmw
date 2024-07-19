@@ -1,0 +1,34 @@
+characters = {
+    KOR_Kim_Jong_Un = {
+        name = "KOR_Kim_Jong_Un"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/Portrait_Korea_Kim_Jong_Un.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_KIM_JONG_UN_DESC"
+			ideology = despotism_reformist_jucheism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+
+		
+	KOR_Kim_Yo_Jong = {
+        name = "KOR_Kim_Yo_Jong"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/Portrait_Korea_Kim_Yo_Jong.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_KIM_YO_JONG_DESC"
+			ideology = despotism_reformist_jucheism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

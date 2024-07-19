@@ -1,0 +1,49 @@
+﻿l_english:
+
+#HOL country names
+
+KOR: "Democratic People's Republic of Korea"
+KOR_DEF: "the Democratic People's Republic of Korea"
+KOR_ADJ: "Korean"
+
+#parties
+
+KOR_progressivism_party: "Minjogjinbojeonseon"
+KOR_progressivism_party_long: "Minjogjinbojeonseon"
+KOR_liberalism_party: "Jayuhanguggun - (J)"
+KOR_liberalism_party_long: "Jayuhanguggun - Jayujuuija"
+KOR_conservatism_party: "Jayuhanguggun - (B)"
+KOR_conservatism_party_long: "Jayuhanguggun - Bosujuuija"
+KOR_paternalism_party: "Daehanminguk Yuk-gun"
+KOR_paternalism_party_long: "Daehanminguk Yuk-gun"
+KOR_despotism_party: "Choson Rodongdang"
+KOR_despotism_party_long: "Choson Rodongdang"
+KOR_despotism_1_party: "Rénmínjiěfàngjūn - CXP"
+KOR_despotism_1_party_long: "Rénmínjiěfàngjūn - Cháoxiǎn Pài"
+KOR_fascism_party: "Chongmuseong"
+KOR_fascism_party_long: "Chongmuseong"
+KOR_putinism_party: "Rénmínjiěfàngjūn - ZTP"
+KOR_putinism_party_long: "Rénmínjiěfàngjūn - Zhèngtǒng Pài"
+
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+KOR_Kim_Jong_Un: "Kim Jong Un"
+KOR_Kim_Yo_Jong: "Kim Yo Jong"
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers
