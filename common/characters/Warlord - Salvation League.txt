@@ -1,0 +1,17 @@
+characters = {
+    ASL_Colin_Powell = = {
+        name = ASL_Colin_Powell
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RUS/Portrait_League_Colin_Powell.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_COLIN_POWELL_DESC"
+			ideology = ultranationalism_american_revanchism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

@@ -29,6 +29,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/putinism_lvov_system_subtype.dds"
 	}
 	spriteType = {
+		name = "GFX_ideology_ultranationalism_american_revanchism_subtype"
+		texturefile = "gfx/interface/ideologies/ultranationalism_american_revanchism_subtype.dds"
+	}
+	spriteType = {
 		name = "GFX_ideology_progressivism_gaitanismo_subtype"
 		texturefile = "gfx/interface/ideologies/progressivism_gaitanismo_subtype.dds"
 	}

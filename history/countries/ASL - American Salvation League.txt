@@ -1,0 +1,31 @@
+﻿capital = 971
+
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+recruit_character = ASL_Colin_Powell
+
+set_politics = {
+	ruling_party = ultranationalism
+	last_election = "2024.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communist = 0
+	ultranationalism = 68
+	socialist = 0
+	progressivism = 0
+	liberalism = 12
+
+	conservatism = 0
+	paternalism = 0
+	despotism = 20
+	
+}

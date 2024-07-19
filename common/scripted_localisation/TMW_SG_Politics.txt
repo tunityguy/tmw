@@ -606,6 +606,10 @@ defined_text = {
 		localization_key = ultranationalism_reactionary_nationalism_subtype
 	}
 	text = {
+	    trigger = { has_country_leader_ideology = ultranationalism_american_revanchism_subtype }
+		localization_key = ultranationalism_american_revanchism_subtype
+	}
+	text = {
 		localization_key = ultranationalism
 	}
 }
