@@ -339,3 +339,6 @@ CHR = "countries/Charrua.txt"
 ITZ = "countries/Itza.txt"
 NAH = "countries/Nahua.txt"
 IAS = "countries/Isthmo Amerindia.txt"
+
+# AMERICAN WARLORDS
+ASL = "countries/Salvation League.txt"
