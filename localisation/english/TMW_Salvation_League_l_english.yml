@@ -57,9 +57,11 @@ ASL_ultranationalism_party_long: "Salvation League"
 
 
 #############
-# Character names #
+# Character names and desc #
 #############
 ASL_Colin_Powell: "Colin Powell"
+
+POLITICS_COLIN_POWELL_DESC: "Colin Powell, born April 5, 1937, in Harlem, New York City, rose from modest beginnings to become a distinguished military leader and statesman. After graduating from the City College of New York, he joined the U.S. Army, serving two tours in Vietnam and earning commendations for his leadership. Powell's career flourished, leading to key roles such as National Security Advisor and Chairman of the Joint Chiefs of Staff during the Gulf War, where he orchestrated Operation Desert Storm.\n\nRetiring in 1993 as a highly respected military figure, Powell later served as Secretary of State under President George W. Bush from 2001 to 2005. During his tenure, he advocated for U.S. intervention in Afghanistan post-9/11 and presented the case for military action in Iraq to the United Nations. Powell's legacy reflects his dedication to national security, diplomacy, and public service, though he later expressed regret over the flawed intelligence used to justify the Iraq War. His life remains a testament to leadership, integrity, and the pursuit of the American Dream.\n\nColin Powell's life took a dark turn when he was captured by Russian operatives. His capture marked the beginning of a harrowing ordeal, enduring months of brutal interrogation and confinement in a clandestine Russian camp, hidden away from international scrutiny.\n\nIn the depths of his captivity, Powell faced relentless physical and psychological torture at the hands of his Russian captors. Each day blurred into the next, a nightmarish existence of deprivation and anguish. Yet, through sheer willpower and military training, he managed to survive, clinging to a steely resolve and an unyielding determination to escape and seek retribution.\n\nAgainst all odds, Powell orchestrated a daring escape from the Russian camp, exploiting a moment of vulnerability in his captors' security measures. Under the cover of darkness and with meticulous planning, he evaded detection and slipped away into the unforgiving wilderness, fueled by a singular purpose: vengeance against those who had inflicted unspeakable suffering upon him."
 
 
 
