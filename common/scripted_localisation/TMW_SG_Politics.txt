@@ -575,6 +575,10 @@ defined_text = {
 		localization_key = despotism_deng_xiaoping_theory_subtype
 	}	
 	text = {
+		trigger = { has_country_leader_ideology = despotism_reformist_jucheism_subtype }
+		localization_key = despotism_reformist_jucheism_subtype
+	}	
+	text = {
 		localization_key = despotism
 	}
 }
@@ -695,6 +699,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = fascism_german_ruscism_subtype }
 		localization_key = fascism_german_ruscism_subtype
+	}
+	text = {
+		trigger = { has_country_leader_ideology = fascism_salafism_subtype }
+		localization_key = fascism_salafism_subtype
 	}
 	text = {
 		localization_key = fascism

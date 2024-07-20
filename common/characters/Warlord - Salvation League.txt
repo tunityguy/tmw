@@ -13,5 +13,12 @@ characters = {
 			expire = "2999.1.1.1"
 			id = -1
 		}
+		country_leader = {
+			desc = "POLITICS_COLIN_POWELL_DESC"
+			ideology = despotism_military_junta_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
     }
 }
