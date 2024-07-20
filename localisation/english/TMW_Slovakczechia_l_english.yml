@@ -1,0 +1,92 @@
+﻿l_english:
+
+#country names
+SLO: "Slovakoczech Republic"
+SLO_DEF: "the Slovakoczech Republic"
+SLO_ADJ: "Slovakoczech"
+
+CZE_ONLY: "Czech Autonomous Special Zone"
+CZE_DEF: "the Czech Autonomous Special Zone"
+CZE_ADJ: "Czech"
+
+CZE_ultranationalism: "Czech Volunteer Army"
+CZE_ultranationalism_DEF: "the Czech Volunteer Army"
+CZE_ultranationalism_ADJ: "Czech"
+
+CZE_volunteer_army: "Czech Volunteer Army"
+CZE_volunteer_army_DEF: "the Czech Volunteer Army"
+CZE_volunteer_army_ADJ: "Czech"
+
+CZE_military_district: "Czech Special Military District"
+CZE_military_district_DEF: "the Czech Special Military District"
+CZE_military_district_ADJ: "Czech"
+
+CZE_regional_government: "Czech Regional Government"
+CZE_regional_government_DEF: "the Czech Regional Government"
+CZE_regional_government_ADJ: "Czech"
+ 
+CZE_czechian_state: "State of Czechia"
+CZE_czechian_state_DEF: "the State of Czechia"
+CZE_czechian_state_ADJ: "Czech"
+ 
+#parties
+SLO_communist_party: "KSS"
+SLO_socialist_party: "Smer–SD (S)"
+SLO_progressivism_1_party: "Smer–SD (SD)"
+SLO_progressivism_party: "Hlas–SD"
+SLO_liberalism_party: "PS"
+SLO_conservatism_party: "Slovensko"
+SLO_conservatism_1_party: "KDH"
+SLO_paternalism_party: "Smer–SD (Fico)"
+SLO_paternalism_2_party: "SNS"
+
+SLO_communist_party_long: "Komunistická Strana Slovenska"
+SLO_socialist_party_long: "Smer–Sociálna Demokracia - Socialistov"
+SLO_progressivism_1_party_long: "Smer-Sociálna Demokracia - Sociálnych Demokratov"
+SLO_progressivism_party_long: "Hlas – Sociálna Demokracia"
+SLO_liberalism_party_long: "Progresívne Slovensko"
+SLO_conservatism_party_long: "Slovensko"
+SLO_conservatism_1_party_long: "Kresťanskodemokratické hnutie"
+SLO_paternalism_party_long: "Smer–Sociálna Demokracia - Fico"
+SLO_paternalism_2_party_long: "Slovenská Národná Strana"
+
+CZE_despotism_party: "Smer–SD - CASZ"
+CZE_despotism_party_long: "Smer–Sociálna Demokracia - Česká Autonómna Špeciálna Zóna"
+CZE_ultranationalism_party: "CDS"
+CZE_ultranationalism_party_long: "Česká Dobrovolnická Síla"
+CZE_fascism_party: "COS"
+CZE_fascism_party_long: "Česká Občanská Stráž"
+CZE_liberal_conservatism_party: "PS - Česko"
+CZE_liberal_conservatism_party_long: "Progresívne Slovensko - Česko"
+CZE_paternalism_party: "SMER–SD - Moderates"
+CZE_paternalism_party_long: "Smer–Sociálna Demokracia - Moderuje"
+CZE_progressivism_party: "SD - Čech a Moravy"
+CZE_progressivism_party_long: "Sociální Demokracie - Čech a Moravy"
+CZE_socialist_party: "CRA - T"
+CZE_socialist_party_long: "Česká Revoluční Armáda - Tradiční"
+CZE_communist_party: "CRA - M"
+CZE_communist_party_long: "Česká Revoluční Armáda – Marxisté"
+CZE_DUP: "ANO"
+CZE_DUP_long: "Akce Nespokojených Občanů"
+
+#Ideas
+
+#Focuses
+
+#World Events
+
+#country events
+
+#Leader names
+SLO_Robert_Fico: "Robert Fico"
+CZE_Tomio_Okamura: "Tomio Okamura"
+
+#leader bios
+
+
+# Character Localisation #
+#ministers
+
+#military
+
+#opinion modifiers

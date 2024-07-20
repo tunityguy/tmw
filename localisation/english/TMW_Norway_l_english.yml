@@ -1,0 +1,31 @@
+﻿l_english:
+ ### Country Names ###
+ NOR: "Kingdom of Norway"
+ NOR_DEF: "the Kingdom of Norway"
+ NOR_ADJ: "Norwegian"
+
+ ### Parties ###
+ NOR_progressivism_party: "AP"
+ NOR_progressivism_party_long: "Arbeiderpartiet"
+ NOR_liberalism_party: "Høyre"
+ NOR_liberalism_party_long: "Høyre"
+ NOR_conservatism_party: "KrF"
+ NOR_conservatism_party_long: "Kristelig Folkeparti"
+ NOR_paternalism_party: "ND"
+ NOR_paternalism_party_long: "Norgesdemokratene"
+ NOR_despotism_party: "NRP"
+ NOR_despotism_party_long: "Norsk Royalistparti"
+ NOR_fascism_party: "Alliansen - Moderates - Moderate"
+ NOR_fascism_party_long: "Alliansen - Alternativ for Norge - Moderate"
+ NOR_putinism_party: "Alliansen - Hardliners"
+ NOR_putinism_party_long: "Alliansen - Alternativ for Norge - Hardlinere"
+
+ ### Characters ###
+ NOR_Haakon_VI: "Haakon VI"
+ ## Leader Descs ##
+
+ ### Ideas ###
+
+ ### Tooltips ###
+
+ ### Events ###

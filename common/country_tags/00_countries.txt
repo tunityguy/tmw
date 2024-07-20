@@ -3,14 +3,9 @@
 # Index - Tag organized into extremely relative geographic regions/political groups
 # Please try to keep order here and in 00_countries.txt matching
 #	Europe
-#		EURO-NATO - Western Europe
-#		Moskowskiy Pakt - Eastern Europe
-#       Russia
-#       Scandenavia
-#		Western Europe
-#		Northern Europe
-#		Southern Europe
-#		Balkans
+#		Moskowskiy Pakt - Europe
+#		EURO-NATO - Europe
+#       Neutral Europe
 #	Asia
 #		Japan
 #		China
@@ -46,7 +41,7 @@
 #	Dynamic Tags
 #	Misc
 
-# // Europe // #
+## // Europe // ##
 
 # /// Russia - Eastern Europe /// #
 
@@ -58,41 +53,52 @@ BRS = "countries/Russia - Proper.txt"			# Bortnikov's Russia
 RNW = "countries/Russia - Proper.txt"			# Kartopolov's Russia
 NKZ = "countries/Russia - Proper.txt"			# Gosudarstvo Severnyy Kazakhstan
 SAX = "countries/Russia - Proper.txt"			# Saxony Garrison
-DEN = "countries/Russia - Proper.txt"			# Denmark
+DEN = "countries/Russia - Europe.txt"			# Denmark
 BLK = "countries/Russia - Europe.txt"			# Balkans
+MLO = "countries/Russia - Europe.txt"			# Malorossiya
+MDV = "countries/Russia - Europe.txt"			# Moldavia
+
+# /// Pakt - Europe /// #
 
 GER	= "countries/Germany.txt"
-ENG = "countries/United Kingdom.txt"
-SOV = "countries/Soviet Union.txt"
 SWE	= "countries/Sweden.txt"
+CZE	= "countries/Czech Autonomous Zone.txt"
+POL	= "countries/Poland.txt"
+LVO = "countries/Lvov Administration.txt"
+SER = "countries/Serbia.txt"
+LIP = "countries/Lipovania.txt"
+
+# /// Euro-NATO - Europe /// #
+
+ENG = "countries/United Kingdom.txt"
 FRA	= "countries/France.txt"
 LUX	= "countries/Luxemburg.txt"
 BEL	= "countries/Belgium.txt"
 HOL	= "countries/Holland.txt"
-CZE	= "countries/Czechoslovakia.txt"
-POL	= "countries/Poland.txt"
+
+# /// Neutral Europe /// #
+
+SPR = "countries/Spain.txt"
+ITA = "countries/Italy.txt"
+GRE = "countries/Greece.txt"
+ALB = "countries/Albania.txt"
+SWI = "countries/Switzerland.txt"
+NOR = "countries/Norway.txt"
+POR = "countries/Portugal.txt"
+IRE = "countries/Ireland.txt"
 AUS	= "countries/Austria.txt"
+HUN = "countries/Hungary.txt"
+
+BUL = "countries/Bulgaria.txt"
+FIN = "countries/Finland.txt"
+
+YUG = "countries/Yugoslavia.txt"
 LIT	= "countries/Lithuania.txt"
 EST	= "countries/Estonia.txt"
 LAT	= "countries/Latvia.txt"
-LVO = "countries/Lvov Administration.txt"
-SPR = "countries/Spain.txt"
-ITA = "countries/Italy.txt"
+SOV = "countries/Soviet Union.txt"
 ROM = "countries/Romania.txt"
-MDV = "countries/Moldova.txt"
-YUG = "countries/Yugoslavia.txt"
-SER = "countries/Serbia.txt"
-SWI = "countries/Switzerland.txt"
 TUR = "countries/Turkey.txt"
-GRE = "countries/Greece.txt"
-ALB = "countries/Albania.txt"
-NOR = "countries/Norway.txt"
-DEN = "countries/Denmark.txt"
-BUL = "countries/Bulgaria.txt"
-POR = "countries/Portugal.txt"
-FIN = "countries/Finland.txt"
-IRE = "countries/Ireland.txt"
-HUN = "countries/Hungary.txt"
 AFG = "countries/Afghanistan.txt"
 ARG = "countries/Argentina.txt"
 AST = "countries/Australia.txt"

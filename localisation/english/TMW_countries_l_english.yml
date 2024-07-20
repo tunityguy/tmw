@@ -51,18 +51,10 @@
  CRO: "Republic of Croatia"
  CRO_DEF: "the Republic of Croatia"
  CRO_ADJ: "Croatian"
-
- CZE_ONLY: "Czech Autonomous Special Zone"
- CZE_ONLY_DEF: "the Czech Autonomous Special Zone"
- CZE_ONLY_ADJ: "Czech"
  
  # D
  
  # E
- ENG: "United Kingdom"
- ENG_DEF: "the United Kingdom"
- ENG_ADJ: "British"
-
  EGY: "Arab Republic of Egypt"
  EGY_DEF: "the Arab Republic of Egypt"
  EGY_ADJ: "Egyptian"
@@ -103,10 +95,6 @@
  ICE_DEF: "Iceland"
  ICE_ADJ: "Icelandic"
 
- IND: "Republic of India"
- IND_DEF: "the Republic of India"
- IND_ADJ: "Indian"
-
  INS: "Republic of Indonesia"
  INS_DEF: "the Republic of Indonesia"
  INS_ADJ: "Indonesian"
@@ -144,6 +132,10 @@
  
  
  # L
+ LIP: "Lipovanskaya Narodnaya Respublika"
+ LIP_DEF: "Lipovanskaya Narodnaya Respublika"
+ LIP_ADJ: "Lipovan"
+ 
  LAO: "Pathet Lao"
  LAO_DEF: "the Lao People's Democratic Republic"
  LAO_ADJ: "Lao"
@@ -166,9 +158,14 @@
  MDV_DEF: "Pridnestrovskaya Moldavskaya Respublika"
  MDV_ADJ: "Moldovan"
 
+
  MLD: "Republic of Maldives"
  MLD_DEF: "the Republic of Maldives"
- MLD_ADJ: "Maldive"
+ MLD_ADJ: "Maldivian"
+ 
+ MLO: "Malorossiya"
+ MLO_DEF: "Malorossiya"
+ MLO_ADJ: "Russian"
 
  MLT: "Republic of Malta"
  MLT_DEF: "the Republic of Malta"
@@ -212,10 +209,6 @@
  
  
  # R
- ROM: "Lipovanskaya Narodnaya Respublika"
- ROM_DEF: "Lipovanskaya Narodnaya Respublika"
- ROM_ADJ: "Lipovan"
-
  RUS: "Rossiyskaya Federatsiya"
  RUS_DEF: "Rossiyskaya Federatsiya"
  RUS_ADJ: "Russian"
@@ -232,10 +225,6 @@
  SER: "Republic of Serbia"
  SER_DEF: "the Republic of Serbia"
  SER_ADJ: "Serbian"
-
- THA: "Kingdom of Thailand"
- THA_DEF: "the Kingdom of Thailand"
- THA_ADJ: "Thai"
 
  SLV: "Republic of Slovenia"
  SLV_DEF: "the Republic of Slovenia"
@@ -276,10 +265,6 @@
 
  
  # U
- UKR: "Malorossiya"
- UKR_DEF: "Malorossiya"
- UKR_ADJ: "Russian"
-
  UZB: "Republic of Uzbekistan"
  UZB_DEF: "the Republic of Uzbekistan"
  UZB_ADJ: "Uzbekistani"
