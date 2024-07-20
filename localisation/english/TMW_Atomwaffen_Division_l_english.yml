@@ -1,0 +1,90 @@
+﻿l_english:
+
+# LOC INDEX
+# If you want to find anything - select a thing from the index below and press ctrl+f. The idea is not stolen from Calph, of course. Then copied by Storm for TFL
+#
+# Country Names - Starting
+AWD: "Atomwaffen Division"
+AWD_DEF: "the Atomwaffen Division"
+AWD_ADJ: "Atomwaffen"
+
+# Party names - Starting
+AWD_putinism_party: "AWD - NSRF"
+AWD_putinism_party_long: "Atomwaffen Division - National Socialist Resistance Front"
+# Country Names - Cosmetic Tags
+# Party names - Cosmetic Tags
+# Character names -
+# Ministers
+# Ideas
+# Modifiers
+# Country Desc
+# Leader Bios
+# Difficulty Decisions
+# Debug Decisions
+# Focuses
+#   Intro Tree
+#   Collab Pre-Uprising Tree 
+#   Collab Pre-ECW Tree
+#   VFDF Pre-ECW Tree
+#   Post-ECW collab tree
+#   Post-ECW VFDF tree
+#   Post-ECW VFDF tree
+#
+# Decisions
+# GUIs
+# Tooltips
+# Scripted Loc
+# Leader Traits
+# Opinion Modifiers
+# Wars - Names
+# Wars - Peace Popups and Flavors
+# Flags
+# Events
+# Domvile/Pre-Uprising Events
+# World Events
+# Inauguration Events
+
+############################
+# Country Names - Starting #
+############################
+##########################
+# Party names - Starting #
+##########################
+
+
+
+
+
+
+#############
+# Character names and desc #
+#############
+AWD_Brandon_Russell: "Brandon Russell"
+
+
+
+
+
+
+
+
+##Military
+
+#Collab
+
+# These Guys Don't Exist in Character Files
+
+
+
+
+
+# Generals
+
+
+
+
+# Admirals
+
+
+
+

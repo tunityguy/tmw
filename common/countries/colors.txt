@@ -1005,3 +1005,7 @@ ASL = {
 	color = rgb { 43 50 43 }
 	color_ui = rgb { 43 50 43 }
 }
+AWD = {
+	color = rgb { 64 27 81 }
+	color_ui = rgb { 64 27 81 }
+}
