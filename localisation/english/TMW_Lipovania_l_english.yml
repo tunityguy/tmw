@@ -1,0 +1,96 @@
+﻿l_english:
+ #Country Names
+ LIP_communist: "Balkan Commune"
+ LIP_communist_DEF: "the Balkan Commune"
+ LIP_socialist: "Republic of the Balkans"
+ LIP_socialist_DEF: "the Republic of the Balkans"
+ LIP_liberalism: "Republic of the Balkans"
+ LIP_liberalism_DEF: "the Republic of the Balkans"
+ LIP_progressivism: "Republic of the Balkans"
+ LIP_progressivism_DEF: "the Republic of the Balkans"
+ LIP_conservatism: "Republic of the Balkans"
+ LIP_conservatism_DEF: "the Republic of the Balkans"
+ LIP_liberal_conservatism: "Republic of the Balkans"
+ LIP_liberal_conservatism_DEF: "the Republic of the Balkans"
+ LIP_paternalism: "Republic of the Balkans"
+ LIP_paternalism_DEF: "the Republic of the Balkans"
+ LIP_despotism: "Republic of the Balkans"
+ LIP_despotism_DEF: "the Republic of the Balkans"
+ LIP_fascism: "Balkan State"
+ LIP_fascism_DEF: "the Balkan State"
+ LIP_national_socialism: "Balkan State"
+ LIP_national_socialism_DEF: "the Balkan State"
+ LIP_ultranationalism: "Republica Balcanilor"
+ LIP_ultranationalism_DEF: "the Republica Balcanilor"
+
+ LIP_communist_ADJ: "Balkan"
+ LIP_socialist_ADJ: "Balkan"
+ LIP_liberalism_ADJ: "Balkan"
+ LIP_progressivism_ADJ: "Balkan"
+ LIP_conservatism_ADJ: "Balkan"
+ LIP_liberal_conservatism_ADJ: "Balkan"
+ LIP_paternalism_ADJ: "Balkan"
+ LIP_despotism_ADJ: "Balkan"
+ LIP_fascism_ADJ: "Balkan"
+ LIP_national_socialism_ADJ: "Balkan"
+ LIP_ultranationalism_ADJ: "Balkan"
+
+ LIP_orgamilitar: "Provisional Balkan Government"
+ LIP_orgamilitar_DEF: "the Provisional Balkan Government"
+ LIP_orgamilitar_ADJ: "Balkan"
+
+ LIP_RUS: "Lipovanskaya Narodnaya Respublika"
+ LIP_RUS_DEF: "Lipovanskaya Narodnaya Respublika"
+ LIP_RUS_ADJ: "Lipovan"
+ 
+ ## National Focuses ##
+ # Initial Tree
+
+ ## Events ##
+
+ ## Decisions
+
+ #Parties
+ LIP_communist_party: "PCB"
+ LIP_communist_party_long: "Partidul Comunist Balcani"
+ LIP_socialist_party: "PPS"
+ LIP_socialist_party_long: "Partidul Popular Socialist"
+ LIP_progressivism_party: "PSD"
+ LIP_progressivism_party_long: "Partidul Social Democrat"
+ LIP_liberalism_party: "PNL"
+ LIP_liberalism_party_long: "Partidul Național Liberal"
+ LIP_conservatism_party: "FD"
+ LIP_conservatism_party_long: "Forța Dreptei"
+ LIP_liberal_conservatism_party: "PCB"
+ LIP_liberal_conservatism_party_long: "Partidul Conservator Balcanilor"
+ LIP_paternalism_party: "Orgamilitar"
+ LIP_paternalism_party_long: "Organizația Militară"
+ LIP_despotism_party: "PNB - Moderat"
+ LIP_despotism_party_long: "Partidul Naționalității Balcanice - Moderat"
+ LIP_fascism_party: "PNB - Mainstream"
+ LIP_fascism_party_long: "Partidul Naționalității Balcanice - Mainstream"
+ LIP_putinism_party: "PNB - Radical"
+ LIP_putinism_party_long: "Partidul Naționalității Balcanice - Radical"
+ LIP_ultranationalism_party: "RFSBB"
+ LIP_ultranationalism_party_long: "Rossiya-FSB Balkany"
+
+ LIP_fascism_simion_party: "Garda Nationala"
+ LIP_fascism_simion_party_long: "Garda Nationala"
+ LIP_putinism_simion_party: "Garda Nationala"
+ LIP_putinism_simion_party_long: "Garda Nationala"
+
+ LIP_post_milorg_paternalism_party: "Bp"
+ LIP_post_milorg_paternalism_party_long: "Bondepartiet"
+ 
+ #Leader Descriptions
+
+ #Ideas
+
+ #Tooltips
+
+ #Character loc
+ LIP_Silviu_Feodor: "Silviu Feodor"
+ 
+ #Generals
+
+ #Ministers

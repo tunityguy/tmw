@@ -1,0 +1,17 @@
+characters = {
+    HUN_Viktor_Orban = {
+        name = "HUN_Viktor_Orban"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/HUN/Portrait_Hungary_Viktor_Orban.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_VIKTOR_ORBAN_DESC"
+			ideology = paternalism_national_conservatism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

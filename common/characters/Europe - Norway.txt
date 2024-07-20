@@ -1,0 +1,17 @@
+characters = {
+    NOR_Haakon_VI = {
+        name = "NOR_Haakon_VI"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NOR/Portrait_Norway_Haakon_VI.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_MELONI_DESC"
+			ideology = paternalism_semi_constitutional_monarchy_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

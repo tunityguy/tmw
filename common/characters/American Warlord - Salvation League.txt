@@ -1,5 +1,5 @@
 characters = {
-    ASL_Colin_Powell = = {
+    ASL_Colin_Powell = {
         name = ASL_Colin_Powell
 		portraits = {
 			civilian = {

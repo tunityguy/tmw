@@ -1,4 +1,6 @@
-﻿capital = 9
+﻿recruit_character = CZE_Tomio_Okamura
+
+capital = 9
 
 if = {
 	limit = {
@@ -75,17 +77,22 @@ if = {
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = conservatism
-	last_election = "1935.5.19"
-	election_frequency = 60
-	elections_allowed = yes
+	ruling_party = despotism
+	last_election = "2030.5.5"
+	election_frequency = 48
+	elections_allowed = no
 }
 
 set_popularities = {
-	conservatism = 65
-	paternalism = 20
+	communist = 8
+	ultranationalism = 14
+	socialist = 4
+	progressivism = 6
+	liberal_conservatism = 16
+	conservatism = 0
+	paternalism = 15
+	despotism = 32
 	fascism = 5
-	communist = 10
 }
 
 

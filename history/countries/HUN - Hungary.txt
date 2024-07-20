@@ -1,4 +1,6 @@
-﻿capital = 43
+﻿recruit_character = HUN_Viktor_Orban
+
+capital = 43
 
 oob = "HUN_1936"
 if = {
@@ -261,29 +263,18 @@ if = {
 
 set_politics = {
 	ruling_party = paternalism
-	last_election = "1935.3.31"
+	last_election = "2030.4.3"
 	election_frequency = 48
 	elections_allowed = yes
 }
+
 set_popularities = {
-	conservatism = 25
-	fascism = 31
-	paternalism = 44
-}
-
-#Start Horty as neutral if DOD
-                                
-
-2999.1.1 = {
-	set_politics = {
-		ruling_party = fascism
-		last_election = "1939.5.29"
-		election_frequency = 48
-		elections_allowed = yes
-	}
-	set_popularities = {
-		conservatism = 27
-		fascism = 70
-		communist = 3
-	}
+	socialist = 7
+	progressivism = 19
+	liberalism = 13
+	liberal_conservatism = 12
+	conservatism = 10
+	paternalism = 34
+	fascism = 1
+	putinism = 4
 }

@@ -14,4 +14,19 @@ characters = {
 			id = -1
 		}
     }
+    CZE_Tomio_Okamura = {
+        name = "CZE_Tomio_Okamura"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CZE/Portrait_Czechia_Tomio_Okamura.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_TOMIO_OKAMURA_DESC"
+			ideology = despotism_civilian_dictatorship_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }	
 }

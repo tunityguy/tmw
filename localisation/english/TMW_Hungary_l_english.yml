@@ -1,0 +1,28 @@
+﻿l_english:
+
+#Leader Descriptions:
+
+#Character loc
+HUN_Viktor_Orban: "Viktor Orbán"
+
+#Party Names
+HUN_socialist_party: "MSZP"
+HUN_socialist_party_long: "Magyar Szocialista Párt"
+HUN_progressivism_party: "DK"
+HUN_progressivism_party_long: "Demokratikus Koalíció"
+HUN_liberalism_party: "Momentum"
+HUN_liberalism_party_long: "Momentum Mozgalom"
+HUN_liberal_conservatism_party: "HP - Light Blue"
+HUN_liberal_conservatism_party_long: "Högerpartiet - Light Blue"
+HUN_conservatism_party: "KDNP"
+HUN_conservatism_party_long: "Kereszténydemokrata Néppárt"
+HUN_paternalism_party: "Fidesz"
+HUN_paternalism_party_long: "Fidesz - Magyar Polgári Szövetség"
+HUN_fascism_party: "Mi Hazánk"
+HUN_fascism_party_long: "Mi Hazánk Mozgalom"
+HUN_putinism_party: "EM - Extreme-Ruscists"
+HUN_putinism_party_long: "Egységes Magyarország"
+
+#Ideas
+
+#Events

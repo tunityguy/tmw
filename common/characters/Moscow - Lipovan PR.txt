@@ -1,0 +1,17 @@
+characters = {
+    LIP_Silviu_Feodor = {
+        name = "LIP_Silviu_Feodor"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LIP/Portrait_Lipovania_Silviu_Feodor.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_SILVIU_FEODOR_DESC"
+			ideology = fascism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

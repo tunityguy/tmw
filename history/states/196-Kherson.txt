@@ -17,8 +17,6 @@ state={
 
 		}
 		add_core_of = RUS
-		add_core_of = UKR
-		add_core_of = CRI
 
 	}
 
