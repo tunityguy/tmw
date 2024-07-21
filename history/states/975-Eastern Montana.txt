@@ -1,8 +1,6 @@
-
 state={
 	id=975
 	name="STATE_975"
-
 	history={
 		owner = USA
 		buildings = {
@@ -15,12 +13,11 @@ state={
 		}
 
 	}
-
 	provinces={
-		1767 4759 4857 4860 4863 7760 7877 7880 7883 10587 10593 10624 10706 11712 12572 12585 
+		1767 4857 4860 4863 7760 7880 7883 10587 10593 10624 10706 11712 12572 12585 
 	}
 	manpower=267605
-	buildings_max_level_factor=1.000
 	state_category=rural
+	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
