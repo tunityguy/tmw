@@ -1013,3 +1013,7 @@ APF = {
     color = rgb { 161 145 172 }
 	color_ui = rgb { 161 145 172 }
 }
+MTR = {
+    color = rgb { 55 100 135 }
+	color_ui = rgb { 55 100 135 }
+}
