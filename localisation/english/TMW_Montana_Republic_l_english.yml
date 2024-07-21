@@ -1,0 +1,94 @@
+﻿l_english:
+
+# LOC INDEX
+# If you want to find anything - select a thing from the index below and press ctrl+f. The idea is not stolen from Calph, of course. Then copied by Storm for TFL
+#
+# Country Names - Starting
+MTR: "Montana Republic"
+MTR_DEF: "the Montana Republic"
+MTR_ADJ: "Montana"
+
+# Party names - Starting
+MTR_progressivism_party: "SDPM"
+MTR_progressivism_party_long: "Social Democratic Party of Montana"
+MTR_despotism_party: "VPM"
+MTR_despotism_party_long: "Visionary Party of Montana"
+MTR_liberalism_party: "DPM"
+MTR_liberalism_party_long: "Democratic Party of Montana"
+# Country Names - Cosmetic Tags
+# Party names - Cosmetic Tags
+# Character names -
+# Ministers
+# Ideas
+# Modifiers
+# Country Desc
+# Leader Bios
+# Difficulty Decisions
+# Debug Decisions
+# Focuses
+#   Intro Tree
+#   Collab Pre-Uprising Tree 
+#   Collab Pre-ECW Tree
+#   VFDF Pre-ECW Tree
+#   Post-ECW collab tree
+#   Post-ECW VFDF tree
+#   Post-ECW VFDF tree
+#
+# Decisions
+# GUIs
+# Tooltips
+# Scripted Loc
+# Leader Traits
+# Opinion Modifiers
+# Wars - Names
+# Wars - Peace Popups and Flavors
+# Flags
+# Events
+# Domvile/Pre-Uprising Events
+# World Events
+# Inauguration Events
+
+############################
+# Country Names - Starting #
+############################
+##########################
+# Party names - Starting #
+##########################
+
+
+
+
+
+
+#############
+# Character names and desc #
+#############
+MTR_Pete_Buttigieg: "Pete Buttigieg"
+
+
+
+
+
+
+
+
+##Military
+
+#Collab
+
+# These Guys Don't Exist in Character Files
+
+
+
+
+
+# Generals
+
+
+
+
+# Admirals
+
+
+
+
