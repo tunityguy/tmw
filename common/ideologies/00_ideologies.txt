@@ -228,6 +228,7 @@ ideologies = {
 			putinism_lvov_system_subtype = { can_be_randomly_selected = no }
 			putinism_spartanstvo_subtype = { can_be_randomly_selected = no }
 			putinism_putinism_subtype = { can_be_randomly_selected = no }
+			putinism_neo_nazism_subtype = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 50 33 30 }

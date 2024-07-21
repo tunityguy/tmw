@@ -3,12 +3,12 @@ characters = {
         name = AWD_Brandon_Russell
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/ASL/Portrait_Atomwaffen_Brandon_Russell.dds"
+				large = "gfx/leaders/AWD/Portrait_Atomwaffen_Brandon_Russell.dds"
 			}
 		}
 		country_leader = {
 			desc = "POLITICS_BRANDON_RUSSELL_DESC"
-			ideology = putinism_subtype
+			ideology = putinism_neo_nazism_subtype
 			traits = { }
 			expire = "2999.1.1.1"
 			id = -1

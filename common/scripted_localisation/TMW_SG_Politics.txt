@@ -772,6 +772,10 @@ defined_text = {
 		localization_key = putinism_rosenbergite_tendency_subtype
 	}
 	text = {
+		trigger = { has_country_leader_ideology = putinism_neo_nazism_subtype }
+		localization_key = putinism_neo_nazism_subtype
+	}
+	text = {
 		localization_key = putinism
 	}
 }
