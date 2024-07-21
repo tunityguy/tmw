@@ -1,0 +1,124 @@
+﻿l_english:
+ ### Country Names ###
+ SWE: "Kingdom of Sweden"
+ SWE_DEF: "the Kingdom of Sweden"
+ SWE_ADJ: "Swedish"
+
+ GMS: "Swedish State"
+ GMS_DEF: "the Swedish State"
+ GMS_ADJ: "Swedish"
+
+ ## Cosmetic Tags ##
+ SWE_POST_WAR: "People's Republic of Sweden"
+ SWE_POST_WAR_DEF: "the People's Republic of Sweden"
+
+ SWE_NLM: "National Liberation Movement of Sweden"
+ SWE_NLM_DEF: "the National Liberation Movement of Sweden"
+ 
+ SWE_ASNOS_POST_WAR_YOUNG_SOCIALISTS: "Republic of Sweden"
+ SWE_ASNOS_POST_WAR_YOUNG_SOCIALISTS_DEF: "the Republic of Sweden"
+
+ SWE_ASNOS_POST_WAR_YUGOSLAV: "People's Republic of Sweden"
+ SWE_ASNOS_POST_WAR_YUGOSLAV_DEF: "the People's Republic of Sweden"
+
+ SWE_SCANDINAVIA: "Federal People's Republic of the Scandinavia"
+ SWE_SCANDINAVIA_DEF: "the Federal People's Republic of the Scandinavia"
+ SWE_SCANDINAVIA_ADJ: "Balkan"
+
+ SWE_KINGDOM: "Kingdom of Sweden"
+ SWE_KINGDOM_DEF: "the Kingdom of Sweden"
+ 
+ SWE_JAKOV: "Swedish Class-Cooperative State"
+ SWE_JAKOV_DEF: "the Swedish Class-Cooperative State"
+ 
+ SWE_JOVANOVIC:  "Independent State of Sweden"
+ SWE_JOVANOVIC_DEF: "the Independent State of Sweden"
+ 
+ SWE_RUS: "Independent State of Sweden"
+ SWE_RUS_DEF: "the Independent State of Sweden"
+
+ GMS_COLLAB: "Government of National Salvation"
+ GMS_COLLAB_DEF: "the Government of National Salvation"
+
+ ### Party Names ###
+ SWE_communist_party: "SKP"
+ SWE_communist_party_long: "Sveriges Kommunistiska Partiet"
+ SWE_socialist_party: "Vänsterpartiet"
+ SWE_socialist_party_long: "Vänsterpartiet"
+ SWE_progressivism_party: "SAP"
+ SWE_progressivism_party_long: "Socialdemokratiska Arbetarpartiet"
+ SWE_liberalism_party: "Liberalerna"
+ SWE_liberalism_party_long: "Liberalerna"
+ SWE_conservatism_party: "KD"
+ SWE_conservatism_party_long: "Kristdemokraterna"
+ SWE_paternalism_party: "SD-M"
+ SWE_paternalism_party_long: "Sverigedemokraterna - Modererar"
+ SWE_despotism_party: "KR"
+ SWE_despotism_party_long: "Kings Royalister"
+ SWE_fascism_party: "AfS"
+ SWE_fascism_party_long: "Alternativ för Sverige"
+ SWE_putinism_party: "SD-H"
+ SWE_putinism_party_long: Sverigedemokraterna - Hardliners"
+ SWE_ultranationalism_party: "NMR"
+ SWE_ultranationalism_party_long: "Nordiska Motståndsrörelsen"
+
+ GMS_fascism_party: "SNG"
+ GMS_fascism_party_long: "Svenska Nationalgardet"
+ GMS_YR_putinism_party: "YR-S"
+ GMS_YR_putinism_party_long: "Yedina Rossiya"
+ GMS_putinism_party: "VAvS"
+ GMS_putinism_party_long: "Voyennaya Administratsiya v Shvetsii"
+ GMS_ultranationalism_party: "VNS"
+ GMS_ultranationalism_party_long: "Vlada Narodnog Spasa"
+
+ SWE_collab_despotism_party: "SNA"
+ SWE_collab_despotism_party_long: "Svenska Nationalarmén"
+ SWE_collab_fascism_party: "SSS"
+ SWE_collab_fascism_party_long: "Svenska Statens Säkerhet"
+ SWE_fascism_party_jonic: "VNS"
+ SWE_fascism_party_jonic_long: "Vlada Narodnog Spasa"
+
+ SWE_communist_party_NLM: "DAFSNB"
+ SWE_communist_party_NLM_long: "Den Antifascistiska Församlingen för Sveriges Nationella Befrielse"
+ SWE_despotism_party_NLM: "NKfSB"
+ SWE_despotism_party_NLM_long: "Nationella Kommittén för Sveriges Befrielse"
+ SWE_communist_party_scandinavia_SWE: "SNBAR"
+ SWE_communist_party_scandinavia_SWE_long: "Sveriges Nationella Befrielse Antifascistiska Råd"
+
+ SWE_communist_party_democratic: "SKP"
+ SWE_communist_party_democratic_long: "Sveriges Kommunistiska Partiet"
+ SWE_socialist_party_democratic: "Vänsterpartiet"
+ SWE_socialist_party_democratic_long: "Vänsterpartiet"
+ SWE_progressivism_party_democratic: "SAP"
+ SWE_progressivism_party_democratic_long: "Socialdemokratiska Arbetarpartiet"
+ SWE_liberalism_party_democratic: "SD-L"
+ SWE_liberalism_party_democratic_long: "Sverigedemokraterna - Liberaler"
+ SWE_liberal_conservatism_party_democratic: "SD-LD"
+ SWE_liberal_conservatism_party_democratic_long: "Sverigedemokraterna - Liberaldemokraterna"
+ SWE_conservatism_party_democratic: "SD-KD"
+ SWE_conservatism_party_democratic_long: "Sverigedemokrater - Kristdemokrater"
+ SWE_paternalism_party_democratic: "SRK"
+ SWE_paternalism_party_democratic_long: "Svenska Rikskonservativa"
+
+
+ SWE_otpor: "Otpor"
+ SWE_otpor_long: "Otpor"
+ SWE_communist_remnants: "Communist Remnants"
+ SWE_communist_remnants_long: "Communist Remnants"
+ SWE_chetniks_remnants: "Chetniks Remnants"
+ SWE_chetniks_remnants_long: "Chetniks Remnants"
+ SWE_hardliner_remnants: "Hardliner Remnants"
+ SWE_hardliner_remnants_long: "Hardliner Remnants"
+ SWE_socialist_vic_party: "SP"
+ SWE_socialist_vic_party_long: "Socialistpartiet"
+ SWE_paternalism_coalition_party: "SP-NK"
+ SWE_paternalism_coalition_party_long: "Socialistpartiet - Nationell Koalition"
+
+ ### Characters ###
+ SWE_Jimmie_Akesson: "Jimmie Åkesson"
+ 
+ ### Leader Descriptions ###
+ 
+ ### Ideas ###
+
+ #Debug decisions
