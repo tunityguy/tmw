@@ -1,0 +1,21 @@
+state={
+	id=974
+	name="STATE_974"
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = USA
+
+	}
+	provinces={
+		4510 7464 8110 10753 11717 12328 
+	}
+	manpower=0
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

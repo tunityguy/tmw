@@ -1,0 +1,17 @@
+characters = {
+    APF_Thomas_Rousseau = {
+        name = APF_Thomas_Rousseau
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/APF/Portrait_Patriot_Rousseau.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_THOMAS_ROUSSEAU_DESC"
+			ideology = fascism_corporatism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

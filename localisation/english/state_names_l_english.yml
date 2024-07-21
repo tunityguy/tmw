@@ -379,8 +379,8 @@
  STATE_367:0 "Alabama"
  STATE_368:0 "Tennessee"
  STATE_369:0 "Kentucky"
- STATE_370:0 "Mississippi"
- STATE_371:0 "Louisiana"
+ STATE_370:0 "Southern Mississippi"
+ STATE_371:0 "Southern Louisiana"
  STATE_372:0 "Arkansas"
  STATE_373:0 "Missouri"
  STATE_374:0 "Oklahoma"
@@ -987,4 +987,6 @@
  STATE_969: "Rio Branco"
  STATE_970: "Slavonia"
  STATE_971: "Albany"
-
+ STATE_972: "Northern Louisiana"
+ STATE_973: "Mobile"
+ STATE_974: "Northern Mississippi"

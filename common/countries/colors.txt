@@ -1009,3 +1009,7 @@ AWD = {
 	color = rgb { 64 27 81 }
 	color_ui = rgb { 64 27 81 }
 }
+APF = {
+    color = rgb { 161 145 172 }
+	color_ui = rgb { 161 145 172 }
+}

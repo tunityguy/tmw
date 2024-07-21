@@ -1,0 +1,28 @@
+state={
+	id=973
+	name="STATE_973"
+	history={
+		owner = AWD
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			7480 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = AWD
+		victory_points = {
+			7480 1 
+		}
+
+	}
+	provinces={
+		4756 7480 10520 
+	}
+	manpower=187041
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=3.000
+}

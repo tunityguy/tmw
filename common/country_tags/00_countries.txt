@@ -349,3 +349,4 @@ IAS = "countries/Isthmo Amerindia.txt"
 # AMERICAN WARLORDS
 ASL = "countries/Salvation League.txt"
 AWD = "countries/Atomwaffen Division.txt"
+APF = "countries/Patriot Front.txt"
