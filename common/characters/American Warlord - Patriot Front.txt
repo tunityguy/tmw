@@ -3,7 +3,7 @@ characters = {
         name = APF_Thomas_Rousseau
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/APF/Portrait_Patriot_Rousseau.dds"
+				large = "gfx/leaders/APF/Portrait_Patriot_Thomas_Rousseau.dds"
 			}
 		}
 		country_leader = {
