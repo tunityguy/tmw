@@ -397,7 +397,7 @@
  STATE_385:0 "Oregon"
  STATE_386:0 "Washington"
  STATE_387:0 "Idaho"
- STATE_388:0 "Montana"
+ STATE_388:0 "Western Montana"
  STATE_389:0 "North Dakota"
  STATE_390:0 "South Dakota"
  STATE_391:0 "Minnesota"
@@ -990,3 +990,4 @@
  STATE_972: "Northern Louisiana"
  STATE_973: "Mobile"
  STATE_974: "Northern Mississippi"
+ STATE_975: "Eastern Montana"
