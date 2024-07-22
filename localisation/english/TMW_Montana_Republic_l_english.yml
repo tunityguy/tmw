@@ -17,8 +17,12 @@ MTR_UNIFIED_putinism_ADJ: "American"
 # Party names - Starting
 MTR_progressivism_party: "SDPM"
 MTR_progressivism_party_long: "Social Democratic Party of Montana"
+
 MTR_despotism_party: "VPM"
 MTR_despotism_party_long: "Visionary Party of Montana"
+MTR_putinism_party: "SRUS - Q"
+MTR_putinism_party_long: "Society for the Revival of the United States - QAnon"
+
 MTR_liberalism_party: "DPM"
 MTR_liberalism_party_long: "Democratic Party of Montana"
 # Country Names - Cosmetic Tags
