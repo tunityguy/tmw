@@ -1,0 +1,17 @@
+characters = {
+    MTR_Pete_Buttigieg = {
+        name = MTR_Pete_Buttigieg
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/MTR/Portrait_Montana_Pete_Buttigieg.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_PETE_BUTTIGIEG_DESC"
+			ideology = progressivism_democratic_socialism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}
