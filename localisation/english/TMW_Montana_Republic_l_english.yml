@@ -7,6 +7,12 @@
 MTR: "Montana Republic"
 MTR_DEF: "the Montana Republic"
 MTR_ADJ: "Montana"
+MTR_UNIFIED: "United States of America"
+MTR_UNIFIED_DEF: "the United States of America"
+MTR_UNIFIED_ADJ: "American"
+MTR_UNIFIED_putinism: "Holy American States"
+MTR_UNIFIED_putinism_DEF: "the Holy American States"
+MTR_UNIFIED_putinism_ADJ: "American"
 
 # Party names - Starting
 MTR_progressivism_party: "SDPM"
