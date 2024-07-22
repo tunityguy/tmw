@@ -14,6 +14,22 @@ characters = {
 			id = -1
 		}
     }
+	
+	MTR_Hal_Turner = {
+        name = MTR_Hal_Turner
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/MTR/Portrait_Montana_Hal_Turner.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_HAL_TURNER_DESC"
+			ideology = despotism_atlanticism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
 	MTR_Ron_Watkins = {
         name = MTR_Ron_Watkins
 		portraits = {

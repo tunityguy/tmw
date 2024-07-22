@@ -214,6 +214,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/putinism_clerical_ruscism_subtype.dds"
 	}
 	spriteType = {
+		name = "GFX_ideology_despotism_atlanticism_subtype"
+		texturefile = "gfx/interface/ideologies/despotism_atlanticism_subtype.dds"
+	}
+	spriteType = {
 		name = "GFX_ideology_putinism_putinism_subtype"
 		texturefile = "gfx/interface/ideologies/putinism_putinism_subtype.dds"
 	}
