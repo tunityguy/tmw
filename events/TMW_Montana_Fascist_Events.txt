@@ -1,0 +1,27 @@
+﻿add_namespace = montana_lvovsys
+
+country_event = { #WATKINS' REVEAL
+	id = montana_lvovsys.420
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event montana_lvovsys.420"
+	}
+	title = montana_lvovsys.420.t
+	desc = montana_lvovsys.420.d
+	picture = GFX_report_event_generic_gas_mask_soldier
+
+	is_triggered_only = yes
+
+	option = {
+		name = montana_lvovsys.420.a
+		add_popularity = {
+			ideology = putinism
+			popularity = 0.4
+		}
+		set_country_leader_ideology = putinism_qanon_cultism_subtype
+		MTR_Ron_Watkins = {
+			set_portraits = {
+				civilian = { large = "gfx/leaders/MTR/Portrait_Montana_Ron_Watkins_SCHIZO.dds" }
+			}
+		}
+	}
+}
