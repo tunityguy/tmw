@@ -14,4 +14,19 @@ characters = {
 			id = -1
 		}
     }
+	MTR_Ron_Watkins = {
+        name = MTR_Ron_Watkins
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/MTR/Portrait_Montana_Ron_Watkins.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_RON_WATKINS_DESC"
+			ideology = putinism_clerical_fascism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
 }

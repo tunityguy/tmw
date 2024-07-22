@@ -9,6 +9,7 @@ set_technology = {
 set_convoys = 20
 
 recruit_character = MTR_Pete_Buttigieg
+recruit_character = MTR_Ron_Watkins
 
 set_politics = {
 	ruling_party = progressivism
