@@ -7,6 +7,9 @@
 AWD: "Atomwaffen Division"
 AWD_DEF: "the Atomwaffen Division"
 AWD_ADJ: "Atomwaffen"
+AWD_UNIFIED: "Union of National Socialist States"
+AWD_UNIFIED_DEF: "the Union of National Socialist States"
+AWD_UNIFIED_ADJ: "Neo-Nazi"
 
 # Party names - Starting
 AWD_putinism_party: "AWD - NSRF"
