@@ -728,8 +728,8 @@ defined_text = {
 		localization_key = putinism_idiosyncratic_nazism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = putinism_clerical_fascism_subtype }
-		localization_key = putinism_clerical_fascism_subtype
+		trigger = { has_country_leader_ideology = putinism_clerical_ruscism_subtype }
+		localization_key = putinism_clerical_ruscism_subtype
 	}
 	text = {
 		trigger = { has_country_leader_ideology = putinism_stratocratic_nazism_subtype }
