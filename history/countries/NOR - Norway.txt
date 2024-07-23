@@ -242,12 +242,11 @@ set_popularities = {
 	socialist = 0
 	progressivism = 3
 	liberalism = 7
-
 	conservatism = 17
 	paternalism = 38
 	despotism = 20
 	fascism = 5
-	national_socialism = 10
+	putinism = 10
 }
 
 2999.1.1 = {

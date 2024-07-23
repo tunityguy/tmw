@@ -1,0 +1,17 @@
+characters = {
+    SPR_Alberto_Nunez_Feijoo = {
+        name = "SPR_Alberto_Nunez_Feijoo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/Portrait_Spain_Alberto_Nunez_Feijoo.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ALBERTO_NUNEZ_FEIJOO_DESC"
+			ideology = conservatism_paternalistic_conservatism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}

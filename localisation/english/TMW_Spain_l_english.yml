@@ -1,0 +1,39 @@
+﻿l_english:
+ ### Country Names ###
+ SPR: "Kingdom of Spain"
+ SPR_DEF: "the Kingdom of Spain"
+ SPR_ADJ: "Spanish"
+
+ ### Party Names ###
+ SPR_communist_party: "PCTE"
+ SPR_communist_party_long: "Partido Comunista de los Trabajadores de España"
+ SPR_socialist_party: "PSOE"
+ SPR_socialist_party_long: "Partido Socialista Obrero Español"
+ SPR_progressivism_party: "Sumar"
+ SPR_progressivism_party_long: "Sumar"
+ SPR_progressivism_1_party: "Podemos"
+ SPR_progressivism_1_party_long: "Podemos"
+ SPR_liberalism_party: "Ciudadanos"
+ SPR_liberalism_party_long: "Ciudadanos"
+ SPR_conservatism_party: "PP"
+ SPR_conservatism_party_long: "Partido Popular"
+ SPR_paternalism_party: "Vox"
+ SPR_paternalism_party_long: "Vox"
+ SPR_despotism_party: "E-2000"
+ SPR_despotism_party_long: "España 2000"
+ SPR_fascism_party: "AES"
+ SPR_fascism_party_long: "Alternativa Española"
+ SPR_putinism_party: "PxL"
+ SPR_putinism_party_long: Partido por la Libertad"
+ SPR_ultranationalism_party: "AN"
+ SPR_ultranationalism_party_long: "Alianza Nacional"
+
+
+ ### Characters ###
+ SPR_Alberto_Nunez_Feijoo: "Alberto Núñez Feijoo"
+ 
+ ### Leader Descriptions ###
+ 
+ ### Ideas ###
+
+ #Debug decisions

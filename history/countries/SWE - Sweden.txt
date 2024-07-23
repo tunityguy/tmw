@@ -1,4 +1,6 @@
-﻿capital = 141	
+﻿recruit_character = SWE_Jimmie_Akesson
+
+capital = 141	
 
 #add_opinion_modifier = { target = GER modifier = GER_SWE_historic_trade_Partners } CUT
 oob = "SWE_1936"
@@ -273,16 +275,18 @@ if = {
 }
 
 set_politics = {
-	ruling_party = conservatism
-	last_election = "1932.9.18"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = putinism
+	last_election = "2031.5.8"
+	election_frequency = 36
+	elections_allowed = no
 }
+
 set_popularities = {
-	conservatism = 75
-	paternalism = 14
-	communist = 8
-	fascism = 3
+	communist = 15
+	socialist = 9
+	paternalism = 18
+	despotism = 24
+	putinism = 34
 }
 
 2999.1.1 = {

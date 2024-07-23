@@ -1,17 +1,23 @@
-﻿capital = 41
+﻿recruit_character = SPR_Alberto_Nunez_Feijoo
+
+capital = 41
 
 oob = "SPR_1936"
 
 set_popularities = {
-	conservatism = 41
-	fascism = 37
-	communist = 7
-	paternalism = 15
+	communist = 5
+	socialist = 8
+	progressivism_1 = 12
+	progressivism = 14
+	conservatism = 38
+	paternalism = 11
+	fascism = 7
+	putinism = 5
 }
 
 set_politics = {
 	ruling_party = conservatism
-	last_election = "1933.2.16"
+	last_election = "2031.8.25"
 	election_frequency = 36
 	elections_allowed = yes
 }

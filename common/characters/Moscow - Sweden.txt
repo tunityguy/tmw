@@ -1,0 +1,17 @@
+characters = {
+    SWE_Jimmie_Akesson = {
+        name = "SWE_Jimmie_Akesson"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SWE/Portrait_Sweden_Jimmie_Akesson.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_JIMMIE_AKESSON_DESC"
+			ideology = putinism_clerical_ruscism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}
