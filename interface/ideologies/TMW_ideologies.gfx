@@ -170,14 +170,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_ordosocialism_subtype.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_despotism_eurasianism_subtype"
-		texturefile = "gfx/interface/ideologies/despotism_eurasianism_subtype.dds"
-	}
-	spriteType = {
-		name = "GFX_ideology_ultranationalism_eurasianism_subtype"
-		texturefile = "gfx/interface/ideologies/ultranationalism_eurasianism_subtype.dds"
-	}
-	spriteType = {
 		name = "GFX_ideology_paternalism_dixiecrat_subtype"
 		texturefile = "gfx/interface/ideologies/paternalism_dixiecrat_subtype.dds"
 	}

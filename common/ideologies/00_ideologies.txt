@@ -328,7 +328,6 @@ ideologies = {
 			ultranationalism_subtype = {}
 
 			ultranationalism_slavo_aryanism_subtype = { can_be_randomly_selected = no }
-			ultranationalism_eurasianism_subtype = { can_be_randomly_selected = no }
 			ultranationalism_ultramilitarism_subtype = { can_be_randomly_selected = no }
 			ultranationalism_fundamentalism_subtype = { can_be_randomly_selected = no }
 			ultranationalism_esoteric_despotism_subtype = { can_be_randomly_selected = no }
@@ -373,7 +372,6 @@ ideologies = {
 			despotism_military_junta_subtype = { can_be_randomly_selected = no }
 			despotism_civilian_dictatorship_subtype = { can_be_randomly_selected = no }
 			despotism_theocracy_subtype = { can_be_randomly_selected = no }
-			despotism_eurasianism_subtype = { can_be_randomly_selected = no }
 			despotism_papacy_subtype = { can_be_randomly_selected = no }
 			despotism_interim_government_subtype = { can_be_randomly_selected = no }
 			despotism_colonial_government_subtype = { can_be_randomly_selected = no }

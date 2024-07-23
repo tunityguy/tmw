@@ -539,10 +539,6 @@ defined_text = {
 		localization_key = despotism_aristocratic_conservatism_subtype
 	}
 	text = {
-		trigger = { has_country_leader_ideology = despotism_eurasianism_subtype }
-		localization_key = despotism_eurasianism_subtype
-	}
-	text = {
 		trigger = { has_country_leader_ideology = despotism_warlordism_subtype }
 		localization_key = despotism_warlordism_subtype
 	}
@@ -592,10 +588,6 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = ultranationalism_slavo_aryanism_subtype }
 		localization_key = ultranationalism_slavo_aryanism_subtype
-	}
-	text = {
-		trigger = { has_country_leader_ideology = ultranationalism_eurasianism_subtype }
-		localization_key = ultranationalism_eurasianism_subtype
 	}
 	text = {
 		trigger = { has_country_leader_ideology = ultranationalism_ultramilitarism_subtype }
