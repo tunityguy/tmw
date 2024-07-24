@@ -133,7 +133,9 @@ set_politics = {
 
 set_popularities = {
 	communist = 0
-	despotism = 60
+	despotism_1 = 15
+	despotism = 25
+	despotism_3 = 20
 	socialist = 0
 	progressivism = 0
 	liberalism = 0

@@ -470,6 +470,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_neoruscism_subtype.dds"
 	}
 	spriteType = {
+		name = "GFX_ideology_fascism_ruscism_subtype"
+		texturefile = "gfx/interface/ideologies/fascism_ruscism_subtype.dds"
+	}
+	spriteType = {
 		name = "GFX_ideology_fascism_falangism_subtype"
 		texturefile = "gfx/interface/ideologies/fascism_falangism_subtype.dds"
 	}

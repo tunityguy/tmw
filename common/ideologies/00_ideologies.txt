@@ -272,6 +272,7 @@ ideologies = {
 			fascism_subtype = {}
 
 			fascism_corporatism_subtype = { can_be_randomly_selected = no }
+			fascism_ruscism_subtype = { can_be_randomly_selected = no }
 			fascism_corporate_statism_subtype = { can_be_randomly_selected = no }
 			fascism_sansepolcrismo_subtype = { can_be_randomly_selected = no }
 			fascism_ruscist_mysticism_subtype = { can_be_randomly_selected = no }

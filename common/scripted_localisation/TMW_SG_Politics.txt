@@ -621,6 +621,10 @@ defined_text = {
 		localization_key = fascism_corporatism_subtype
 	}
 	text = {
+		trigger = { has_country_leader_ideology = fascism_ruscism_subtype }
+		localization_key = fascism_ruscism_subtype
+	}
+	text = {
 		trigger = { has_country_leader_ideology = fascism_sansepolcrismo_subtype }
 		localization_key = fascism_sansepolcrismo_subtype
 	}
