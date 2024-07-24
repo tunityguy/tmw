@@ -540,7 +540,7 @@
  STATE_528:0 "Kyushu"
  STATE_529:0 "Chugoku"
  STATE_530:0 "Shikoku"
- STATE_531:0 "Kansai"
+ STATE_531:0 "Southern Kansai"
  STATE_532:0 "Tokai"
  STATE_533:0 "Tohoku"
  STATE_534:0 "Hokuriku"
@@ -991,3 +991,4 @@
  STATE_973: "Mobile"
  STATE_974: "Northern Mississippi"
  STATE_975: "Eastern Montana"
+ STATE_976: "Northern Kansai"

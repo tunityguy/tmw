@@ -992,6 +992,10 @@ SUD = {
 	color = rgb { 110 180 130 }
 	color_ui = rgb { 110 180 130 }
 }
+OSK = {
+    color = rgb { 122 46 65 }
+	color_ui = rgb { 122 46 65 }
+}
 # American Warlord States
 ASL = {
 	color = rgb { 43 50 43 }
