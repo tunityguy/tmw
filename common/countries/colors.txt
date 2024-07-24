@@ -117,10 +117,6 @@ MDV = {
 	color = rgb { 92 125 115 }
 	color_ui = rgb { 92 125 115 }
 }
-YUG = {
-	color = rgb { 49 71 104 }
-	color_ui = rgb { 49 71 104 }
-}
 SWI = {
 	color = rgb { 145 50 50 }
 	color_ui = rgb { 145 50 50 }
@@ -485,10 +481,6 @@ MNT = {
 BLR = {
 	color = rgb { 180 220 190 }
 	color_ui = rgb { 180 220 190 }
-}
-MAN = {
-	color = rgb { 255 120 71 }
-	color_ui = rgb { 255 120 71 }
 }
 ANG = {
 	color = rgb { 37 140 61 }
