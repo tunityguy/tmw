@@ -73,3 +73,4 @@ add_to_faction = BRM
 add_to_faction = MAL
 add_to_faction = SRL
 add_to_faction = RYU
+add_to_faction = OSK
