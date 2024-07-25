@@ -8,6 +8,8 @@ set_fuel_ratio = 1.0
 add_ideas = {
 }
 
+recruit_character = OSK_Hui_Ka_Yan
+
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1

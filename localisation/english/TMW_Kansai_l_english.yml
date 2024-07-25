@@ -9,7 +9,20 @@ OSK_DEF: "the State of Kansai"
 OSK_ADJ: "Kansai"
 
 # Party names - Starting
-
+OSK_fascism_party: "Guanxi Minzhengfu"
+OSK_fascism_party_long: "Guanxi Minzhengfu"
+OSK_despotism_party: "Lifaweiyuan Houei - EVG"
+OSK_despotism_party_long: "Lifaweiyuan Houei - Evergrande"
+OSK_despotism_1_party: "Lifaweiyuan Houei - MI"
+OSK_despotism_1_party_long: "Lifaweiyuan Houei - Xiaomi"
+OSK_despotism_2_party: "Lifaweiyuan Houei - HUW"
+OSK_despotism_2_party_long: "Lifaweiyuan Houei - Huawei"
+OSK_paternalism_party: "Lifaweiyuan Houei - TNC"
+OSK_paternalism_party_long: "Lifaweiyuan Houei - Tencent"
+OSK_ALIBABA_party: "Lifaweiyuan Houei - ALI"
+OSK_ALIBABA_party_long: "Lifaweiyuan Houei - Alibaba"
+OSK_ultranationalism_party: "PLA - Martial Law"
+OSK_ultranationalism_party_long: "People's Liberation Army - Martial Law"
 
 # Country Names - Cosmetic Tags
 # Party names - Cosmetic Tags
@@ -59,7 +72,7 @@ OSK_ADJ: "Kansai"
 #############
 # Character names and desc #
 #############
-
+OSK_Hui_Ka_Yan: "Hui Ka Yan"
 
 
 

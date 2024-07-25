@@ -1,0 +1,17 @@
+characters = {
+    OSK_Hui_Ka_Yan = {
+        name = "OSK_Hui_Ka_Yan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/OSK/Portrait_Kansai_Hui_Ka_Yan.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_HUI_KA_YAN_DESC"
+			ideology = fascism_corporate_statism_subtype
+			traits = { }
+			expire = "2999.1.1.1"
+			id = -1
+		}
+    }
+}
